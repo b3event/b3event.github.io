@@ -5,6 +5,7 @@
     <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
     <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
     <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
+    <link rel="preload" as="image" href="https://b3event.github.io/apple-touch-icon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -127,8 +128,9 @@ body {
 <img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75">
 <h2 class="headertekst">Sangtani & Kalva Reception Seating</h2>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type your last name..." title="Type your last name">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type your last name..." title="Search by your last name">
       
+    
 <table id="myTable">
 <thead>
   <tr class="header">
@@ -144,768 +146,769 @@ body {
     <td data-label="Table Number">27</td>
   </tr>
   <tr>
-    <td>Athmakuri</td>
-    <td>Amritha</td>
-    <td>26</td>
+    <td data-label="Last Name">Athmakuri</td>
+    <td data-label="Family Details">Amritha</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Avasarala</td>
-    <td>Pantulu, Sudha</td>
-    <td>20</td>
+    <td data-label="Last Name">Avasarala</td>
+    <td data-label="Family Details">Pantulu, Sudha</td>
+    <td data-label="Table Number">20</td>
   </tr>
   <tr>
-    <td>Badlani</td>
-    <td>Ajay, Bindu</td>
-    <td>33</td>
+    <td data-label="Last Name">Badlani</td>
+    <td data-label="Family Details">Ajay, Bindu</td>
+    <td data-label="Table Number">33</td>
   </tr>
   <tr>
-    <td>Bajaj</td>
-    <td>Rajpal, Pinky + 2</td>
-    <td>23</td>
+    <td data-label="Last Name">Bajaj</td>
+    <td data-label="Family Details">Rajpal, Pinky + 2</td>
+    <td data-label="Table Number">23</td>
   </tr>
   <tr>
-    <td>Bhog</td>
-    <td>Vishnu (Lalit's Dad)</td>
-    <td>3</td>
+    <td data-label="Last Name">Bhog</td>
+    <td data-label="Family Details">Vishnu (Lalit's Dad)</td>
+    <td data-label="Table Number">3</td>
   </tr>
   <tr>
-    <td>Bhog</td>
-    <td>Lalit, Mona</td>
-    <td>5</td>
+    <td data-label="Last Name">Bhog</td>
+    <td data-label="Family Details">Lalit, Mona</td>
+    <td data-label="Table Number">5</td>
   </tr>
   <tr>
-    <td>Bhog</td>
-    <td>Radhika, Shain</td>
-    <td>13</td>
+    <td data-label="Last Name">Bhog</td>
+    <td data-label="Family Details">Radhika, Shain</td>
+    <td data-label="Table Number">13</td>
   </tr>
   <tr>
-    <td>Bhog</td>
-    <td>Vasu</td>
-    <td>21</td>
+    <td data-label="Last Name">Bhog</td>
+    <td data-label="Family Details">Vasu</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Bhoopathi</td>
-    <td>Arvind, Saritha+1</td>
-    <td>19</td>
+    <td data-label="Last Name">Bhoopathi</td>
+    <td data-label="Family Details">Arvind, Saritha+1</td>
+    <td data-label="Table Number">19</td>
   </tr>
   <tr>
-    <td>Burke</td>
-    <td>Kaitlyn</td>
-    <td>17</td>
+    <td data-label="Last Name">Burke</td>
+    <td data-label="Family Details">Kaitlyn</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Chandra</td>
-    <td>Abhishek</td>
-    <td>26</td>
+    <td data-label="Last Name">Chandra</td>
+    <td data-label="Family Details">Abhishek</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Chennuru</td>
-    <td>Anil</td>
-    <td>32</td>
+    <td data-label="Last Name">Chennuru</td>
+    <td data-label="Family Details">Anil</td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Chetan</td>
-    <td>Durga</td>
-    <td>30</td>
+    <td data-label="Last Name">Chetan</td>
+    <td data-label="Family Details">Durga</td>
+    <td data-label="Table Number">30</td>
   </tr>
   <tr>
-    <td>Chittajallu</td>
-    <td>Kalpana, Nithisha </td>
-    <td>32</td>
+    <td data-label="Last Name">Chittajallu</td>
+    <td data-label="Family Details">Kalpana, Nithisha </td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Chopra</td>
-    <td>Rick, Shelley</td>
-    <td>10</td>
+    <td data-label="Last Name">Chopra</td>
+    <td data-label="Family Details">Rick, Shelley</td>
+    <td data-label="Table Number">10</td>
   </tr>
   <tr>
-    <td>Dasari</td>
-    <td>Pranav</td>
-    <td>26</td>
+    <td data-label="Last Name">Dasari</td>
+    <td data-label="Family Details">Pranav</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Dasari</td>
-    <td>Krishn</td>
-    <td>26</td>
+    <td data-label="Last Name">Dasari</td>
+    <td data-label="Family Details">Krishn</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Dasari </td>
-    <td>Kalyan, Sudha </td>
-    <td>4</td>
+    <td data-label="Last Name">Dasari </td>
+    <td data-label="Family Details">Kalyan, Sudha </td>
+    <td data-label="Table Number">4</td>
   </tr>
   <tr>
-    <td>Desai </td>
-    <td>Baijun</td>
-    <td>14</td>
+    <td data-label="Last Name">Desai </td>
+    <td data-label="Family Details">Baijun</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Deshpande</td>
-    <td>Rohit, Nutan</td>
-    <td>32</td>
+    <td data-label="Last Name">Deshpande</td>
+    <td data-label="Family Details">Rohit, Nutan</td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Divekar</td>
-    <td>Shiva, Jyoti</td>
-    <td>31</td>
+    <td data-label="Last Name">Divekar</td>
+    <td data-label="Family Details">Shiva, Jyoti</td>
+    <td data-label="Table Number">31</td>
   </tr>
   <tr>
-    <td>Doshi</td>
-    <td>Ami + 1</td>
-    <td>36</td>
+    <td data-label="Last Name">Doshi</td>
+    <td data-label="Family Details">Ami + 1</td>
+    <td data-label="Table Number">36</td>
   </tr>
   <tr>
-    <td>Durga</td>
-    <td>Vidya</td>
-    <td>30</td>
+    <td data-label="Last Name">Durga</td>
+    <td data-label="Family Details">Vidya</td>
+    <td data-label="Table Number">30</td>
   </tr>
   <tr>
-    <td>Erulappan</td>
-    <td>Senthil + 3</td>
-    <td>28</td>
+    <td data-label="Last Name">Erulappan</td>
+    <td data-label="Family Details">Senthil + 3</td>
+    <td data-label="Table Number">28</td>
   </tr>
   <tr>
-    <td>Gannamraj</td>
-    <td>Venkat</td>
-    <td>35</td>
+    <td data-label="Last Name">Gannamraj</td>
+    <td data-label="Family Details">Venkat</td>
+    <td data-label="Table Number">35</td>
   </tr>
   <tr>
-    <td>Gulati</td>
-    <td>Rishab, Aditi</td>
-    <td>27</td>
+    <td data-label="Last Name">Gulati</td>
+    <td data-label="Family Details">Rishab, Aditi</td>
+    <td data-label="Table Number">27</td>
   </tr>
   <tr>
-    <td>Gulhane</td>
-    <td>Pawan, Shrayu, Kids</td>
-    <td>9</td>
+    <td data-label="Last Name">Gulhane</td>
+    <td data-label="Family Details">Pawan, Shrayu, Kids</td>
+    <td data-label="Table Number">9</td>
   </tr>
   <tr>
-    <td>Gulrajani</td>
-    <td>Ashok, Avisha</td>
-    <td>33</td>
+    <td data-label="Last Name">Gulrajani</td>
+    <td data-label="Family Details">Ashok, Avisha</td>
+    <td data-label="Table Number">33</td>
   </tr>
   <tr>
-    <td>Gupta</td>
-    <td>Vikram</td>
-    <td>11</td>
+    <td data-label="Last Name">Gupta</td>
+    <td data-label="Family Details">Vikram</td>
+    <td data-label="Table Number">11</td>
   </tr>
   <tr>
-    <td>Gutierrez </td>
-    <td>Giselle A Sanroman</td>
-    <td>14</td>
+    <td data-label="Last Name">Gutierrez </td>
+    <td data-label="Family Details">Giselle A Sanroman</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Iyer</td>
-    <td>Purnima</td>
-    <td>6</td>
+    <td data-label="Last Name">Iyer</td>
+    <td data-label="Family Details">Purnima</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Jain</td>
-    <td>Kiran, Rinku+1</td>
-    <td>12</td>
+    <td data-label="Last Name">Jain</td>
+    <td data-label="Family Details">Kiran, Rinku+1</td>
+    <td data-label="Table Number">12</td>
   </tr>
   <tr>
-    <td>Jain</td>
-    <td>Vinshu, Vivek, Kid</td>
-    <td>30</td>
+    <td data-label="Last Name">Jain</td>
+    <td data-label="Family Details">Vinshu, Vivek, Kid</td>
+    <td data-label="Table Number">30</td>
   </tr>
   <tr>
-    <td>Jayraman</td>
-    <td>Priya</td>
-    <td>36</td>
+    <td data-label="Last Name">Jayraman</td>
+    <td data-label="Family Details">Priya</td>
+    <td data-label="Table Number">36</td>
   </tr>
   <tr>
-    <td>Jarkani</td>
-    <td>Ashok</td>
-    <td>33</td>
+    <td data-label="Last Name">Jarkani</td>
+    <td data-label="Family Details">Ashok</td>
+    <td data-label="Table Number">33</td>
   </tr>
   <tr>
-    <td>Kabir</td>
-    <td>Raza, Sadia, Kids(2)</td>
-    <td>27</td>
+    <td data-label="Last Name">Kabir</td>
+    <td data-label="Family Details">Raza, Sadia, Kids(2)</td>
+    <td data-label="Table Number">27</td>
   </tr>
   <tr>
-    <td>Kalavakolanu</td>
-    <td>Bala, Rama</td>
-    <td>29</td>
+    <td data-label="Last Name">Kalavakolanu</td>
+    <td data-label="Family Details">Bala, Rama</td>
+    <td data-label="Table Number">29</td>
   </tr>
   <tr>
-    <td>Kalva</td>
-    <td>Srinivas, Padma, Sruti</td>
-    <td>2</td>
+    <td data-label="Last Name">Kalva</td>
+    <td data-label="Family Details">Srinivas, Padma, Sruti</td>
+    <td data-label="Table Number">2</td>
   </tr>
   <tr>
-    <td>Kalva</td>
-    <td>Satyendra, Malika</td>
-    <td>2</td>
+    <td data-label="Last Name">Kalva</td>
+    <td data-label="Family Details">Satyendra, Malika</td>
+    <td data-label="Table Number">2</td>
   </tr>
   <tr>
-    <td>Kalva</td>
-    <td>Sameer</td>
-    <td>26</td>
+    <td data-label="Last Name">Kalva</td>
+    <td data-label="Family Details">Sameer</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Kalva</td>
-    <td>Srujan</td>
-    <td>26</td>
+    <td data-label="Last Name">Kalva</td>
+    <td data-label="Family Details">Srujan</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Kanuparthi</td>
-    <td>Raj, Vijaya</td>
-    <td>12</td>
+    <td data-label="Last Name">Kanuparthi</td>
+    <td data-label="Family Details">Raj, Vijaya</td>
+    <td data-label="Table Number">12</td>
   </tr>
   <tr>
-    <td>Kargod</td>
-    <td>Madhusudan, Neeru</td>
-    <td>19</td>
+    <td data-label="Last Name">Kargod</td>
+    <td data-label="Family Details">Madhusudan, Neeru</td>
+    <td data-label="Table Number">19</td>
   </tr>
   <tr>
-    <td>Kaur</td>
-    <td>Avneet</td>
-    <td>35</td>
+    <td data-label="Last Name">Kaur</td>
+    <td data-label="Family Details">Avneet</td>
+    <td data-label="Table Number">35</td>
   </tr>
   <tr>
-    <td>Khan</td>
-    <td>Humah</td>
-    <td>14</td>
+    <td data-label="Last Name">Khan</td>
+    <td data-label="Family Details">Humah</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Khosla</td>
-    <td>Kapil</td>
-    <td>15</td>
+    <td data-label="Last Name">Khosla</td>
+    <td data-label="Family Details">Kapil</td>
+    <td data-label="Table Number">15</td>
   </tr>
   <tr>
-    <td>Khosla</td>
-    <td>Nidhi</td>
-    <td>17</td>
+    <td data-label="Last Name">Khosla</td>
+    <td data-label="Family Details">Nidhi</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Khosla</td>
-    <td>Nikuj</td>
-    <td>17</td>
+    <td data-label="Last Name">Khosla</td>
+    <td data-label="Family Details">Nikunj</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Kinny</td>
-    <td>Alan, Shubha</td>
-    <td>23</td>
+    <td data-label="Last Name">Kinny</td>
+    <td data-label="Family Details">Alan, Shubha</td>
+    <td data-label="Table Number">23</td>
   </tr>
   <tr>
-    <td>Konda</td>
-    <td>Anand, Rajani</td>
-    <td>18</td>
+    <td data-label="Last Name">Konda</td>
+    <td data-label="Family Details">Anand, Rajani</td>
+    <td data-label="Table Number">18</td>
   </tr>
   <tr>
-    <td>Kosuru</td>
-    <td>Madhav, Jaya, Deepa</td>
-    <td>34</td>
+    <td data-label="Last Name">Kosuru</td>
+    <td data-label="Family Details">Madhav, Jaya, Deepa</td>
+    <td data-label="Table Number">34</td>
   </tr>
   <tr>
-    <td>Kotwani</td>
-    <td>Ravi</td>
-    <td>3</td>
+    <td data-label="Last Name">Kotwani</td>
+    <td data-label="Family Details">Ravi</td>
+    <td data-label="Table Number">3</td>
   </tr>
   <tr>
-    <td>Krummen</td>
-    <td>Christy, Mark</td>
-    <td>11</td>
+    <td data-label="Last Name">Krummen</td>
+    <td data-label="Family Details">Christy, Mark</td>
+    <td data-label="Table Number">11</td>
   </tr>
   <tr>
-    <td>Kukreja</td>
-    <td>Rajesh, Lata</td>
-    <td>33</td>
+    <td data-label="Last Name">Kukreja</td>
+    <td data-label="Family Details">Rajesh, Lata</td>
+    <td data-label="Table Number">33</td>
   </tr>
   <tr>
-    <td>Kumar</td>
-    <td>Kiran &amp; Family</td>
-    <td>20</td>
+    <td data-label="Last Name">Kumar</td>
+    <td data-label="Family Details">Kiran &amp; Family</td>
+    <td data-label="Table Number">20</td>
   </tr>
   <tr>
-    <td>Lele</td>
-    <td>Vrindha</td>
-    <td>36</td>
+    <td data-label="Last Name">Lele</td>
+    <td data-label="Family Details">Vrindha</td>
+    <td data-label="Table Number">36</td>
   </tr>
   <tr>
-    <td>Little</td>
-    <td>Ryan</td>
-    <td>17</td>
+    <td data-label="Last Name">Little</td>
+    <td data-label="Family Details">Ryan</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Maddula</td>
-    <td>Vamsi, Vani</td>
-    <td>8</td>
+    <td data-label="Last Name">Maddula</td>
+    <td data-label="Family Details">Vamsi, Vani</td>
+    <td data-label="Table Number">8</td>
   </tr>
   <tr>
-    <td>Maddula</td>
-    <td>Arush</td>
-    <td>8</td>
+    <td data-label="Last Name">Maddula</td>
+    <td data-label="Family Details">Arush</td>
+    <td data-label="Table Number">8</td>
   </tr>
   <tr>
-    <td>Majumdar </td>
-    <td>Rimika</td>
-    <td>14</td>
+    <td data-label="Last Name">Majumdar </td>
+    <td data-label="Family Details">Rimika</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Mangolia</td>
-    <td>Sachin, Nasreen</td>
-    <td>23</td>
+    <td data-label="Last Name">Mangolia</td>
+    <td data-label="Family Details">Sachin, Nasreen</td>
+    <td data-label="Table Number">23</td>
   </tr>
   <tr>
-    <td>Masood</td>
-    <td>Maliha</td>
-    <td>6</td>
+    <td data-label="Last Name">Masood</td>
+    <td data-label="Family Details">Maliha</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Medisetti</td>
-    <td>Srisai Priyanka</td>
-    <td>6</td>
+    <td data-label="Last Name">Medisetti</td>
+    <td data-label="Family Details">Srisai Priyanka</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Medisetti</td>
-    <td>Radha (Sree’s mom) </td>
-    <td>32</td>
+    <td data-label="Last Name">Medisetti</td>
+    <td data-label="Family Details">Radha (Sree’s mom) </td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Muddam</td>
-    <td>Janakiram, Padma, Laxmipriyanka</td>
-    <td>24</td>
+    <td data-label="Last Name">Muddam</td>
+    <td data-label="Family Details">Janakiram, Padma, Laxmipriyanka</td>
+    <td data-label="Table Number">24</td>
   </tr>
   <tr>
-    <td>Mukherjee</td>
-    <td>Ratan, Dimpy</td>
-    <td>7</td>
+    <td data-label="Last Name">Mukherjee</td>
+    <td data-label="Family Details">Ratan, Dimpy</td>
+    <td data-label="Table Number">7</td>
   </tr>
   <tr>
-    <td>Mulukutla</td>
-    <td>Gangadhar &amp; Family</td>
-    <td>35</td>
+    <td data-label="Last Name">Mulukutla</td>
+    <td data-label="Family Details">Gangadhar &amp; Family</td>
+    <td data-label="Table Number">35</td>
   </tr>
   <tr>
-    <td>Munoz</td>
-    <td>Dairon</td>
-    <td>14</td>
+    <td data-label="Last Name">Munoz</td>
+    <td data-label="Family Details">Dairon</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Munshani</td>
-    <td>Naresh, Chanda</td>
-    <td>31</td>
+    <td data-label="Last Name">Munshani</td>
+    <td data-label="Family Details">Naresh, Chanda</td>
+    <td data-label="Table Number">31</td>
   </tr>
   <tr>
-    <td>Naguru</td>
-    <td>Sweta, Karthik, Kid</td>
-    <td>34</td>
+    <td data-label="Last Name">Naguru</td>
+    <td data-label="Family Details">Sweta, Karthik, Kid</td>
+    <td data-label="Table Number">34</td>
   </tr>
   <tr>
-    <td>Nakka</td>
-    <td>Sai Prasad, Udaya</td>
-    <td>20</td>
+    <td data-label="Last Name">Nakka</td>
+    <td data-label="Family Details">Sai Prasad, Udaya</td>
+    <td data-label="Table Number">20</td>
   </tr>
   <tr>
-    <td>Nandimandalam</td>
-    <td>Sunil, Prasanna </td>
-    <td>22</td>
+    <td data-label="Last Name">Nandimandalam</td>
+    <td data-label="Family Details">Sunil, Prasanna </td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Nandimandalam </td>
-    <td>Jatin</td>
-    <td>22</td>
+    <td data-label="Last Name">Nandimandalam </td>
+    <td data-label="Family Details">Jatin</td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Nandimandalam </td>
-    <td>Nitin</td>
-    <td>22</td>
+    <td data-label="Last Name">Nandimandalam </td>
+    <td data-label="Family Details">Nitin</td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Nandra</td>
-    <td>Ram, Saritha+2</td>
-    <td>18</td>
+    <td data-label="Last Name">Nandra</td>
+    <td data-label="Family Details">Ram, Saritha+2</td>
+    <td data-label="Table Number">18</td>
   </tr>
   <tr>
-    <td>Nawani</td>
-    <td>Jagdish, Madhu</td>
-    <td>31</td>
+    <td data-label="Last Name">Nawani</td>
+    <td data-label="Family Details">Jagdish, Madhu</td>
+    <td data-label="Table Number">31</td>
   </tr>
   <tr>
-    <td>Nimma</td>
-    <td>Sowmya</td>
-    <td>4</td>
+    <td data-label="Last Name">Nimma</td>
+    <td data-label="Family Details">Sowmya</td>
+    <td data-label="Table Number">4</td>
   </tr>
   <tr>
-    <td>Patel</td>
-    <td>Andy, Asha</td>
-    <td>5</td>
+    <td data-label="Last Name">Patel</td>
+    <td data-label="Family Details">Andy, Asha</td>
+    <td data-label="Table Number">5</td>
   </tr>
   <tr>
-    <td>Patel</td>
-    <td>Ashish, Hetal</td>
-    <td>28</td>
+    <td data-label="Last Name">Patel</td>
+    <td data-label="Family Details">Ashish, Hetal</td>
+    <td data-label="Table Number">28</td>
   </tr>
   <tr>
-    <td>Patro</td>
-    <td>Nibedita</td>
-    <td>16</td>
+    <td data-label="Last Name">Patro</td>
+    <td data-label="Family Details">Nibedita</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Phuloria</td>
-    <td>Jagdish, Bhagwati</td>
-    <td>15</td>
+    <td data-label="Last Name">Phuloria</td>
+    <td data-label="Family Details">Jagdish, Bhagwati</td>
+    <td data-label="Table Number">15</td>
   </tr>
   <tr>
-    <td>Phuloria</td>
-    <td>Kiran</td>
-    <td>17</td>
+    <td data-label="Last Name">Phuloria</td>
+    <td data-label="Family Details">Kiran</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Ponnuswamy</td>
-    <td>Thangamalliga, Meenakshi, Aravind</td>
-    <td>24</td>
+    <td data-label="Last Name">Ponnuswamy</td>
+    <td data-label="Family Details">Thangamalliga, Meenakshi, Aravind</td>
+    <td data-label="Table Number">24</td>
   </tr>
   <tr>
-    <td>Panyala</td>
-    <td>Chandra, Pallavi</td>
-    <td>18</td>
+    <td data-label="Last Name">Panyala</td>
+    <td data-label="Family Details">Chandra, Pallavi</td>
+    <td data-label="Table Number">18</td>
   </tr>
   <tr>
-    <td>Puvvala</td>
-    <td>Krishna Bharadwaj</td>
-    <td>8</td>
+    <td data-label="Last Name">Puvvala</td>
+    <td data-label="Family Details">Krishna Bharadwaj</td>
+    <td data-label="Table Number">8</td>
   </tr>
   <tr>
-    <td>Radhakrishnan</td>
-    <td>Srini, Bhuvana + 2</td>
-    <td>25</td>
+    <td data-label="Last Name">Radhakrishnan</td>
+    <td data-label="Family Details">Srini, Bhuvana + 2</td>
+    <td data-label="Table Number">25</td>
   </tr>
   <tr>
-    <td>Rakheja</td>
-    <td>Mahesh's Mom, Sunita's Mom</td>
-    <td>3</td>
+    <td data-label="Last Name">Rakheja</td>
+    <td data-label="Family Details">Mahesh's Mom, Sunita's Mom</td>
+    <td data-label="Table Number">3</td>
   </tr>
   <tr>
-    <td>Rakheja</td>
-    <td>Mahesh, Sunita</td>
-    <td>5</td>
+    <td data-label="Last Name">Rakheja</td>
+    <td data-label="Family Details">Mahesh, Sunita</td>
+    <td data-label="Table Number">5</td>
   </tr>
   <tr>
-    <td>Rakheja</td>
-    <td>Namisha, Justin</td>
-    <td>13</td>
+    <td data-label="Last Name">Rakheja</td>
+    <td data-label="Family Details">Namisha, Justin</td>
+    <td data-label="Table Number">13</td>
   </tr>
   <tr>
-    <td>Rakheja</td>
-    <td>Naman, Amanda</td>
-    <td>13</td>
+    <td data-label="Last Name">Rakheja</td>
+    <td data-label="Family Details">Naman, Amanda</td>
+    <td data-label="Table Number">13</td>
   </tr>
   <tr>
-    <td>Ranga</td>
-    <td>Karthik, Rishi</td>
-    <td>2</td>
+    <td data-label="Last Name">Ranga</td>
+    <td data-label="Family Details">Karthik, Rishi</td>
+    <td data-label="Table Number">2</td>
   </tr>
   <tr>
-    <td>Ranga</td>
-    <td>Rohit</td>
-    <td>2</td>
+    <td data-label="Last Name">Ranga</td>
+    <td data-label="Family Details">Rohit</td>
+    <td data-label="Table Number">2</td>
   </tr>
   <tr>
-    <td>Ravinuthala</td>
-    <td>Ravi, Manju</td>
-    <td>20</td>
+    <td data-label="Last Name">Ravinuthala</td>
+    <td data-label="Family Details">Ravi, Manju</td>
+    <td data-label="Table Number">20</td>
   </tr>
   <tr>
-    <td>Reddy </td>
-    <td>Sathvik</td>
-    <td>26</td>
+    <td data-label="Last Name">Reddy </td>
+    <td data-label="Family Details">Sathvik</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Reddy </td>
-    <td>Saaketh</td>
-    <td>26</td>
+    <td data-label="Last Name">Reddy </td>
+    <td data-label="Family Details">Saaketh</td>
+    <td data-label="Table Number">26</td>
   </tr>
   <tr>
-    <td>Reddy </td>
-    <td>Meka</td>
-    <td>32</td>
+    <td data-label="Last Name">Reddy </td>
+    <td data-label="Family Details">Meka</td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Sangtani</td>
-    <td>Haresh, Priya, Monish, Pallavi, Riya, Dayanand, Hiru</td>
-    <td>1</td>
+    <td data-label="Last Name">Sangtani</td>
+    <td data-label="Family Details">Haresh, Priya, Bride &amp; Groom, Riya, Dayanand, Hiru</td>
+    <td data-label="Table Number">1</td>
   </tr>
   <tr>
-    <td>Sankaramoorthy</td>
-    <td>Karthik, Kirthika + 1</td>
-    <td>29</td>
+    <td data-label="Last Name">Sankaramoorthy</td>
+    <td data-label="Family Details">Karthik, Kirthika + 1</td>
+    <td data-label="Table Number">29</td>
   </tr>
   <tr>
-    <td>Saride</td>
-    <td>Meher, Ridhi</td>
-    <td>8</td>
+    <td data-label="Last Name">Saride</td>
+    <td data-label="Family Details">Meher, Ridhi</td>
+    <td data-label="Table Number">8</td>
   </tr>
   <tr>
-    <td>Saride</td>
-    <td>Bhavani</td>
-    <td>30</td>
+    <td data-label="Last Name">Saride</td>
+    <td data-label="Family Details">Bhavani</td>
+    <td data-label="Table Number">30</td>
   </tr>
   <tr>
-    <td>Savoy</td>
-    <td>Jaleel</td>
-    <td>14</td>
+    <td data-label="Last Name">Savoy</td>
+    <td data-label="Family Details">Jaleel</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Schlosser</td>
-    <td>Karen</td>
-    <td>11</td>
+    <td data-label="Last Name">Schlosser</td>
+    <td data-label="Family Details">Karen</td>
+    <td data-label="Table Number">11</td>
   </tr>
   <tr>
-    <td>Seeta</td>
-    <td>Deva, Mona+1</td>
-    <td>12</td>
+    <td data-label="Last Name">Seeta</td>
+    <td data-label="Family Details">Deva, Mona+1</td>
+    <td data-label="Table Number">12</td>
   </tr>
   <tr>
-    <td>Selvaraj</td>
-    <td>Pirabu, Suchi</td>
-    <td>36</td>
+    <td data-label="Last Name">Selvaraj</td>
+    <td data-label="Family Details">Pirabu, Suchi</td>
+    <td data-label="Table Number">36</td>
   </tr>
   <tr>
-    <td>Shabaneh</td>
-    <td>Alaa</td>
-    <td>14</td>
+    <td data-label="Last Name">Shabaneh</td>
+    <td data-label="Family Details">Alaa</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Shah</td>
-    <td>Bijal, Vinit</td>
-    <td>11</td>
+    <td data-label="Last Name">Shah</td>
+    <td data-label="Family Details">Bijal, Vinit</td>
+    <td data-label="Table Number">11</td>
   </tr>
   <tr>
-    <td>Sharma</td>
-    <td>Sanjay, Kamini</td>
-    <td>7</td>
+    <td data-label="Last Name">Sharma</td>
+    <td data-label="Family Details">Sanjay, Kamini</td>
+    <td data-label="Table Number">7</td>
   </tr>
   <tr>
-    <td>Sharma</td>
-    <td>Vedant</td>
-    <td>21</td>
+    <td data-label="Last Name">Sharma</td>
+    <td data-label="Family Details">Vedant</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Sharma</td>
-    <td>Anil, Sandhya</td>
-    <td>25</td>
+    <td data-label="Last Name">Sharma</td>
+    <td data-label="Family Details">Anil, Sandhya</td>
+    <td data-label="Table Number">25</td>
   </tr>
   <tr>
-    <td>Sharma</td>
-    <td>Rishav</td>
-    <td>6</td>
+    <td data-label="Last Name">Sharma</td>
+    <td data-label="Family Details">Rishav</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Sharma</td>
-    <td>Ishana</td>
-    <td>6</td>
+    <td data-label="Last Name">Sharma</td>
+    <td data-label="Family Details">Ishana</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Shastri</td>
-    <td>Amit, Poonam, Kids</td>
-    <td>9</td>
+    <td data-label="Last Name">Shastri</td>
+    <td data-label="Family Details">Amit, Poonam, Kids</td>
+    <td data-label="Table Number">9</td>
   </tr>
   <tr>
-    <td>Shastri</td>
-    <td>Khemraj</td>
-    <td>35</td>
+    <td data-label="Last Name">Shastri</td>
+    <td data-label="Family Details">Khemraj</td>
+    <td data-label="Table Number">35</td>
   </tr>
   <tr>
-    <td>Soni</td>
-    <td>Pooja, Hardy</td>
-    <td>10</td>
+    <td data-label="Last Name">Soni</td>
+    <td data-label="Family Details">Pooja, Hardy</td>
+    <td data-label="Table Number">10</td>
   </tr>
   <tr>
-    <td>Sree</td>
-    <td>Karuna</td>
-    <td>32</td>
+    <td data-label="Last Name">Sree</td>
+    <td data-label="Family Details">Karuna</td>
+    <td data-label="Table Number">32</td>
   </tr>
   <tr>
-    <td>Sreekrishna</td>
-    <td>Koti, Shalini, Nishant</td>
-    <td>19</td>
+    <td data-label="Last Name">Sreekrishna</td>
+    <td data-label="Family Details">Koti, Shalini, Nishant</td>
+    <td data-label="Table Number">19</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Dilip, Deepa</td>
-    <td>7</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Dilip, Deepa</td>
+    <td data-label="Table Number">7</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Aryesh, Mansi</td>
-    <td>7</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Aryesh, Mansi</td>
+    <td data-label="Table Number">7</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Ahan, Vivan</td>
-    <td>21</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Ahan, Vivan</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Roheet, Riya</td>
-    <td>21</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Roheet, Riya</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Chandan, Shardha, Piyush, Srishti</td>
-    <td>10</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Chandan, Shardha, Piyush, Srishti</td>
+    <td data-label="Table Number">10</td>
   </tr>
   <tr>
-    <td>Srivastava</td>
-    <td>Ambreesh, Smita, Jeet</td>
-    <td>35</td>
+    <td data-label="Last Name">Srivastava</td>
+    <td data-label="Family Details">Ambreesh, Smita, Jeet</td>
+    <td data-label="Table Number">35</td>
   </tr>
   <tr>
-    <td>Subramanian</td>
-    <td>Anand, Trupti</td>
-    <td>15</td>
+    <td data-label="Last Name">Subramanian</td>
+    <td data-label="Family Details">Anand, Trupti</td>
+    <td data-label="Table Number">15</td>
   </tr>
   <tr>
-    <td>Subramanian</td>
-    <td>Om</td>
-    <td>21</td>
+    <td data-label="Last Name">Subramanian</td>
+    <td data-label="Family Details">Om</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Suri</td>
-    <td>Tanya</td>
-    <td>17</td>
+    <td data-label="Last Name">Suri</td>
+    <td data-label="Family Details">Tanya</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Swamy</td>
-    <td>Murali, Lakshmi + 1</td>
-    <td>29</td>
+    <td data-label="Last Name">Swamy</td>
+    <td data-label="Family Details">Murali, Lakshmi + 1</td>
+    <td data-label="Table Number">29</td>
   </tr>
   <tr>
-    <td>Syed</td>
-    <td>Omer</td>
-    <td>14</td>
+    <td data-label="Last Name">Syed</td>
+    <td data-label="Family Details">Omer</td>
+    <td data-label="Table Number">14</td>
   </tr>
   <tr>
-    <td>Talreja</td>
-    <td>Sunil, Komal</td>
-    <td>31</td>
+    <td data-label="Last Name">Talreja</td>
+    <td data-label="Family Details">Sunil, Komal</td>
+    <td data-label="Table Number">31</td>
   </tr>
   <tr>
-    <td>Tandan</td>
-    <td>Rajeev, Priyanka</td>
-    <td>15</td>
+    <td data-label="Last Name">Tandan</td>
+    <td data-label="Family Details">Rajeev, Priyanka</td>
+    <td data-label="Table Number">15</td>
   </tr>
   <tr>
-    <td>Tandan</td>
-    <td>Tanvi</td>
-    <td>17</td>
+    <td data-label="Last Name">Tandan</td>
+    <td data-label="Family Details">Tanvi</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Tatini</td>
-    <td>Hari, Anu</td>
-    <td>36</td>
+    <td data-label="Last Name">Tatini</td>
+    <td data-label="Family Details">Hari, Anu</td>
+    <td data-label="Table Number">36</td>
   </tr>
   <tr>
-    <td>Thiyagarajan</td>
-    <td>Haripriya, Kirthi </td>
-    <td>22</td>
+    <td data-label="Last Name">Thiyagarajan</td>
+    <td data-label="Family Details">Haripriya, Kirthi </td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Thiyagarajan</td>
-    <td>Karina</td>
-    <td>22</td>
+    <td data-label="Last Name">Thiyagarajan</td>
+    <td data-label="Family Details">Karina</td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Upadhyay</td>
-    <td>Vardhan, Rupal</td>
-    <td>28</td>
+    <td data-label="Last Name">Upadhyay</td>
+    <td data-label="Family Details">Vardhan, Rupal</td>
+    <td data-label="Table Number">28</td>
   </tr>
   <tr>
-    <td>Uthaman</td>
-    <td>Lavanya, Priya </td>
-    <td>6</td>
+    <td data-label="Last Name">Uthaman</td>
+    <td data-label="Family Details">Lavanya, Priya </td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Uthaman</td>
-    <td>Uthaman, Padmini</td>
-    <td>30</td>
+    <td data-label="Last Name">Uthaman</td>
+    <td data-label="Family Details">Uthaman, Padmini</td>
+    <td data-label="Table Number">30</td>
   </tr>
   <tr>
-    <td>Varghese</td>
-    <td>Charian, Mercy</td>
-    <td>25</td>
+    <td data-label="Last Name">Varghese</td>
+    <td data-label="Family Details">Charian, Mercy</td>
+    <td data-label="Table Number">25</td>
   </tr>
   <tr>
-    <td>Velga</td>
-    <td>Rama Krishana</td>
-    <td>24</td>
+    <td data-label="Last Name">Velga</td>
+    <td data-label="Family Details">Rama Krishana</td>
+    <td data-label="Table Number">24</td>
   </tr>
   <tr>
-    <td>Velmurugan</td>
-    <td>Vignesh </td>
-    <td>24</td>
+    <td data-label="Last Name">Velmurugan</td>
+    <td data-label="Family Details">Vignesh </td>
+    <td data-label="Table Number">24</td>
   </tr>
   <tr>
-    <td>Venkatesan</td>
-    <td>Nandita</td>
-    <td>6</td>
+    <td data-label="Last Name">Venkatesan</td>
+    <td data-label="Family Details">Nandita</td>
+    <td data-label="Table Number">6</td>
   </tr>
   <tr>
-    <td>Venkatesan </td>
-    <td>Thiyagarajan</td>
-    <td>22</td>
+    <td data-label="Last Name">Venkatesan </td>
+    <td data-label="Family Details">Thiyagarajan</td>
+    <td data-label="Table Number">22</td>
   </tr>
   <tr>
-    <td>Verma</td>
-    <td>Ajay, Monica</td>
-    <td>5</td>
+    <td data-label="Last Name">Verma</td>
+    <td data-label="Family Details">Ajay, Monica</td>
+    <td data-label="Table Number">5</td>
   </tr>
   <tr>
-    <td>Verma</td>
-    <td>Ashu</td>
-    <td>13</td>
+    <td data-label="Last Name">Verma</td>
+    <td data-label="Family Details">Ashu</td>
+    <td data-label="Table Number">13</td>
   </tr>
   <tr>
-    <td>Verma</td>
-    <td>Aman</td>
-    <td>21</td>
+    <td data-label="Last Name">Verma</td>
+    <td data-label="Family Details">Aman</td>
+    <td data-label="Table Number">21</td>
   </tr>
   <tr>
-    <td>Yau</td>
-    <td>Stephen</td>
-    <td>17</td>
+    <td data-label="Last Name">Yau</td>
+    <td data-label="Family Details">Stephen</td>
+    <td data-label="Table Number">17</td>
   </tr>
   <tr>
-    <td>Yendamuri</td>
-    <td>Harinath, Chandan</td>
-    <td>16</td>
+    <td data-label="Last Name">Yendamuri</td>
+    <td data-label="Family Details">Harinath, Chandan</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Yendamuri</td>
-    <td>Niha</td>
-    <td>16</td>
+    <td data-label="Last Name">Yendamuri</td>
+    <td data-label="Family Details">Niha</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Yendamuri</td>
-    <td>Krishna</td>
-    <td>16</td>
+    <td data-label="Last Name">Yendamuri</td>
+    <td data-label="Family Details">Krishna</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Yendamuri</td>
-    <td>Sripallavi</td>
-    <td>16</td>
+    <td data-label="Last Name">Yendamuri</td>
+    <td data-label="Family Details">Sripallavi</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Yendamuri</td>
-    <td>Srivainavi</td>
-    <td>16</td>
+    <td data-label="Last Name">Yendamuri</td>
+    <td data-label="Family Details">Srivainavi</td>
+    <td data-label="Table Number">16</td>
   </tr>
   <tr>
-    <td>Yerraganti</td>
-    <td>Ambika</td>
-    <td>8</td>
+    <td data-label="Last Name">Yerraganti</td>
+    <td data-label="Family Details">Ambika</td>
+    <td data-label="Table Number">8</td>
   </tr>
   <tr>
-    <td>Yerukalamota</td>
-    <td>Sai Priyatham</td>
-    <td>11</td>
+    <td data-label="Last Name">Yerukalamota</td>
+    <td data-label="Family Details">Sai Priyatham</td>
+    <td data-label="Table Number">11</td>
   </tr>
 </tbody>
-</table>
-
+</table> 
+    
+   
 <script>
 function myFunction() {
   var input, filter, table, tr, td, i, txtValue;
