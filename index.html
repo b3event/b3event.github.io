@@ -123,12 +123,12 @@ body {
 }
 </style>
 </head>
-<body>
+<body onload="myFunction()">
 
 <img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75">
 <h2 class="headertekst">Sangtani & Kalva Reception Seating</h2>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type your last name..." title="Search by your last name">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 3 letters of your last name..." title="Search by your last name">
       
     
 <table id="myTable">
@@ -914,6 +914,8 @@ function myFunction() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
+  if(input.value.length < 3)
+    filter = "$";
   table = document.getElementById("myTable");
   tr = table.getElementsByTagName("tr");
   for (i = 0; i < tr.length; i++) {
