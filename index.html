@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Myrah & Rehan's Wedding</title>
+    <title>Myrah & Rehan's Shaadi</title>
     <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
     <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
     <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
@@ -28,7 +28,7 @@ h2.headertekst {
   border: 1px solid #ddd;
   margin-bottom: 12px;
 }
-
+/*
 table {
   border: 1px solid #ccc;
   border-collapse: collapse;
@@ -44,7 +44,7 @@ table caption {
 }
 
 table tr {
-  background-color: #d3af57;
+  background-color: #d79d8e;
   border: 1px solid #000000;
   padding: .35em;
 }
@@ -59,8 +59,9 @@ table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase;
-}
+}*/
 
+/*
 @media screen and (max-width: 600px) {
   table {
     border: 0;
@@ -98,7 +99,7 @@ table th {
     /*
     * aria-label has no advantage, it won't be read inside a table
     content: attr(aria-label);
-    */
+    *//*
     content: attr(data-label);
     float: left;
     font-weight: bold;
@@ -108,7 +109,7 @@ table th {
   table td:last-child {
     border-bottom: 0;
   }
-}
+}*/
 
 
 
@@ -117,10 +118,10 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.25;
   background-image: url('background.png');
-  <--background-repeat: no-repeat;-->
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  background-color: #d3af57;
+  background-color: #d79d8e;
 }
     
 .icenter {
@@ -133,12 +134,44 @@ img:hover {
     cursor: pointer;
 }
 
+
+.styled-table {
+    border: 1px solid #d79d8e;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled-table thead tr {
+    background-color: #d79d8e;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+.styled-table tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}
+
 </style>
 </head>
 <body onload="myFunction()">
 
-<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #d3af57;" onclick="location.href='https://www.b3event.com/'">
-<h2 class="headertekst" style="font-family: Petit Formal Script;width: 400px;margin-left: auto;margin-right: auto;background-color:#d3af57;">Welcome to<br>Myrah &amp; Rehan's<br>Wedding</h2>
+<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #d79d8e;" onclick="location.href='https://www.b3event.com/'">
+<h2 class="headertekst" style="font-family: Petit Formal Script;width: 400px;margin-left: auto;margin-right: auto;background-color:#d79d8e;">Welcome to<br>Myrah &amp; Rehan's<br>Shaadi</h2>
+
 
 <!--<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type 3 letters of your first name..." title="Search by your name">
 
@@ -976,18 +1009,53 @@ img:hover {
 
 <div style="text-align: center;">
 <img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
-<div style="width: 400px; margin-left: auto;margin-right: auto; text-align: left;"><p style="font-family: Pragati Narrow;color: black;font-size: 30px;background-color:#d3af57; padding: 10px">C and D<br>2, 4, 6 and 8 is Grooms family<br><br>A - Azra’s Fam<br>B- Siraj’s Fam<br>1, 3, 5, 7, 9 - Brides Family<br>11 - Bridesmaids<br>13-19 - Sirajs Family<br></p></div>
-<!-- <a href="8th.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">Friday festivities</a><br><br>
-<a href="9th.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">Saturday celebrations</a><br><br>
-<a href="reception.html" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">Reception Seating</a><br><br>
-<a href="note.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">A note from the Family</a><br><br>
-<a href="5.png" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">Covid Testing</a><br><br>
-<a href="6.png" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">FAKE OR FACT ??</a><br><br>
-<span style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d3af57;">Activities at Dreams:</span><br><br>
+
+<table class="styled-table">
+<thead>
+  <tr>
+    <th>Family</th>
+    <th>Table #</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Azra’s Family</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Siraj’s Family</td>
+    <td>B, 13, 14, 15, 16, 17, 18 &amp; 19</td>
+  </tr>
+  <tr>
+    <td>Groom's Family</td>
+    <td>C, D, 2, 4, 6 &amp; 8</td>
+  </tr>
+  <tr>
+    <td>Bride's Family</td>
+    <td>1, 3, 5, 7 &amp; 9</td>
+  </tr>
+  <tr>
+    <td>Bridesmaids</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Open Seating</td>
+    <td>10, 12 &amp; 20+</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- <a href="8th.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">Friday festivities</a><br><br>
+<a href="9th.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">Saturday celebrations</a><br><br>
+<a href="reception.html" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">Reception Seating</a><br><br>
+<a href="note.jpeg" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">A note from the Family</a><br><br>
+<a href="5.png" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">Covid Testing</a><br><br>
+<a href="6.png" style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">FAKE OR FACT ??</a><br><br>
+<span style="font-family: Petit Formal Script;color: black;font-size: 20px;background-color:#d79d8e;">Activities at Dreams:</span><br><br>
 <img src="appstore.png" alt="Download on the App Store" height="70px" style="padding: 11px;" onclick="location.href='https://apps.apple.com/us/app/amr-collection/id1561920692'"><img src="playstore.png" alt="Get it on Google Play" height="70px" onclick="location.href='https://play.google.com/store/apps/details?id=amresorts.app'"><br><br>-->
 <img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
-<a href="sms:+16145479002" style="font-family: times new roman;color: black;font-size: 20px;background-color:#d3af57;">Questions: SMS the planner</a><br><br>
-<a href="https://www.b3event.com/" style="font-family: times new roman;color: black;font-size: 20px;background-color:#d3af57;">More about B3 Event Management</a>
+<a href="sms:+16145479002" style="font-family: times new roman;color: black;font-size: 20px;background-color:#d79d8e;">Questions: SMS the planner</a><br><br>
+<a href="https://www.b3event.com/" style="font-family: times new roman;color: black;font-size: 20px;background-color:#d79d8e;">More about B3 Event Management</a>
 </div>
    
 <script>
