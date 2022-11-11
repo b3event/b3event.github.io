@@ -29,8 +29,8 @@ h2.headertekst {
   margin-right: auto;
   font-size: 16px;
   padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
   margin-bottom: 12px;
+  border: 1px solid #ddd;
 }
 
 table {
@@ -192,7 +192,7 @@ img:hover {
 <body onload="myFunction()">
 
 <img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #9fadbc;" onclick="location.href='https://www.b3event.com/'">
-<h2 class="headertekst" style="font-family: Petit Formal Script;width: 100%;max-width: 700px;margin-left: auto;margin-right: auto;background-color:#9fadbc;">Welcome to Priya &amp; Ravi's Wedding</h2>
+<h2 class="headertekst" style="font-family: Petit Formal Script;width: 100%;max-width: 700px;margin-left: auto;margin-right: auto;background-color:#9fadbc;">Welcome to Priya &amp; Ravi's Wedding<div id="myTimer" style="display: inline;"></div></h2>
 
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
@@ -1249,7 +1249,7 @@ function myFunction() {
     }       
   }
   if (input.value == "start slideshow") {
-    input.style.visibility = 'hidden';
+    input.style = 'visibility: collapse;height: 0px;border: 0px;padding: 0px';
     var minn, maxx;
     minn=0;
     while (minn < tr.length) {
@@ -1265,6 +1265,24 @@ function myFunction() {
       }
     }
     }
+	// Set the date we're counting down to
+var countDownDate = 10;
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+    
+  // Time calculations for days, hours, minutes and seconds
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("myTimer").innerHTML = countDownDate;
+  countDownDate--;
+    
+  // If the count down is over, write some text 
+  if (countDownDate < 0) {
+    clearInterval(x);
+    document.getElementById("myTimer").innerHTML = "EXPIRED";
+  }
+}, 1000);
 
   	minn=maxx;
   } } 	
