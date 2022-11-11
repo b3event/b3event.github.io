@@ -39,7 +39,6 @@ table {
   margin: 0;
   padding: 0;
   width: 100%;
-  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
   table-layout: fixed;
@@ -197,7 +196,7 @@ img:hover {
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
 
-<table id="myTable">
+<table id="myTable" style="max-width: 700px;">
 <thead class="header">
   <tr>
     <th scope="col">Name</th>
@@ -1176,6 +1175,670 @@ img:hover {
 </tbody>
 </table>
 
+
+<table id="myTable2" style="visibility: collapse;">
+<thead class="header">
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Table</th>
+    <th scope="col">Name</th>
+    <th scope="col">Table</th>
+    <th scope="col">Name</th>
+    <th scope="col">Table</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td data-label="Name">Erik Abel</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Veena Ahuja</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Poonam Bhardwaj</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lauren Abel</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Amy Amin</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Amar Bhatt</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Alisa Advani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Nikhil Arora</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Anup Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anjali Advani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Nimesh Arora</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Dev Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mona Advani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Nitin Arora</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Dilip Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Advani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Nutan Arora</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Meera Bhatt</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anup Ahluwalia</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Chaitali Barmore</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Millie Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rohini Ahluwalia</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Mike Barmore</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Poornima Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Akash Ahuja</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Shelby Benavides</td>
+    <td data-label="Table">12</td>
+    <td data-label="Name">Renuka Bhatt</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jia Ahuja</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Shawn Bennett</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Sandhya Bhatt</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shaan Ahuja</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Ajay Bhardwaj</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Vasudev Bhatt</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vasumati Bhatt</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Floria Chae</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">Kelly Coakley</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vijay Bhatt</td>
+    <td data-label="Table">15</td>
+    <td data-label="Name">Alisha Chaudhary</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Brian Conway</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manju Bhimani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Haleem Chaudhary</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Erica Conway</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rohan Bhimani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Hyatt Chaudhary</td>
+    <td data-label="Table">11</td>
+    <td data-label="Name">Dindayal Dandapani</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vijay Bhimani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Jai Chaudhary</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Ivena Dehl</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Melyssa Bonner</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Rekha Chaudhary</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Prashant Desai</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Robyn Bonner</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Samir Chaudhary</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Sangita Desai</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aaron Bowman</td>
+    <td data-label="Table">12</td>
+    <td data-label="Name">Sheila Chaudhary</td>
+    <td data-label="Table">11</td>
+    <td data-label="Name">Pooja Doshi</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Macy Bowman</td>
+    <td data-label="Table">12</td>
+    <td data-label="Name">Brian Clark</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Ripple Doshi</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Beth Britt</td>
+    <td data-label="Table">22</td>
+    <td data-label="Name">Whitney Clark</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">David Entinghe</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Josh Britt</td>
+    <td data-label="Table">22</td>
+    <td data-label="Name">Ella Coakley</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Elizabeth Entinghe</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ingrid Eyen</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Shailendra Garg</td>
+    <td data-label="Table">15</td>
+    <td data-label="Name">Shrikanth Hatwalkar</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Christopher Fahner</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Marge Gatten</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Sudha Hatwalkar</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Parker Fernandez</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Orval Gatten</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Andrew House</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Antolin Flores</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Bubbles Grewal</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Erika House</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Emily Flores</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Nari Grewal</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Antawain Houze</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jai Gaglani</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Ankur Gupta</td>
+    <td data-label="Table">11</td>
+    <td data-label="Name">Anita Jhangiani</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neelam Gaglani</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Arjun Gupta</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Sanjay Jhangiani</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raju Gaglani</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Neeraj Gupta</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Shaana Jhangiani</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anshu Garg</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Nisha Gupta</td>
+    <td data-label="Table">11</td>
+    <td data-label="Name">Sunno Jhangiani</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Evita Garg</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Sabina Gupta</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Mona Jhuremalani</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kalpana Garg</td>
+    <td data-label="Table">15</td>
+    <td data-label="Name">Kavita Hatwalkar</td>
+    <td data-label="Table">24</td>
+    <td data-label="Name">Adeeti Jindal</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bipender Jindal</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Vikas Kewalramani</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Brenda Ladd</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manju Jindal</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Faizuddin Khaja</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Neil Lall</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sadhna Jindal</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Judy Kimbler</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Rani Lall</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sundeepti Jindal</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Judy Kimbler</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Shobha Lall</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pushu Kamlani</td>
+    <td data-label="Table">9</td>
+    <td data-label="Name">Larry Kimbler</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Uttam Lall</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sham Kamlani</td>
+    <td data-label="Table">9</td>
+    <td data-label="Name">Bhagwati Kothari</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Jesse Lester</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raj Kapoor</td>
+    <td data-label="Table">15</td>
+    <td data-label="Name">Mansi Kothari</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Sumona Lester</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sarita Kapoor</td>
+    <td data-label="Table">15</td>
+    <td data-label="Name">Vijay Kothari</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Allison Levering</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Liam Kennedy</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Preethi Krishnan</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Jaimeen Mahata</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mark Kennedy</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Aarti Kulkarni</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Nanda Mannava</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anita Kewalramani</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Neil Kulkarni</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Sriram Mannava</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neil Mansukhani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Suvir Mirchandani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Kamla Pandey</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Prerna Mansukhani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Ratu Misra</td>
+    <td data-label="Table">9</td>
+    <td data-label="Name">Priyanka Pandey</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Riya Mansukhani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Mike Moses</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Ramashankar Pandey</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Suraj Mansukhani</td>
+    <td data-label="Table">2</td>
+    <td data-label="Name">Saikrishna Muppalla</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Ravi Pandey</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Carrie McCoy</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Madhaba Naidu</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Rita Pandey</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sandeep Mendiratta</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Premananda Naidu</td>
+    <td data-label="Table">7</td>
+    <td data-label="Name">Sagar Pandey</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Brad Miller</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Albert Nguyen</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">Sushma Pandey</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Emily Miller</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Janet O'brien</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Bhavina Pandya</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Prakash Mirchandani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Amar Pandey</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Parth Pandya</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rishi Mirchandani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Amrita Pandey</td>
+    <td data-label="Table">13</td>
+    <td data-label="Name">Prakash Pandya</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shabnam Mirchandani</td>
+    <td data-label="Table">3</td>
+    <td data-label="Name">Bishun Pandey</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Rekha Parulkar</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Parulkar</td>
+    <td data-label="Table">14</td>
+    <td data-label="Name">Poonam Punwani</td>
+    <td data-label="Table">9</td>
+    <td data-label="Name">Angela Reischel</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daxa Patel</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Pushu Punwani</td>
+    <td data-label="Table">9</td>
+    <td data-label="Name">Mark Reischel</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harikrishan Patel</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Ambar Rahman</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Jane Rini</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kapilabhen Patel</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Faisal Rahman</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Milisa Rizer</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ratilal Patel</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Chetan Rangaswamy</td>
+    <td data-label="Table">22</td>
+    <td data-label="Name">Roopa Saha</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Saneeka Patel</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Kiron Rangaswamy</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Jaspreet Sandhu</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Uma Harikrishan Patel</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Leslie Rangaswamy</td>
+    <td data-label="Table">22</td>
+    <td data-label="Name">Ravi Sandhu</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramesh Punetha</td>
+    <td data-label="Table">16</td>
+    <td data-label="Name">Rangu Rangaswamy</td>
+    <td data-label="Table">24</td>
+    <td data-label="Name">Anna Sanyal</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Eshwar Punjabi</td>
+    <td data-label="Table">14</td>
+    <td data-label="Name">Rekha Rangaswamy</td>
+    <td data-label="Table">24</td>
+    <td data-label="Name">Ashok Saraswat</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kamla Punjabi</td>
+    <td data-label="Table">14</td>
+    <td data-label="Name">Deepak Raval</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Santosh Saraswat</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Renuka Punjabi</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Usha Raval</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">Anand Satyapriya</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Veena Satyapriya</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">Ronak Sheth</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Aaron Thompson</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Cassie Sell</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Kirat Singh</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Julia Tice</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Justin Sell</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Rajan Singh</td>
+    <td data-label="Table">18</td>
+    <td data-label="Name">Nathan Tice</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Arvind Shah</td>
+    <td data-label="Table">14</td>
+    <td data-label="Name">AR Srikantiah</td>
+    <td data-label="Table">24</td>
+    <td data-label="Name">Aashish Tripathi</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neena Shah</td>
+    <td data-label="Table">14</td>
+    <td data-label="Name">Leela Srikantiah</td>
+    <td data-label="Table">24</td>
+    <td data-label="Name">Anjali Tripathi</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Meenal Sharkey</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Hema Srivastava</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Anmol Tripathi</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Travis Sharkey</td>
+    <td data-label="Table">1</td>
+    <td data-label="Name">Prem Srivastava</td>
+    <td data-label="Table">17</td>
+    <td data-label="Name">Elisabeth Tripathi</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kashavallaji Sharma</td>
+    <td data-label="Table">5</td>
+    <td data-label="Name">David Stahl</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">Kamlesh Tripathi</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ami Shenoy</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Kristen Stahl</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">Raj Tripathi</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kartik Shenoy</td>
+    <td data-label="Table">19</td>
+    <td data-label="Name">Deborah Stout</td>
+    <td data-label="Table">23</td>
+    <td data-label="Name">Rajesh Tripathi</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ami Sheth</td>
+    <td data-label="Table">20</td>
+    <td data-label="Name">Sarah Stout</td>
+    <td data-label="Table">10</td>
+    <td data-label="Name">Rishi Tripathi</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Satish Tripathi</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Abbey Wall</td>
+    <td data-label="Table">12</td>
+    <td data-label="Name">Bryan Whitson</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Uma Tripathi</td>
+    <td data-label="Table">4</td>
+    <td data-label="Name">Isaac Wall</td>
+    <td data-label="Table">12</td>
+    <td data-label="Name">Jake Wozniak</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lauren Von Sossan</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Anna Wells</td>
+    <td data-label="Table">25</td>
+    <td data-label="Name">Rachel Wozniak</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Trevor Von Sossan</td>
+    <td data-label="Table">8</td>
+    <td data-label="Name">Amy Whitson</td>
+    <td data-label="Table">21</td>
+    <td data-label="Name">-</td>
+    <td data-label="Table">-</td>
+  </tr>
+</tbody>
+</table>
+
 <!--<div style="text-align: center;">
 <img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
 
@@ -1250,14 +1913,21 @@ function myFunction() {
   }
   if (input.value == "start slideshow") {
     input.style = 'visibility: collapse;height: 0px;border: 0px;padding: 0px';
-    var minn, maxx;
-    minn=0;
-    while (minn < tr.length) {
-    maxx=minn+10;
+    table.style.visibility = 'collapse';
+    document.getElementById("myTable2").style.visibility = "";
+    myFunction2(1,11);
+  } 	
+}
+
+function myFunction2(minn,pagesize) {
+  var table, tr, td, i, maxx;
+  table = document.getElementById("myTable2");
+  tr = table.getElementsByTagName("tr");
+    if (minn < tr.length-1) {
+    maxx=minn+pagesize-1;
     for (i = 0; i < tr.length; i++) {
     td = tr[i].getElementsByTagName("td")[0];
     if (td) {
-      txtValue = td.textContent || td.innerText;
       if (i<=maxx & i>=minn) {
         tr[i].style.display = "";
       } else {
@@ -1265,8 +1935,16 @@ function myFunction() {
       }
     }
     }
+    myTiming(maxx,pagesize);
+  }else {myFunction2(1,11)}  	
+}
+
+function myTiming(lastMaxx,pagesize) {
+
 	// Set the date we're counting down to
-var countDownDate = 10;
+var countDownDate = 9;
+document.getElementById("myTimer").innerHTML = "... "+countDownDate;
+countDownDate--;
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -1274,18 +1952,16 @@ var x = setInterval(function() {
   // Time calculations for days, hours, minutes and seconds
     
   // Output the result in an element with id="demo"
-  document.getElementById("myTimer").innerHTML = countDownDate;
+  document.getElementById("myTimer").innerHTML = "... "+countDownDate;
   countDownDate--;
     
   // If the count down is over, write some text 
-  if (countDownDate < 0) {
+  if (countDownDate < -1) {
     clearInterval(x);
-    document.getElementById("myTimer").innerHTML = "EXPIRED";
+    myFunction2(lastMaxx,pagesize);
   }
 }, 1000);
-
-  	minn=maxx;
-  } } 	
+	
 }
 </script>
 
