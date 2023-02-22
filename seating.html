@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hinal & Jay's Reception</title>
+    <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
+    <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
+    <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
+    <link rel="preload" as="image" href="https://b3event.github.io/apple-touch-icon.png">
+    <link href='https://fonts.googleapis.com/css?family=Petit Formal Script' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Pragati Narrow' rel='stylesheet'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+h2.headertekst {
+  text-align: center;
+  color: #dff5de;
+}
+    
+#myInput {
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+table {
+  border: 1px solid #dff5de;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #5d7466;
+  border: 1px solid #dff5de;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: left;
+  color: #dff5de;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #dff5de;
+}
+
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 5px solid #dff5de;
+    display: block;
+    margin-bottom: 1.2em;
+  }
+  
+  table td {
+    border-bottom: 0px solid #dff5de;
+    display: block;
+    font-size: .85em;
+    text-align: right;
+    color: #dff5de;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+
+/* general styling */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-color: #5d7466;
+}
+    
+.icenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+/*
+.styled-table {
+    border: 1px solid #5d7466;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled-table thead tr {
+    background-color: #5d7466;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+.styled-table tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}*/
+
+</style>
+</head>
+<body onload="myFunction()">
+
+<!--<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #5d7466;" onclick="location.href='https://www.b3event.com/'">-->
+<img src="logo01.png" class="icenter" alt="B3Event" width="200" height="200" style="border: 10px solid #5d7466;" onclick="location.href='https://b3event.github.io/'">
+<h2 class="headertekst" style="font-family: Petit Formal Script;width: 400px;margin-left: auto;margin-right: auto;background-color:#5d7466;">Welcome to<br>Hinal &amp; Jay's Reception</h2>
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
+
+<table id="myTable">
+<thead class="header">
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Table</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td data-label="Name">Aarti Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amisha Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amit Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ashish Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharti Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Falguni Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gauri Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jitesh Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kanchan Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kanhaiya Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Keshav Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kishan Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Naresh Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nilesh Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pravin Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raju Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">RIta Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sangita Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shital Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shreya Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Snehal Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Varsha Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Varsha Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yatin Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anisha Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Avi Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavin Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmistha Patel (NJ)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruval Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hanshaben Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hetal Patidar</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jagruti Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kabir Patidar</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kajal Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kunj Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mitesh Patidar</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nutan Patidar</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Palak Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pooja Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pritesh Patidar</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rutu Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sanjiv Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shobha Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Patel (NJ)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Suresh Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vidhisha Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vihana Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yana Patel</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ballubhai</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmi Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Diptiben Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemu Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jitu Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Meenaben</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shaileshbhai Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Taruna Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Umesh Patel</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aleyna Patel</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Eeshan Patel</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Elia Mehta</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kris Patel</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kush Patel</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Siddhi Patel</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amisha Mehta</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavik Mehta</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Divya Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Karuna Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Krishna Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Prafula Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Robin Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shanti Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Viren Patel</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmistha Patel (OH)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Girish Patel (OH)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nikunj Patel </td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nita Shah</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Priya Patel</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sanket Patel</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Saurin Shah</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shivani Patel</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aakash Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chandni Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jason Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Khushi Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mansi Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nikki Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niraj Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nirmal Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raj Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Urja Patel</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharat Patel</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gita Patel</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Bhakta</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nimisha Patel</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nipa Sheth</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Piyush Sheth</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rajeshree Patel</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunanda Bhakta</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Divya Varghese</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Garrett Gassensmith</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lucas Wilitzer</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Netasha Wilitzer</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Parth Patel</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rachana Rao</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shaineel Chand</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Trinkal Patel</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harshad Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kalpana Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Malvika Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mamta Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nisha Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nita Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sangita Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sudhir Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Patel </td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yogesh Patel</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harshita Pinnamaneni</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jannet Jones</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jaspreet Singh</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manasa Gummalla</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Navreen Kaur</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Patrick Breen</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Prashanth Vishwanathan</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shilpa Sabbani</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vikram Gidwani</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aman Shah</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gregg Schoen</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jaylen Patel</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Maddie McReynolds</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Natasha Shah</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neel Patel</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Priya Patel</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sapna Bhakta</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sharuti Patel</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shivani Bhakta</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ankita Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Balvant Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhansukh Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hasmukh Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jasuben Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kirti Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niam Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nikunj Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shobha Patel</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name"> Tara's Desai </td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Avinash Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhara Desai </td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharti Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minesh Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mumta Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Poonam Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Uday Patel</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chaya Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chetan Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Deepak Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dinesh Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nayana Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pramod Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Priti Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roshni Patel</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name"> Kareena </td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amish Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">David</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hema Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiral Patel </td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiren Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jay Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kaushik Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Krishna Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neha Patel</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruv Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minal Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mona Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neil Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raghav Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ripple Doshi</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rohan Doshi</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hinesh Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ila Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kalpanaben Patel </td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Naresh patel </td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shila Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Surekha Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tulsi Patel</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anandi Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ashwina Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hitesh Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jagruti Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyoti Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mehul Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pravin Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Priti Patel</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Umesh Patle</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Babubhai Patel</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harshil</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jessica</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Krishna</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Madhuben Patel</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mukesh Doshi</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Paresh</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rekha Doshi</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sapna </td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bela Patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhara Patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dipa Patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hirabhai</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jagdish patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Meenaben patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mehul Patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sharmila Patel </td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Patel</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tarak Patel</td>
+    <td data-label="Table">22</td>
+  </tr>
+</tbody>
+</table>
+
+<!--<div style="text-align: center;">
+<img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
+<img src="floral-1751088__480.png" height="100px" alt=""><br><br>
+<table class="styled-table">
+<thead>
+  <tr>
+    <th>Family</th>
+    <th>Table #</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Azra’s Family</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Siraj’s Family</td>
+    <td>B, 13, 15, 17 &amp; 19</td>
+  </tr>
+  <tr>
+    <td>Groom's Family</td>
+    <td>C, D, 2, 4, 6 &amp; 8</td>
+  </tr>
+  <tr>
+    <td>Bride's Family</td>
+    <td>1, 3, 5, 7 &amp; 9</td>
+  </tr>
+  <tr>
+    <td>Bridesmaids</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Open Seating</td>
+    <td>10, 12, 14, 16, 18 &amp; 20+</td>
+  </tr>
+</tbody>
+</table>
+
+<a href="timeline.jpg" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Weekend Itinerary</a><br><br>
+<a href="ceremony.jpg" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Wedding Ceremony Guide</a><br><br>
+<a href="Paradisus_Map.jpg" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Resort Map</a><br><br>
+<a href="https://waldophotos.app.link/MHrNs7Hu9wb" target="_blank" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Capture the Love (Upload Photos)</a><br><br>
+<a href="Thanks.png" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">A Note from Hinal & Jay</a><br><br>
+<!--<a href="weds.html" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Wedding Ceremony Dinner Seating</a><br><br>-->
+<!--<a href="ress.html" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Reception Dinner Seating</a><br><br>-->
+<!--<a href="#" style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Guest Book</a><br><br>
+<span style="font-family: Petit Formal Script;color: #dff5de;font-size: 20px;background-color:#5d7466;">Activities at Dreams:</span><br><br>
+<img src="appstore.png" alt="Download on the App Store" height="70px" style="padding: 11px;" onclick="location.href='https://apps.apple.com/us/app/amr-collection/id1561920692'"><img src="playstore.png" alt="Get it on Google Play" height="70px" onclick="location.href='https://play.google.com/store/apps/details?id=amresorts.app'"><br><br>-->
+<!--<img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
+<img src="floral-1751088__480.png" height="100px" alt=""><br><br>-->
+<!--<a href="sms:+16145479002" style="font-family: times new roman;color: #dff5de;font-size: 20px;background-color:#5d7466;">Questions: SMS the planner</a><br><br>
+<a href="https://www.b3event.com/" style="font-family: times new roman;color: #dff5de;font-size: 20px;background-color:#5d7466;">More about B3 Event Management</a>
+</div>-->
+   
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  if(input.value.length < 2)
+    filter = "$";
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+</body>
+</html>
