@@ -73,13 +73,21 @@ hr {
          //define two date object variables with dates inside it
          date1 = new Date();
          date2 = new Date("05/07/2023");
+         date1.setHours(0, 0, 0, 0);
 
          //calculate time difference
          var time_difference = date2.getTime() - date1.getTime();
 
          //calculate days difference by dividing total milliseconds in a day
          var days_difference = time_difference / (1000 * 60 * 60 * 24);
-       document.getElementById('din').innerHTML=Math.floor(days_difference)+' days left to Sneha & Rex\'s Wedding';
+    
+         if (Math.floor(days_difference) == 1) {
+         document.getElementById('din').innerHTML=Math.floor(days_difference)+' day left to Sneha & Rex\'s Wedding';
+         } else {
+         document.getElementById('din').innerHTML=Math.floor(days_difference)+' days left to Sneha & Rex\'s Wedding';
+         }
+    
+         
          
          //document.write("Number of days between dates <br>" + 
            //              date1 + " and <br>" + date2 + " are: <br>" 
