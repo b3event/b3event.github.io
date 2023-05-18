@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>B3 Wedding Weekend</title>
+    <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
+    <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
+    <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
+    <link rel="preload" as="image" href="https://b3event.github.io/apple-touch-icon.png">
+    <link href='https://fonts.googleapis.com/css?family=Petit Formal Script' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Pragati Narrow' rel='stylesheet'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background-image: url('https://www.w3schools.com//w3images/forestbridge.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+hr {
+  margin: auto;
+  width: 40%;
+}
+</style>
+<body>
+
+<div class="bgimg">
+  <div class="topleft">
+    <p><img src="https://b3event.github.io/apple-touch-icon.png" width="75px" height="75px"></p>
+  </div>
+  <div class="middle">
+    <h1>COMING SOON</h1>
+    <hr>
+    <p id='din2'>Please check back later - Page 1</p>
+  </div>
+  <div class="bottomleft">
+    <p></p>
+  </div>
+</div>
+
+</body>
+<script>
+         var date1, date2;
+         //define two date object variables with dates inside it
+         date1 = new Date();
+         date2 = new Date("05/07/2023");
+         date1.setHours(0, 0, 0, 0);
+
+         //calculate time difference
+         var time_difference = date2.getTime() - date1.getTime();
+
+         //calculate days difference by dividing total milliseconds in a day
+         var days_difference = time_difference / (1000 * 60 * 60 * 24);
+    
+         if (Math.floor(days_difference) == 1) {
+         document.getElementById('din').innerHTML=Math.floor(days_difference)+' day left to Sneha & Rex\'s Wedding';
+         } else {
+         document.getElementById('din').innerHTML=Math.floor(days_difference)+' days left to Sneha & Rex\'s Wedding';
+         }
+    
+         
+         
+         //document.write("Number of days between dates <br>" + 
+           //              date1 + " and <br>" + date2 + " are: <br>" 
+             //            + Math.floor(days_difference) + " days");
+      </script>
+</html>
