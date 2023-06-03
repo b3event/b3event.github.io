@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>B3 Wedding Weekend</title>
+    <title>Dirshani & Ameesh's Reception</title>
     <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
     <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
     <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
@@ -10,87 +10,2083 @@
     <link href='https://fonts.googleapis.com/css?family=Pragati Narrow' rel='stylesheet'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body, html {
-  height: 100%;
-  margin: 0;
+* {
+  box-sizing: border-box;
 }
 
-.bgimg {
-  background-image: url('https://www.w3schools.com//w3images/forestbridge.jpg');
-  height: 100%;
-  background-position: center;
-  background-size: cover;
-  position: relative;
-  color: white;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 25px;
-}
-
-.topleft {
-  position: absolute;
-  top: 0;
-  left: 16px;
-}
-
-.bottomleft {
-  position: absolute;
-  bottom: 0;
-  left: 16px;
-}
-
-.middle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+h2.headertekst {
   text-align: center;
+  color: #151716;
+}
+    
+#myInput {
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
 }
 
-hr {
-  margin: auto;
-  width: 40%;
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
 }
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #e9d8d0;
+  border: 1px solid #000000;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: left;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 5px solid #000000;
+    display: block;
+    margin-bottom: 1.2em;
+  }
+  
+  table td {
+    border-bottom: 0px solid #000000;
+    display: block;
+    font-size: .85em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+
+/* general styling */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-color: #e9d8d0;
+}
+    
+.icenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+/*
+.styled-table {
+    border: 1px solid #e9d8d0;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled-table thead tr {
+    background-color: #e9d8d0;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+.styled-table tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}*/
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #e9d8d0;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: #151716;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 </style>
-<body>
+</head>
+<body onload="myFunction()">
 
-<div class="bgimg">
-  <div class="topleft">
-    <p><img src="https://b3event.github.io/apple-touch-icon.png" width="75px" height="75px"></p>
+<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #e9d8d0;" onclick="location.href='https://www.b3event.com/'">
+<h2 class="headertekst" style="font-family: Petit Formal Script;width: 400px;margin-left: auto;margin-right: auto;background-color:#e9d8d0;">Welcome to Dirshani &amp; Ameesh's Reception</h2>
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
+
+<table id="myTable">
+<thead class="header">
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Table</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td data-label="Name">Neel Attaluri (Orlanda)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neev Attaluri (Orlanda)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Payal Attaluri (Orlanda)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vineel Attaluri (Orlanda)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Akash Bali</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Arvind Bhakta (Mobile)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhagi Bhakta (Mobile)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Deep Bhakta</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daxa Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hansa Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jay Bhakta</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jeetu Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Johny Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Komal Bhakta</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ketan Bhakta (Coleman)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mikin Bhakta</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mukesh Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neelam Bhakta</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raj Bhakta</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sangita Bhakta (Coleman)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aneer Bhula</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jinal Dahya (Dallas)</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neil Dahya (Dallas)</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Siddharth Das</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayna Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kavi Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manalee Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Suresh Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Viresh Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Zalak Dayaram</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Josh Dea (San Diego)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Audrey Demand</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ashish Desai (Somerset)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dayarambhai Desai (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemant Desai (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kanchanben Desai (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raju Desai</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Suni Desai</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunita Desai (Somerset)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Karanvir Dhother</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Delvin Gandhi</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhriti Gandhi</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ketan Gandhi</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vaishali Gandhi</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niki Govind (LA)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Feroza Haq</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hridoy Haq</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hridee Haq</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Saif Haq</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Clint Litton</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kaiia Litton</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neena Litton</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raj Litton</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sirwin Mahail</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roshni Mandania</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dipti Nagin (Little Rock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nayan Nagin (Little Rock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niyati Nagin (Little Rock)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yana Nagin (Little Rock)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niketa Parikh (Houston)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aidan Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anita Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Arya Patel (London)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ava Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Avnee Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aekta Patel (Brownfield)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Akash Patel (Lubbock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Arvind Patel (Spring)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anju Patel (Dyersburg)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aryan Patel (Atlanta)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aashi Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amish Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aviraj Patel (Lubbock)</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anjali Patel (Rockingham)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Asana Patel (Houston)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Akhil Patel (Lubbock)</td>
+    <td data-label="Table">16</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Arvind Patel (Atlanta)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ankur Patel (Nebraska)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amisha Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anya Patel (San Antonio)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Alpesh Patel (AR)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Alisha Patel (IL)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ashok Patel (LA)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aniya Patel (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Aryan Patel (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ajay Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Alpesh Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amar Patel (SC)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anesh Patel (Dallas)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Anant Patel (NC)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Avinash Patel (Knoxville)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Alpesh Patel (Dalton)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Amisha Patel (Chattanooga)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavna Patel (Memphis)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharat Patel (Monterey)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavin Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavin Patel (Fort Pierce)</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Balvant Patel (GA)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Badal Patel (Houston)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavin Patel (Houston)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bindia Patel (San Diego)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavika Patel (Gadsden)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavna Patel (Anniston)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharat Patel (Chattanooga)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Babu Patel (LA)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharat Patel (Florence)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavisha Patel (KY)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharti Patel (Huntsville)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bharti Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhikhu Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bindu Patel (Houston)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Binita Patel (SC)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bina Patel (Dalton)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chetan Patel (London)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Cayden Patel (Atlanta)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Champak Patel (AR)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chandrika Patel (MS)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chetan Patel (Charlotte)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chetan Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chetan Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Chandan Patel (Atlanta)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dennis Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhani ba Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dilan Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dylan Patel (Atlanta)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dipak Patel (Amarillo)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Devanshu Patel (LA)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dilan Patel (Knoxville)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daxa Patel (FL)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dilip Patel (FL)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daksh Patel (Nebraska)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dalsuk Patel (LA)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Devam Patel (Nebraska)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Divya Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Devan Patel (Waco)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daxa Patel (KY)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmista Patel (Florence)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruti Patel (Dallas)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dixit Patel (Dallas)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Daxa Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruv Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dina Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmesh Patel (Cotulla)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dharmesh Patel (Chattanooga)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ethan Patel (Houston)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Esha Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Falguni Patel (SC)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Felicia Patel (Berea)</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Fooram Patel (IL)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gita Patel (San Antonio)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gita Patel (Zambia)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Girish Patel (CA)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gita Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ganga Patel (Memphis)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gajendra Patel (Anniston)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Geeta Patel (Houston)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gulab Patel (Dallas)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gita Patel (Daytona)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Gopi Patel (Chattanooga)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiren Patel (Atlanta)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harendra Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harsha Patel (Monterey)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiren Patel (Roanoke)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hina Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hansa Patel (AR)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiteshwari Patel (Jonesboro)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hansa Patel (MS)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemant Patel (Memphis)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemant Patel (Houston)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiral Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hursh Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hasu Patel (AR)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hansa Patel (Knoxville)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Harry Patel (Knoxville)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemu Patel (IL)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hiren Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hemant Patel (Atlanta)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indu Patel (Little Rock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indu Patel (Clemson)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indu Patel (CA)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indira Patel (Dallas)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indu Patel (Tampa)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ishvar Patel (Dallas)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ila Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Indumami Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel (Tyler)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyoti Patel (Brownfield)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyotika Patel (Dallas)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyoti Patel (Chattanooga)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jeli Ba Patel (Woodstock)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jay Patel (Florida)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jay Patel (Lexington)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jigna Patel (Houston)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jahanvi Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel (Alexander City)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyoti Patel (Atlanta)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jyoti Patel (Rockingham)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jigar Patel (Gadsden)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Javahir Patel (Tampa)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jelliba Patel (Lawton)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jivan Patel (AR)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jignesh Patel (IL)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jignesh Patel (Houston)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayesh Patel (Tulsa)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jayna Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jashuben Patel (Houston)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Joshna Patel (Knoxville)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kiran Patel</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kruti Patel (Zambia)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kanta Patel (Cincinnati)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kishor Patel (Cincinnati)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kamal Patel (Lubbock)</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Keral Patel (Knoxville)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kelvin Patel (Omaha)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kunal Patel (Monterey)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kusumben Patel (Peachtree City)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kajal Patel (Atlanta)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kevin Patel (Atlanta)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Krishna Patel (Atlanta)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kusum Patel (Chattanooga)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Keira Patel (Waco)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kavshika Patel (Richmond)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kirtan Patel (KY)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Kishor Patel (Huntsville)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Laxmi Patel (Atlanta)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lilanani Patel (Vero beach)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lalifoi Patel (Pigeon Forge)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Lata Patel (Tampa)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manisha Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manju ba Patel (CA)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manju Ba Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mamta Patel (FL)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manesh Patel (FL)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manish Patel (Brownfield)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mahesh Patel (Zambia)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minesh Patel (SC)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mitesh Patel (Clemson)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mahendra Patel (Dallas)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manisha Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mukesh Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manisha Patel (Monterey)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Madhufoi Patel (NJ)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mankifoi Patel (Atlanta)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minal Patel (Atlanta)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Meghna Patel (Memphis)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mita Patel (Dallas)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mikhil Patel (Woodstock)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Miren Patel (Woodstock)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mahek Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manav Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mike Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minesh Patel (Rockingham)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mona Patel (Charlotte)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minesh Patel (Waco)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Minakshi Patel (Dallas)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mukesh Patel (AR)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Manu Patel (LA)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mahendra Patel (Daytona)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mina Patel (Atlanta)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mon Patel (Chattanooga)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Narendra Patel (San Antonio)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nitin Patel (London)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nareshchandra Patel (Fort Myers)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nila Patel (Lubbock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nilesh Patel (Lubbock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niru Patel (Fort Myers)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nita Patel (Clemson)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niyam Patel (Tyler)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neeta Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Natu Patel (Knoxville)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niru Patel (Knoxville)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Natasha Patel (Florida)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Noopur Patel (Fort Pierce)</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niketa Patel (Lawton)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nyah Patel (Charlotte)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neal Patel (Jonesboro)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nayna Patel (GA)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nilesh Patel (Dallas)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nayna Patel (LA)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niam Patel (Atlanta)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nyra Patel (Atlanta)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nayna Patel (San Antonio)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nilesh Patel (San Antonio)</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Naresh Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neetu Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nutan Patel (Lawton)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nirmal Patel (Chattanooga)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nimisha Patel (AR)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Nisha Patel (Knoxville)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Naresh Patel (Dallas)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Niran Patel (Dallas)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Narendra Patel (Florida)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Priti Patel (Atlanta)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Paresh Patel (Clemson)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pankaj Patel (Atlanta)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pravin Patel (Chattanooga)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pushpa Patel (Dallas)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pooja Patel (Lubbock)</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pooja Patel (Nashville)</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pranav Patel (Vero Beach)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pritesh Patel (Knoxville)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pravin Patel (MS)</td>
+    <td data-label="Table">14</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Poonam Patel (Dallas)</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Preya Patel (Henderson)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Parul Patel (Alexander City)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pintu Patel (Nebraska)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pranav Patel (KY)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pooja Patel (Huntsville)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Poonam Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Praful Patel (Asheville)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pushpa Patel (Florida)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Pushpa Patel (Texas)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Purvi Patel (Dalton)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Raman Patel (Little Rock)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramesh Patel (Brownfield)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramesh Patel (Memphis)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramila Patel (Spring)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rupal Patel (Tyler)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Riya Patel (Clemson)</td>
+    <td data-label="Table">3</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rupal Patel (Atlanta)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Patel (Woodstock)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rashmi Patel (Woodstock)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rita Patel (Roanoke)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Radha Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ravi Patel (Florida)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roshni Patel (Lubbock)</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roma Patel (Charlotte)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramila Patel (AR)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roshan Patel (AR)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ragini Patel (KY)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Riya Patel (KY)</td>
+    <td data-label="Table">28</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Patel (Cincinnati)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramesh Patel (RK)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">RInku Patel (Cincinnati)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ravi Patel (Huntsville)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Reena Patel (Houston)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Patel (CA)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Roshan Patel (Little Rock)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rianna Patel (Dallas)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ramesh Patel (Atlanta)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sharmila Patel (London)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Siraj Patel (Knoxville)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sajaan Patel (Tyler)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sangeeta Patel (Amarillo)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Subodh Patel (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sagar Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sapna Patel (Memphis)</td>
+    <td data-label="Table">8</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sital Patel (AR)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sumi &amp; Children Patel (AR)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shivani Patel (Lexington)</td>
+    <td data-label="Table">11</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sagar Patel (LA)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunny Patel (Charlotte)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sweta Patel (Lawton)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sandip Patel (Jonesboro)</td>
+    <td data-label="Table">13</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Suniben Patel (Peachtree City)</td>
+    <td data-label="Table">20</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Samir Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sangeeta Patel</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shalini Patel (Vero Beach)</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Subash Patel (Lawton)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shivani Patel (Chattanooga)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sheetal Patel (Waco)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shruthi Patel (San Antonio)</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sarju Patel (Cincinnati)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sima Patel (KY)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sunil Patel (Lexington)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sanket Patel (Houston)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Syan Patel (Huntsville)</td>
+    <td data-label="Table">30</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sudha Patel (Asheville)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Shivam Patel (Asheville)</td>
+    <td data-label="Table">34</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sudha Patel (Dallas)</td>
+    <td data-label="Table">37</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sanjay Patel (Dalton)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tulsi Patel (Knoxville)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tammana Patel (Omaha)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tejal Patel (Houston)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Tina Patel (Lexington)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Thakor Patel (Tampa)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Usha Patel (Houston)</td>
+    <td data-label="Table">7</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Usha Patel (Kimball)</td>
+    <td data-label="Table">21</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Urmila Patel</td>
+    <td data-label="Table">23</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Urmila Patel (AR)</td>
+    <td data-label="Table">25</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Viren Patel (Kimball)</td>
+    <td data-label="Table">1</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vinod Patel (Dyersburg)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Valab Patel (Dallas)</td>
+    <td data-label="Table">9</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vinnie Patel (Charlotte)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Viraj Patel (Henderson)</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vinod Patel (LA)</td>
+    <td data-label="Table">24</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Varsha Patel (AR)</td>
+    <td data-label="Table">27</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vinod Patel (Lubbock)</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vaishali &amp; Children Patel (Tulsa)</td>
+    <td data-label="Table">33</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vanmari Patel (Houston)</td>
+    <td data-label="Table">38</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vasu Patel (NC)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yashvi Patel (Lubbock)</td>
+    <td data-label="Table">10</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yash Patel (Rockingham)</td>
+    <td data-label="Table">12</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yutika Patel</td>
+    <td data-label="Table">17</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yatin Patel (Cincinnati)</td>
+    <td data-label="Table">29</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yagna Patel (Richmond)</td>
+    <td data-label="Table">31</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Yogi Patel (Cotulla)</td>
+    <td data-label="Table">39</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavika Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Bhavna Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jaykant Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mahesh Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rita Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rushabh Patidar (Manchester)</td>
+    <td data-label="Table">19</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Vamsi Potluri</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dev Raman (Atlanta)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mayuri Raman (Atlanta)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Maya Raman (Atlanta)</td>
+    <td data-label="Table">4</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Piyush Raman (Atlanta)</td>
+    <td data-label="Table">2</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ananth Ramu</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Laxmi Ramu</td>
+    <td data-label="Table">26</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Neha Rao</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rohith Reddy</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Cary Roy (Mississippi St)</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Devanshi Sen (Atlanta)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruv Sen (Atlanta)</td>
+    <td data-label="Table">41</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Avni Shah</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Atul Shah</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Hersh Shah</td>
+    <td data-label="Table">22</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Swati Shah</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Sadiksha Sharma</td>
+    <td data-label="Table">15</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Mayank Shashtri (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ranna Shashtri (Lubbock)</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Egor Sutharuski</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Ketan Talati</td>
+    <td data-label="Table">32</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Braden Thomas</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jaya Vasandani</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Jitendra Vasandani</td>
+    <td data-label="Table">6</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Dhruv Vasant (Salinas)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Falguni Vasant (Salinas)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rakesh Vasant (Salinas)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Rushil Vasant (Salinas)</td>
+    <td data-label="Table">5</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Andrew Voland</td>
+    <td data-label="Table">18</td>
+  </tr>
+  <tr>
+    <td data-label="Name">Cat Weichmann</td>
+    <td data-label="Table">18</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+<!--<div style="text-align: center;">
+<img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
+<br><br><img src="floral-1751088__480.png" height="100px" alt=""><br>-->
+<!--<table class="styled-table">
+<thead>
+  <tr>
+    <th>Family</th>
+    <th>Table #</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Azra’s Family</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Siraj’s Family</td>
+    <td>B, 13, 15, 17 &amp; 19</td>
+  </tr>
+  <tr>
+    <td>Groom's Family</td>
+    <td>C, D, 2, 4, 6 &amp; 8</td>
+  </tr>
+  <tr>
+    <td>Bride's Family</td>
+    <td>1, 3, 5, 7 &amp; 9</td>
+  </tr>
+  <tr>
+    <td>Bridesmaids</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Open Seating</td>
+    <td>10, 12, 14, 16, 18 &amp; 20+</td>
+  </tr>
+</tbody>
+</table>-->
+
+<!--<a href="weekiti.jpeg" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Weekend Itinerary</a><br><br>
+<a href="seating.html" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Reception Seating</a><br><br>
+<a href="Paradisus_Map.jpg" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Resort Map</a><br><br>
+<a href="https://waldophotos.app.link/lhvHuHW9Nzb?source=24rceBgo8jwhgqAxTs4r2Dt" target="_blank" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Capture the Love (Upload Photos)</a><br><br>-->
+<!--<a href="https://photos.app.goo.gl/a5HWT6tjxZRbMbJF7" target="_blank" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">View our Photo Gallery</a><br><br>
+<a href="thanksr.jpeg" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">A Note from Dirshani & Ameesh</a><br><br>
+<a href="#" onclick="document.getElementById('myBtn').click();" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Transportation Details</a><br><br>
+<a href="weds.html" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Wedding Ceremony Dinner Seating</a><br><br>-->
+<!--<a href="ress.html" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Reception Dinner Seating</a><br><br>-->
+<!--<a href="#" style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Guest Book</a><br><br>
+<span style="font-family: Petit Formal Script;color: #151716;font-size: 20px;background-color:#e9d8d0;">Activities at Dreams:</span><br><br>
+<img src="appstore.png" alt="Download on the App Store" height="70px" style="padding: 11px;" onclick="location.href='https://apps.apple.com/us/app/amr-collection/id1561920692'"><img src="playstore.png" alt="Get it on Google Play" height="70px" onclick="location.href='https://play.google.com/store/apps/details?id=amresorts.app'"><br><br>-->
+<!--<img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>
+<img src="floral-1751088__480.png" height="100px" alt=""><br><br>
+<a href="sms:+12162993877" style="font-family: times new roman;color: #151716;font-size: 20px;background-color:#e9d8d0;">Questions: SMS the planner</a><br><br>
+<a href="https://www.b3event.com/" style="font-family: times new roman;color: #151716;font-size: 20px;background-color:#e9d8d0;">More about B3 Event Management</a>
+<button id="myBtn" style="display: none;">Open Modal</button>
+</div>-->
+
+<!-- The Modal 
+<div id="myModal" class="modal">
+
+  Modal content
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <br><br>
+    <a href="transportation.jpeg" style="font-family: times;color: #151716;font-size: 20px;">Shuttle Details</a><br><br>
+    <a href="https://maps.app.goo.gl/J1vhEUPtacZPV3HA6" style="font-family: times;color: #151716;font-size: 20px;">Driving directions to Hotel Covington (Fri)</a><br><br>
+    <a href="sat.jpg" style="font-family: times;color: #151716;font-size: 20px;">Driving directions to Greenacres Arts Center (Sat)</a><br><br>
+    <a href="https://maps.app.goo.gl/pk6e72HDnrnzXMXy8" style="font-family: times;color: #151716;font-size: 20px;">Driving directions to Drees Pavilion (Sun)</a><br><br>
   </div>
-  <div class="middle">
-    <h1>COMING SOON</h1>
-    <hr>
-    <p id='din2'>Please check back later - Page 1</p>
-  </div>
-  <div class="bottomleft">
-    <p></p>
-  </div>
-</div>
+
+</div>-->
+   
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  if(input.value.length < 2)
+    filter = "$";
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on the button, open the modal
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
 
 </body>
-<script>
-         var date1, date2;
-         //define two date object variables with dates inside it
-         date1 = new Date();
-         date2 = new Date("05/07/2023");
-         date1.setHours(0, 0, 0, 0);
-
-         //calculate time difference
-         var time_difference = date2.getTime() - date1.getTime();
-
-         //calculate days difference by dividing total milliseconds in a day
-         var days_difference = time_difference / (1000 * 60 * 60 * 24);
-    
-         if (Math.floor(days_difference) == 1) {
-         document.getElementById('din').innerHTML=Math.floor(days_difference)+' day left to Sneha & Rex\'s Wedding';
-         } else {
-         document.getElementById('din').innerHTML=Math.floor(days_difference)+' days left to Sneha & Rex\'s Wedding';
-         }
-    
-         
-         
-         //document.write("Number of days between dates <br>" + 
-           //              date1 + " and <br>" + date2 + " are: <br>" 
-             //            + Math.floor(days_difference) + " days");
-      </script>
 </html>
