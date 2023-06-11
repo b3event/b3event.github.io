@@ -1494,10 +1494,11 @@ function myFunction() {
   //}
   var myStuff = loadFile("Links.txt");
   alert(myStuff);
+  var myArray = myStuff.split('\n');
   var linelink, indexlink, linename;
   for (i = 0; i < 10; i++) {
-  alert(i); 
-  //linelink = myStuff.split('\n')[i];
+  linelink = myArray[i];
+  alert(linelink);
   //i++;
   //alert(linkelink);
   //indexlink = i;
