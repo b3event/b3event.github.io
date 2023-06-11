@@ -1402,8 +1402,16 @@ img:hover {
 <!--<a href="weekiti.jpeg" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Weekend Itinerary</a><br><br>
 <a href="seating.html" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Reception Seating</a><br><br>
 <a href="Paradisus_Map.jpg" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Resort Map</a><br><br>-->
-<a href="https://waldophotos.app.link/lhvHuHW9Nzb?source=24rceBgo8jwhgqAxTs4r2Dt" target="_blank" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Capture the Love (Upload Photos)</a><br><br>
-<a href="seating.html" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Reception Seating</a><br><br>
+<div id="div1" style="display: none;"><a id="link1" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link1</a><br><br></div>
+<div id="div2" style="display: none;"><a id="link2" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link2</a><br><br></div>
+<div id="div3" style="display: none;"><a id="link3" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link3</a><br><br></div>
+<div id="div4" style="display: none;"><a id="link4" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link4</a><br><br></div>
+<div id="div5" style="display: none;"><a id="link5" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link5</a><br><br></div>
+<div id="div6" style="display: none;"><a id="link6" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link6</a><br><br></div>
+<div id="div7" style="display: none;"><a id="link7" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link7</a><br><br></div>
+<div id="div8" style="display: none;"><a id="link8" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link8</a><br><br></div>
+<div id="div9" style="display: none;"><a id="link9" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link9</a><br><br></div>
+<div id="div10" style="display: none;"><a id="link10" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link10</a><br><br></div>
 <!--<a href="https://photos.app.goo.gl/a5HWT6tjxZRbMbJF7" target="_blank" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">View our Photo Gallery</a><br><br>
 <a href="thanksr.jpeg" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">A Note from Nisha & Shyam</a><br><br>
 <a href="#" onclick="document.getElementById('myBtn').click();" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">Transportation Details</a><br><br>
@@ -1480,6 +1488,47 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+</script>
+<script>
+
+// Synchronously read a text file from the web server with Ajax
+//
+// The filePath is relative to the web page folder.
+// Example:   myStuff = loadFile("Chuuk_data.txt");
+//
+// You can also pass a full URL, like http://sealevel.info/Chuuk1_data.json, but there
+// might be Access-Control-Allow-Origin issues. I found it works okay in Firefox, Edge,
+// or Opera, and works in IE 11 if the server is configured properly, but in Chrome it only
+// works if the domains exactly match (and note that "xyz.com" & "www.xyz.com" don't match).
+// Otherwise Chrome reports an error:
+//
+//   No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://sealevel.info' is therefore not allowed access.
+//
+// That happens even when "Access-Control-Allow-Origin *" is configured in .htaccess,
+// and even though I verified the headers returned (you can use a header-checker site like
+// http://www.webconfs.com/http-header-check.php to check it). I think it's a Chrome bug.
+function loadFile(filePath) {
+  var result = null;
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", filePath, false);
+  xmlhttp.send();
+  if (xmlhttp.status==200) {
+    result = xmlhttp.responseText;
+  }
+  return result;
+}
+
+var myStuff = loadFile("Links.txt");
+alert(myStuff);
+
+var linee = myStuff.split('\n')[0];
+alert(linee);
+linee = myStuff.split('\n')[1];
+alert(linee);
+linee = myStuff.split('\n')[2];
+alert(linee);
+linee = myStuff.split('\n')[3];
+alert(linee);
 </script>
 
 </body>
