@@ -1462,6 +1462,7 @@ function myFunction() {
       }
     }       
   }
+  generatelinks();
 }
 // Get the modal
 var modal = document.getElementById("myModal");
@@ -1489,6 +1490,7 @@ window.onclick = function(event) {
   }
 }
 </script>
+
 <script>
 
 // Synchronously read a text file from the web server with Ajax
@@ -1517,10 +1519,21 @@ function loadFile(filePath) {
   }
   return result;
 }
-
-var myStuff = loadFile("Links.txt");
-alert(myStuff);
 </script>
-
+<script type="text/javascript">
+function generatelinks() {
+	var myStuff = loadFile("Links.txt");
+	for (let i = 0; i < 1; i++) {
+  var linelink = myStuff.split('\n')[i];
+  i++;
+  var indexlink = i;
+  var linename = myStuff.split('\n')[i];
+  
+  document.getElementById("div"+indexlink).style.display="";
+  document.getElementById("link"+)indexlink.href=linelink;
+  document.getElementById("link"+)indexlink.innerHTML=linename;
+}
+}
+</script>
 </body>
 </html>
