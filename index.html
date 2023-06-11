@@ -1521,14 +1521,16 @@ function loadFile(filePath) {
 var myStuff = loadFile("Links.txt");
 alert(myStuff);
 
-var linee = myStuff.split('\n')[0];
-alert(linee);
-linee = myStuff.split('\n')[1];
-alert(linee);
-linee = myStuff.split('\n')[2];
-alert(linee);
-linee = myStuff.split('\n')[3];
-alert(linee);
+for (let i = 0; i < 1; i++) {
+  var linelink = myStuff.split('\n')[i];
+  i++;
+  var indexlink = i;
+  var linename = myStuff.split('\n')[i];
+  
+  document.getElementById("div"+indexlink).style.display="";
+  document.getElementById("link"+)indexlink.href=linelink;
+  document.getElementById("link"+)indexlink.innerHTML=linename;
+}
 </script>
 
 </body>
