@@ -1506,8 +1506,8 @@ function myFunction() {
   document.getElementById("link"+indexlink).href=linelink;
   document.getElementById("link"+indexlink).innerHTML=linename;
   
-  if (myArray[i*3+2]==="") {
-  	
+  if (myArray[i*3+2]==="new") {
+  	   document.getElementById("link"+indexlink).target="_blank";
   }  
   
   if (linelink==="undefined") {
