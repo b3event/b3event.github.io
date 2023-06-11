@@ -4,3 +4,6 @@ new
 seating.html
 Reception Seating
 same
+https://google.com
+testing 3rd link opens new page
+new
