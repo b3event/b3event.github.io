@@ -1,5 +1,9 @@
 Only-Seating-Chart
 Highlight Color
-f8ecbd
+ead4e1
 Text + table color
-565349
+420123
+Title of Landing Page
+Sid and Lindsey
+Title of Seating Page
+Welcome to Lindsey & Sid's Reception
