@@ -149,16 +149,16 @@ img:hover {
 <!--<img src="https://cdn.pixabay.com/photo/2016/10/18/19/04/floral-1751088__480.png" height="100px" alt=""><br><br>-->
 <img src="floral-1751088__480.png" height="100px" alt=""><br>
 
-<div id="div1" style="display: none;"><a id="link1" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link1</a><br><br></div>
-<div id="div2" style="display: none;"><a id="link2" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link2</a><br><br></div>
-<div id="div3" style="display: none;"><a id="link3" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link3</a><br><br></div>
-<div id="div4" style="display: none;"><a id="link4" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link4</a><br><br></div>
-<div id="div5" style="display: none;"><a id="link5" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link5</a><br><br></div>
-<div id="div6" style="display: none;"><a id="link6" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link6</a><br><br></div>
-<div id="div7" style="display: none;"><a id="link7" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link7</a><br><br></div>
-<div id="div8" style="display: none;"><a id="link8" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link8</a><br><br></div>
-<div id="div9" style="display: none;"><a id="link9" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link9</a><br><br></div>
-<div id="div10" style="display: none;"><a id="link10" href="" style="font-family: Petit Formal Script;color: #222325;font-size: 20px;background-color:#b8c0c2;">link10</a><br><br></div>
+<div id="div1" style="display: none;"><a id="link1" href="" style="font-family: Petit Formal Script;font-size: 20px;">link1</a><br><br></div>
+<div id="div2" style="display: none;"><a id="link2" href="" style="font-family: Petit Formal Script;font-size: 20px;">link2</a><br><br></div>
+<div id="div3" style="display: none;"><a id="link3" href="" style="font-family: Petit Formal Script;font-size: 20px;">link3</a><br><br></div>
+<div id="div4" style="display: none;"><a id="link4" href="" style="font-family: Petit Formal Script;font-size: 20px;">link4</a><br><br></div>
+<div id="div5" style="display: none;"><a id="link5" href="" style="font-family: Petit Formal Script;font-size: 20px;">link5</a><br><br></div>
+<div id="div6" style="display: none;"><a id="link6" href="" style="font-family: Petit Formal Script;font-size: 20px;">link6</a><br><br></div>
+<div id="div7" style="display: none;"><a id="link7" href="" style="font-family: Petit Formal Script;font-size: 20px;">link7</a><br><br></div>
+<div id="div8" style="display: none;"><a id="link8" href="" style="font-family: Petit Formal Script;font-size: 20px;">link8</a><br><br></div>
+<div id="div9" style="display: none;"><a id="link9" href="" style="font-family: Petit Formal Script;font-size: 20px;">link9</a><br><br></div>
+<div id="div10" style="display: none;"><a id="link10" href="" style="font-family: Petit Formal Script;font-size: 20px;">link10</a><br><br></div>
 
 <img src="floral-1751088__480.png" height="100px" alt=""><br><br>
 <a href="sms:+1" style="font-family: times new roman;font-size: 20px;">Questions: SMS the planner</a><br><br>
@@ -203,10 +203,12 @@ function myFunction2() {
   var myStuff = loadFile("Config.txt");
   var myArray = myStuff.split('\n');
     
-  var imgs = document.getElementsByTagName("img");
+  var alnks = document.getElementsByTagName("a");
   for (var i = 0; i < imgs.length; i++) {
-        imgs[i].style["border"] = "10px solid #"+myArray[2];
+        alnks[i].style["background-color"] = "#"+myArray[2];
+        alnks[i].style["color"] = "#"+myArray[4];
     }
+  document.getElementById("lago").style["border"] = "10px solid #"+myArray[2];
   document.body.style.backgroundColor = "#"+myArray[2];
   document.getElementById("titlesh").style["background-color"] = "#"+myArray[2];
   document.getElementById("titlesh").style["color"] = "#"+myArray[4];
@@ -218,7 +220,6 @@ function myFunction2() {
   for (var i = 0; i < myArray[10]; i++) {
         breaksss = breaksss+"<br>";
     }
-  alert(breaksss);
   document.getElementById("breakss").innerHTML=breaksss;
 }
 
