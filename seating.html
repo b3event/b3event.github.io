@@ -145,7 +145,7 @@ img:hover {
 </head>
 <body onload="myFunction2()">
 
-<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" onclick="location.href='https://www.b3event.com/'">
+<img id="lago" src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" onclick="location.href='https://www.b3event.com/'">
 <h2 class="headertekst">Seating Chart</h2>
 
 
@@ -1963,6 +1963,7 @@ function myFunction2() {
   var myStuff = loadFile("Config.txt");
   var myArray = myStuff.split('\n');
     
+  document.getElementById("lago").style.border = '10px';  
   /*var imgs = container.getElementsByTagName("img");
   var i;
   for (i = 0; i < imgs.length; i++) {
