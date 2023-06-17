@@ -20,7 +20,6 @@ h2.headertekst {
   font-family: Petit Formal Script;
   width: 400px;margin-left: auto;
   margin-right: auto;
-  background-color:#e9d8d0;
 }
     
 #myInput {
@@ -145,7 +144,7 @@ img:hover {
 <body onload="myFunction2()">
 
 <img id="lago" src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" onclick="location.href='https://www.b3event.com/'">
-<h2 class="headertekst">Seating Chart</h2>
+<h2 id="titlesh" class="headertekst">Seating Chart</h2>
 
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
@@ -1967,6 +1966,7 @@ function myFunction2() {
         imgs[i].style["border"] = "10px solid #"+myArray[2];
     }
   document.body.style.backgroundColor = "#"+myArray[2];
+  document.getElementsByTagName("titlesh").style["background-color"] = "#"+myArray[2];
     	
   myFunction();
 
