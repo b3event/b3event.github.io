@@ -1966,7 +1966,11 @@ function myFunction2() {
     }
   document.body.style.backgroundColor = "#"+myArray[2];
   document.getElementById("titlesh").style["background-color"] = "#"+myArray[2];
-  document.getElementById("myTable").style["background-color"] = "#"+myArray[2];
+  
+  var trs = document.getElementsByTagName("tr");
+  for (var i = 0; i < trs.length; i++) {
+        trs[i].style["background-color"] = "#"+myArray[2];
+    }
   
   myFunction();
 
