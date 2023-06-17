@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Landing Page</title>
+    <link rel="icon" href="https://b3event.github.io/favicon.ico" sizes="any"><!-- 32×32 -->
+    <link rel="apple-touch-icon" href="https://b3event.github.io/apple-touch-icon.png"><!-- 180×180 -->
+    <link rel="manifest" href="https://b3event.github.io/manifest.webmanifest">
+    <link rel="preload" as="image" href="https://b3event.github.io/apple-touch-icon.png">
+    <link href='https://fonts.googleapis.com/css?family=Petit Formal Script' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Pragati Narrow' rel='stylesheet'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+h2.headertekst {
+  text-align: center;
+  font-family: Petit Formal Script;
+  width: 400px;margin-left: auto;
+  margin-right: auto;
+}
+    
+#myInput {
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  border: 1px solid;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: left;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 5px solid;
+    display: block;
+    margin-bottom: 1.2em;
+  }
+  
+  table td {
+    border-bottom: 0px solid;
+    display: block;
+    font-size: .85em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+
+/* general styling */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+}
+    
+.icenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+</style>
+</head>
+<body onload="myFunction2()">
+
+<img id="lago" src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" onclick="location.href='https://www.b3event.com/'">
+<h2 id="titlesh" class="headertekst">Landing Page</h2>
+
+
+
+<script>
+
+// Synchronously read a text file from the web server with Ajax
+//
+// The filePath is relative to the web page folder.
+// Example:   myStuff = loadFile("Chuuk_data.txt");
+//
+// You can also pass a full URL, like http://sealevel.info/Chuuk1_data.json, but there
+// might be Access-Control-Allow-Origin issues. I found it works okay in Firefox, Edge,
+// or Opera, and works in IE 11 if the server is configured properly, but in Chrome it only
+// works if the domains exactly match (and note that "xyz.com" & "www.xyz.com" don't match).
+// Otherwise Chrome reports an error:
+//
+//   No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://sealevel.info' is therefore not allowed access.
+//
+// That happens even when "Access-Control-Allow-Origin *" is configured in .htaccess,
+// and even though I verified the headers returned (you can use a header-checker site like
+// http://www.webconfs.com/http-header-check.php to check it). I think it's a Chrome bug.
+function loadFile(filePath) {
+  var result = null;
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", filePath, false);
+  xmlhttp.send();
+  if (xmlhttp.status==200) {
+    result = xmlhttp.responseText;
+  }
+  return result;
+}
+</script>
+
+   
+<script>
+
+function myFunction2() {
+  
+  var myStuff = loadFile("Config.txt");
+  var myArray = myStuff.split('\n');
+    
+  var imgs = document.getElementsByTagName("img");
+  for (var i = 0; i < imgs.length; i++) {
+        imgs[i].style["border"] = "10px solid #"+myArray[2];
+    }
+  document.body.style.backgroundColor = "#"+myArray[2];
+  document.getElementById("titlesh").style["background-color"] = "#"+myArray[2];
+  document.getElementById("titlesh").style["color"] = "#"+myArray[4];
+  document.getElementById("titlesh").innerHTML = myArray[8];
+  document.title = myArray[8];
+  
+  
+}
+
+</script>
+
+</body>
+</html>

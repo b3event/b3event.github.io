@@ -4,6 +4,8 @@ ead4e1
 Text + table color
 420123
 Title of Landing Page
-Sid and Lindsey
+Welcome to Nisha & Shyam's Wedding Weekend
 Title of Seating Page
 Lindsey & Sid's Reception
+How many lines to leave empty under the landing header
+3
