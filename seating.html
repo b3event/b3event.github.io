@@ -220,11 +220,10 @@ function myFunction2() {
   
   var xtb=document.getElementById('myTable');
   
-  var myStuff1 = loadFile("Config.txt");
-  var myArray1 = myStuff.split('\n');
-  //var myStuff2 = loadFile("Tables.txt");
-  //var myArray2 = myStuff.split('\n');
-  var myArray2 = ["1", "2", "4"];
+  var myStuff1 = loadFile("Names.txt");
+  var myArray1 = myStuff1.split('\n');
+  var myStuff2 = loadFile("Tables.txt");
+  var myArray2 = myStuff2.split('\n');
   
   for (var i = 0; i < myArray1.length; i++) {
         var new_row = xtb.rows[1].cloneNode(true);
