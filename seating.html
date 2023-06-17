@@ -1964,6 +1964,8 @@ function myFunction2() {
   document.body.style.backgroundColor = "#"+myArray[2];
   document.getElementById("titlesh").style["background-color"] = "#"+myArray[2];
   document.getElementById("titlesh").style["color"] = "#"+myArray[4];
+  document.getElementById("titlesh").innerHTML = myArray[8];
+  document.title = myArray[8];
   
   var trs = document.getElementsByTagName("tr");
   for (var i = 0; i < trs.length; i++) {

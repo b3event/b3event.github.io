@@ -6,4 +6,4 @@ Text + table color
 Title of Landing Page
 Sid and Lindsey
 Title of Seating Page
-Welcome to Lindsey & Sid's Reception
+Lindsey & Sid's Reception
