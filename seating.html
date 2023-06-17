@@ -1963,13 +1963,10 @@ function myFunction2() {
   var myStuff = loadFile("Config.txt");
   var myArray = myStuff.split('\n');
     
-  document.getElementById("lago").style.border = '10px';  
-  /*var imgs = container.getElementsByTagName("img");
-  var i;
-  for (i = 0; i < imgs.length; i++) {
-        //imgs[i].style = "border: 10px solid #e9d8d0;";
-        alert("in for loop");
-    }*/
+  var imgs = document.getElementsByTagName("img");
+  for (var i = 0; i < imgs.length; i++) {
+        imgs[i].style["border"] = "10px solid #"+myArray[2];
+    }
     	
   myFunction();
 

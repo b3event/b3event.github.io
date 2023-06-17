@@ -1,1 +1,3 @@
 Only-Seating-Chart
+Highlight Color
+e9d8d0
