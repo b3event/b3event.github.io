@@ -16,7 +16,6 @@
 
 h2.headertekst {
   text-align: center;
-  color: #005500;
   font-family: Petit Formal Script;
   width: 400px;margin-left: auto;
   margin-right: auto;
@@ -48,9 +47,8 @@ table caption {
 }
 
 table tr {
-  border: 1px solid #000000;
+  border: 1px solid;
   padding: .35em;
-  color: #005500;
 }
 
 table th,
@@ -63,7 +61,6 @@ table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: #005500;
 }
 
 
@@ -88,13 +85,13 @@ table th {
   }
   
   table tr {
-    border-bottom: 5px solid #000000;
+    border-bottom: 5px solid;
     display: block;
     margin-bottom: 1.2em;
   }
   
   table td {
-    border-bottom: 0px solid #000000;
+    border-bottom: 0px solid;
     display: block;
     font-size: .85em;
     text-align: right;
@@ -1966,10 +1963,13 @@ function myFunction2() {
     }
   document.body.style.backgroundColor = "#"+myArray[2];
   document.getElementById("titlesh").style["background-color"] = "#"+myArray[2];
+  document.getElementById("titlesh").style["color"] = "#"+myArray[4];
   
   var trs = document.getElementsByTagName("tr");
   for (var i = 0; i < trs.length; i++) {
         trs[i].style["background-color"] = "#"+myArray[2];
+        trs[i].style["border-color"] = "#"+myArray[4];
+        trs[i].style["color"] = "#"+myArray[4];
     }
   
   myFunction();

@@ -1,3 +1,5 @@
 Only-Seating-Chart
 Highlight Color
 e9d8d0
+Text + table color
+0000ff
