@@ -16,7 +16,11 @@
 
 h2.headertekst {
   text-align: center;
-  color: #151716;
+  color: #005500;
+  font-family: Petit Formal Script;
+  width: 400px;margin-left: auto;
+  margin-right: auto;
+  background-color:#e9d8d0;
 }
     
 #myInput {
@@ -48,6 +52,7 @@ table tr {
   background-color: #e9d8d0;
   border: 1px solid #000000;
   padding: .35em;
+  color: #005500;
 }
 
 table th,
@@ -60,6 +65,7 @@ table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase;
+  color: #005500;
 }
 
 
@@ -139,8 +145,8 @@ img:hover {
 </head>
 <body onload="myFunction2()">
 
-<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" style="border: 10px solid #e9d8d0;" onclick="location.href='https://www.b3event.com/'">
-<h2 class="headertekst" style="font-family: Petit Formal Script;width: 400px;margin-left: auto;margin-right: auto;background-color:#e9d8d0;">Seating Chart</h2>
+<img src="https://b3event.github.io/apple-touch-icon.png" class="icenter" alt="B3Event" width="75" height="75" onclick="location.href='https://www.b3event.com/'">
+<h2 class="headertekst">Seating Chart</h2>
 
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Please type atleast 2 letters of your name..." title="Search by your name">
@@ -1956,7 +1962,12 @@ function myFunction2() {
  
   var myStuff = loadFile("Config.txt");
   var myArray = myStuff.split('\n');
+    
+  var imgs = container.getElementsByTagName("img");
   
+  for (var i = 0; i < imgs.length; i++) {
+        imgs[i].style = "border: 10px solid #e9d8d0;";
+    }
     	
   myFunction();
 
