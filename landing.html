@@ -161,7 +161,7 @@ img:hover {
 <div id="div10" style="display: none;"><a id="link10" href="" style="font-family: Petit Formal Script;font-size: 20px;">link10</a><br><br></div>
 
 <img src="floral-1751088__480.png" height="100px" alt=""><br><br>
-<a href="sms:+1" style="font-family: times new roman;font-size: 20px;">Questions: SMS the planner</a><br><br>
+<a id="yesms" href="sms:+1" style="font-family: times new roman;font-size: 20px;">Questions: SMS the planner</a><br><br>
 <a href="https://www.b3event.com/" style="font-family: times new roman;font-size: 20px;">More about B3 Event Management</a>
 </div>
 
@@ -221,6 +221,28 @@ function myFunction2() {
         breaksss = breaksss+"<br>";
     }
   document.getElementById("breakss").innerHTML=breaksss;
+  document.getElementById("yesms").href=myArray[12];
+  
+  var mylStuff = loadFile("Links.txt");
+  var mylArray = mylStuff.split('\n');
+  var linelink, indexlink, linename;
+  for (var i = 0; i < 10; i++) {
+  linelink = mylArray[i*3];
+  indexlink = i+1;
+  linename = mylArray[i*3+1];
+  
+  document.getElementById("div"+indexlink).style.display="";
+  document.getElementById("link"+indexlink).href=linelink;
+  document.getElementById("link"+indexlink).innerHTML=linename;
+  
+  if (mylArray[i*3+2]==="new") {
+  	   document.getElementById("link"+indexlink).target="_blank";
+  }  
+  
+  if ((i*3+4)>mylArray.length) {
+    	i=10
+  	}
+  }
 }
 
 </script>
