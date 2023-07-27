@@ -8,6 +8,6 @@ Welcome to Alisha & Azie's Wedding Weekend
 Title of Seating Page
 Alisha & Azie's Reception
 How many lines to leave empty under the landing header
-3
+1
 Planner SMS
 sms:+16145479002
