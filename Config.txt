@@ -1,12 +1,12 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
 B7AA99
 Text + table color
 060608
 Title of Landing Page
-Welcome to Alisha & Azie's Wedding Weekend
+Welcome to Neha & Brandon's Wedding Weekend
 Title of Seating Page
-Alisha & Azie's Reception
+Welcome to Neha & Brandon's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
