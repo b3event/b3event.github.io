@@ -1,12 +1,12 @@
 Only-Seating-Chart
 Highlight Color
-B7AA99
+115E70
 Text + table color
-060608
+E1CE5D
 Title of Landing Page
-Welcome to Neha & Brandon's Wedding Weekend
+Welcome to Neha & Karishma's Wedding Weekend
 Title of Seating Page
-Welcome to Neha & Brandon's Reception
+Welcome to Neha & Karishma's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
