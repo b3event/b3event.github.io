@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-115E70
+AB9372
 Text + table color
-E1CE5D
+F5ECDF
 Title of Landing Page
-Welcome to Neha & Karishma's Wedding Weekend
+Welcome to Shreya & Akshat's Wedding Weekend
 Title of Seating Page
-Welcome to Neha & Karishma's Reception
+Welcome to Shreya & Akshat's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
