@@ -1,4 +1,4 @@
-Only-Seating-Chart
+Landing-Page-with-Links
 Highlight Color
 115E70
 Text + table color
