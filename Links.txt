@@ -4,6 +4,12 @@ new
 resortmap.jpg
 Resort Map
 same
+1.png
+Weekly Itinerary
+same
+2.png
+Weekend Itinerary
+same
 welcome.jpg
 Welcome Message
 same
