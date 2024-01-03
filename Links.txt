@@ -1,3 +1,6 @@
+welcome.jpg
+Welcome Message
+same
 https://photos.app.goo.gl/MmkSDiJL7aKWPBzm6
 Share Photos
 new
@@ -5,13 +8,10 @@ resortmap.jpg
 Resort Map
 same
 1.png
-Weekday Itinerary
+Itinerary 1
 same
 2.png
-Weekend Itinerary
-same
-welcome.jpg
-Welcome Message
+Itinerary 2
 same
 allergy.png
 Allergy Disclaimer
