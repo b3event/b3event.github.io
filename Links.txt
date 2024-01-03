@@ -5,7 +5,7 @@ resortmap.jpg
 Resort Map
 same
 1.png
-Weekly Itinerary
+Weekday Itinerary
 same
 2.png
 Weekend Itinerary
