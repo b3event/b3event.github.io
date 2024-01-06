@@ -1,6 +1,9 @@
 welcome.jpg
 Welcome Message
 same
+seating.html
+Reception Seating
+same
 https://photos.app.goo.gl/MmkSDiJL7aKWPBzm6
 Share Photos
 new
