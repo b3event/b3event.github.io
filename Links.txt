@@ -1,21 +1,15 @@
-welcome.jpg
-Welcome Message
-same
 seating.html
 Reception Seating
 same
-https://photos.app.goo.gl/MmkSDiJL7aKWPBzm6
+
 Share Photos
 new
-resortmap.jpg
-Resort Map
-same
-1.png
-Itinerary 1
-same
-2.png
+
+Itinerary Day 1
+Same
+
 Itinerary 2
-same
+Same
 allergy.png
 Allergy Disclaimer
 same
