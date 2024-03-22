@@ -24,16 +24,7 @@
 // That happens even when "Access-Control-Allow-Origin *" is configured in .htaccess,
 // and even though I verified the headers returned (you can use a header-checker site like
 // http://www.webconfs.com/http-header-check.php to check it). I think it's a Chrome bug.
-function loadFile(filePath) {
-  var result = null;
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.open("GET", filePath, false);
-  xmlhttp.send();
-  if (xmlhttp.status==200) {
-    result = xmlhttp.responseText;
-  }
-  return result;
-}
+
 </script>
 <script>
 function myFunction() {
