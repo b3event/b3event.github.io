@@ -1,14 +1,14 @@
 seating.html
-Reception Seating
+Assigned Seating for Reception
 same
 
-Share Photos
+Upload Cellphone Photos
 new
 
 Itinerary Day 1
 Same
 
-Itinerary 2
+Itinerary Day 2
 Same
 allergy.png
 Allergy Disclaimer
