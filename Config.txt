@@ -4,9 +4,9 @@ AB9372
 Text + table color
 F5ECDF
 Title of Landing Page
-Welcome to Shreya & Akshat's Wedding Weekend
+Welcome to Megha and Puneet's Wedding Weekend
 Title of Seating Page
-Welcome to Shreya & Akshat's Reception
+Welcome to Megha and Puneet's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
