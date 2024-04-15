@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-AB9372
+B8AA9A
 Text + table color
-F5ECDF
+9E231A
 Title of Landing Page
-Welcome to Megha and Puneet's Wedding Weekend
+Welcome to Alisha and Michael's Wedding Weekend
 Title of Seating Page
-Welcome to Megha and Puneet's Reception
+Welcome to Alisha and Michael's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
