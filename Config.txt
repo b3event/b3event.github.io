@@ -2,7 +2,7 @@ Landing-Page-with-Links
 Highlight Color
 6291C2
 Text + table color
-E70134
+8F0020
 Title of Landing Page
 Welcome to Rakhi and Janish's Wedding Weekend
 Title of Seating Page
