@@ -10,3 +10,6 @@ same
 MP Wedding Party Flyer-5.png
 Weekend Itinerary 
 same
+seating.html
+Reception Seating
+same
