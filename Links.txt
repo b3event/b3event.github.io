@@ -1,6 +1,9 @@
 seating.html
 Reception Seating
 same
+Secret Note & Birds.pdf
+Secret Note & Birds
+same
 WelcomeNote.png
 Welcome Message
 same
@@ -18,7 +21,4 @@ Shuttle Schedule
 same
 MP Wedding Party Flyer-2.pdf
 Breakfast Schedule
-same
-Secret Note & Birds.pdf
-Secret Note & Birds
 same
