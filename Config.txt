@@ -4,7 +4,7 @@ Highlight Color
 Text + table color
 E1E3E2
 Title of Landing Page
-Welcome to Priyanka and Akash's Wedding Weekend
+Welcome to Zoya and Kareem's Wedding Weekend
 Title of Seating Page
 Welcome to Priyanka and Akash's Reception
 How many lines to leave empty under the landing header
