@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-856858
+006570
 Text + table color
-E1E3E2
+E2E8E4
 Title of Landing Page
 Welcome to Zoya and Kareem's Wedding Weekend
 Title of Seating Page
-Welcome to Priyanka and Akash's Reception
+Welcome to Zoya and Kareem's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
