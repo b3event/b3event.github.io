@@ -4,9 +4,9 @@ F9F0E3
 Text + table color
 4B3327
 Title of Landing Page
-Welcome to Zoya and Kareem's Wedding Weekend
+Welcome to Radhika and Vinod's Wedding Weekend
 Title of Seating Page
-Welcome to Zoya and Kareem's Reception
+Welcome to Radhika and Vinod's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
