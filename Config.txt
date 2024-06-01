@@ -1,8 +1,8 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
-006570
+F9F0E3
 Text + table color
-E2E8E4
+4B3327
 Title of Landing Page
 Welcome to Zoya and Kareem's Wedding Weekend
 Title of Seating Page
