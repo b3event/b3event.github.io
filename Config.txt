@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-F9F0E3
+F1EAF2
 Text + table color
-4B3327
+261721
 Title of Landing Page
 Welcome to Nikita and Parth's Wedding Weekend
 Title of Seating Page
