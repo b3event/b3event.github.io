@@ -8,6 +8,6 @@ Welcome to Nikita and Parth's Wedding Weekend
 Title of Seating Page
 Welcome to Nikita and Parth's Reception
 How many lines to leave empty under the landing header
-6
+8
 Planner SMS
 sms:+16145479002
