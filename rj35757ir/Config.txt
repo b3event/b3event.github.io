@@ -4,9 +4,9 @@ F7F4E5
 Text + table color
 CCA53C
 Title of Landing Page
-Welcome to Nikita and Parth's Wedding Weekend
+Welcome to Pranati and Neal's Wedding Weekend
 Title of Seating Page
-Welcome to Nikita and Parth's Reception
+Welcome to Pranati and Neal's Reception
 How many lines to leave empty under the landing header
 8
 Planner SMS
