@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-F1EAF2
+948777
 Text + table color
-51284A
+56000B
 Title of Landing Page
-Welcome to Nikita and Parth's Wedding Weekend
+Welcome to Shweta and Raj's Wedding Weekend
 Title of Seating Page
-Welcome to Nikita and Parth's Reception
+Welcome to Shweta and Raj's Reception
 How many lines to leave empty under the landing header
 8
 Planner SMS
