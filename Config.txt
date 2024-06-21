@@ -4,9 +4,9 @@ B8AF9D
 Text + table color
 56000B
 Title of Landing Page
-Welcome to Shwetha and Raj's Wedding Weekend
+Welcome to Swetha and Raj's Wedding Weekend
 Title of Seating Page
-Welcome to Shwetha and Raj's Sangeet
+Welcome to Swetha and Raj's Sangeet
 How many lines to leave empty under the landing header
 8
 Planner SMS
