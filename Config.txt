@@ -1,4 +1,4 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
 B8AF9D
 Text + table color
