@@ -1,5 +1,5 @@
-seating2.html
-Sangeet Seating
+schedule.jpeg
+The Schedule
 same
 seating.html
 Reception Seating
