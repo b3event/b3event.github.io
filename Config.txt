@@ -1,8 +1,8 @@
-Only-Seating-Chart
+Landing-Page-with-Links
 Highlight Color
-B8AF9D
+E2C7A3
 Text + table color
-56000B
+18130D
 Title of Landing Page
 Welcome to Swetha and Raj's Wedding Weekend
 Title of Seating Page
