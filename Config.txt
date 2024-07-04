@@ -4,9 +4,9 @@ DCE4D9
 Text + table color
 18130D
 Title of Landing Page
-Welcome to Swetha and Raj's Wedding Weekend
+Welcome to Priya and Deven's Wedding Weekend<br>#priwedsdev
 Title of Seating Page
-Welcome to Swetha and Raj's Reception 
+Welcome to Priya and Deven's Reception<br>#priwedsdev
 How many lines to leave empty under the landing header
 8
 Planner SMS
