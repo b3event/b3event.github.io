@@ -4,9 +4,9 @@ DED0C9
 Text + table color
 19353F
 Title of Landing Page
-Welcome to Priya and Deven's Wedding Weekend</h2><div style="font-family:verdana;font-size: 15px;">#priwedsdev</div><h2>
+Welcome to Avnee & Dilan's Wedding Week
 Title of Seating Page
-Welcome to Priya and Deven's Reception</h2><div style="font-family:verdana;font-size: 15px;">#priwedsdev</div><h2>
+Welcome to Avnee & Dilan's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
