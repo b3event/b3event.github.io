@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-DED0C9
+ED9271
 Text + table color
-19353F
+0D1B26
 Title of Landing Page
-Welcome to Avnee & Dilan's Wedding Week
+Welcome to Nissa & Yousuf's Wedding Weekend
 Title of Seating Page
-Welcome to Avnee & Dilan's Reception
+Welcome to Nissa & Yousuf's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
