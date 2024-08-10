@@ -1,649 +1,470 @@
-Gangaba Patel
-Ashwin Patel
-Leela Patel
-Asha Patel
-Ramesh Patel
-Bhavna Patel
-Hemant Patel
-Meghna Patel
-Jayantidada Patel
-Dinaba Patel
-Bhavisha Patel
-Dipak Patel
-Sangita Patel
-Ketan Patel
-Daxa Patel
-Prakash Maggan
-Sima Maggan
-Chetan Patel
-Asha Patel
-Sagar Patel
-Sapna Patel
-Aashi Patel
-Bhavin Patel
-Radha Patel
-Amish Patel
-Akash Patel
-Aman Patel
-Binoy Patel
-Alka Patel
-Dhyan Patel
-Ayush Patel
-Bhavi Ogra
-Zara Ogra
-Kiran Patel
-Minal Bhikha
-Misha Patel
-Dhruv Bhikha
-Nirali Bhikha
-Mehul Bhikha
-Maheshmama Patel
-Ramilamami Patel
-Jitendra Lalwani
-Varsha Lalwani
-Kiran Patel
-Anita Patel
-Suresh Dayaram
-Jayna Dayaram
-Dhaniba Patel
-Manjuba Patel
-Kavi Dayaram
-Manalee Patel
-Viresh Dayaram
-Zalak Patel
-Siraj Patel
-Tulsi Patel (TN)
-Dirshani Dev
-Ameesh Dev
-Gita Patel
-Narendra Patel
-Sharmela Patel
-Nitin Patel
-Aria Patel
-Aman Patel
-Dennis Patel
-Manisha Patel
-Aidan Patel
-Viran Patel
-Ava Patel
-Manjuba Patel
-Bhavin Patel
-Jigna Patel
-Asana Patel
-Ethan Patel
-Nilesh Patel
-Poonam Patel
-Usha Patel
-Mani Patel
-Harsha Hira
-Bharat Hira
-Niru Patel
-Rashmi Patel
-Rakesh Patel
-Ritu Patel
-Hiren Patel
-Mahesh Patel (Zambia)
-Gita Patel (Zambia)
-Bipin Das
-Pratixa Das
-Ramesh Patel (OH)
-Rekha Patel
-Bharat Patel
-Bhavna Patel
-Gary Bhagat
-Nima Bhagat
-Chetan Patel
-Tina Patel
-Manish Patel
-Chaitali Patel
-Hiren Jetha
-Monika Jetha
-Jagdish Patel
-Vilas Patel
-Suku Patel
-Usha Patel
-Gulabba Patel
-Godavriba Patel
-Jayanti Patel
-Champa Patel
-Dipak Patel (TX)
-Pushpa Patel
-Naresh Patel
-Mita Patel
-Kamlesh Lala
-Gita Lala
-Pankesh Jariwala
-Seju Jariwala
-Raman Dada
-Indu Ba
-Nilesh Patel
-Nila Patel
-Nayan Nagin
-Dipti Nagin
-Ramesh Patel (TX)
-Jyoti Patel
-Pooja Patel (TN)
-Purav Patel
-Kishan Patel (KY)
-Chandani Patel (KY)
-Priyanka Patel (TX)
-Neal Patel
-Zeeyan Patel
-Prerna Maggan
-Mayan Maggan
-Maya Patel
-Avi Patel
-Sanmukh Patel
-Ramila Patel
-Manhar Patel
-Ila Patel
-Sucil Ramsammy
-Rupali Ramsammy
-Sage Ramsammy
-Rukshana Wagner
-Seth Wagner
-Kamlesh Patel (AR)
-Mamta Patel (AR)
-Sandeep Patel
-Mina Patel (FL)
-Balvant Patel
-Swati Patel
-Suresh Patel (AR)
-Mina Patel (AR)
-Karen Patel
-Rishi Patel
-Krish Patel
-Kyrie Patel
-Crystal Mody
-Kunal Mody
-Zahra Mody
-Kishan Patel
-Shital Patel
-Samir Amai
-Hiren Patel
-Komal Patel
-Amira Patel
-Inaya Patel
-Mihir Patel
-Kevin Patel (TX)
-Alina Patel
-Amit Patel
-Tulsi Lala Patel
-Parth Ranchhod
-Shyam Ranchhod
-Meera Patel
-Bhavya Patel
-Himeer Jariwala
-Apurva Patel
-Ridhi Patel
-Ethan Amai (TX)
-Ella Amai
-Chandani Patel
-Pooja Lala (TN)
-Riddhi Patel
-Yana Nagin
-Niyati Nagin
-Akash Dev
-Manish Dev
-Aekta Dev
-Kishen Das
-Kiyaan Patel
-Reeyaan Patel
-Ami Patel
-Devesh Patel
-Kevin Patel (MS)
-Krishna Patel (MS)
-Sapna Patel (MS)
-Payal Patel (MS)
-Pooja Patel (AR)
-Kinjal Patel 
-Siya Patel (MS)
-Khushi Patel (MS)
-Alisha Patel 
-Bhumi Patel (AR)
-Rameshkaka Patel
-Ramilakaki Patel
-Jatin Patel
-Priti Patel
-Mangudada Patel
-Silaba Patel
-Laxmiba Patel
-Narendra Patel (Houston)
-Nayna Patel (Houston)
-Dipak Patel (TN)
-Kamini Patel
-Pritesh Patel
-Priya Patel
-Darshan Patel
-Shivani Patel
-Krishna Patel
-Amira Patel
-Hemangi Patel
-Kalpesh Patel
-Dimple Patel
-Jalpa Patel
-Anju Patel
-Sunanda Patel
-Asha Patel (OH)
-Rupal Patel
-Tushar Patel
-Rina Patel
-Kevin Patel (GA)
-Krishna Patel (GA)
-Niam Patel
-Nyra Patel
-Divya Patel
-Samir Patel
-Manav Patel
-Mahek Patel
-Kajal Patel
-Any Patel
-Saagar Patel
-Shalu Jivan
-Chirag Patel
-Khyati Patel
-Rihanna Patel
-Sofia Patel
-Rahul Patel
-Nikita Patel
-Kishan Patel (TX)
-Kevin Patel (MS)
-Amy Patel
-Amisha Patel
-Diana Patel
-Alpesh Patel
-Viven Patel
-Shivani Patel (TN)
-Parin Patel
-Dhruv Patel
-Krish Patel
-Krishna Patel
-Dilan Patel
-Shivani Patel (KY)
-Felicia Patel
-Payal Patel (OH)
-Priyanka Patel (OH)
-Krishan Patel
-Sampada Rijal
-Sajana Dumre
-Janu Dahya
-Kirit Vanmali
-Kala Vanmali
-Jay Patel (WA)
-Hina Patel
-Mukesh Kaka Patel
-Jitendra Patel
-Yogini Patel
-Dr. Nana
-Aruna Nana
-Mehul Patel (AR)
-Urvashi Patel (AR)
-Hiral Patel
-Neha Patel (AR)
-Mayur Patel (AR)
-Gira Patel
-Hemali Patel
-Jitendra Patel (TN)
-Krunal Patel
-Megha Patel (AR)
-Manish Patel (UK)
-Jigna Patel
-Dipesh Patel
-Jigisha Patel
-Nilesh Patel (Houston)
-Bindu Patel
-Sanjay Patel (MS)
-Sital Patel (MS)
-Dipu Patel 
-Hema Patel
-Nayan Patel (LA)
-Gauri Patel
-Anup Patel
-Swati Patel
-Daxa Patel
-Sanjay Patel
-Pragna Patel
-Rohan Patel (Paris)
-Ramesh Patel (KY)
-Tina Patel (KY)
-Sunil Patel
-Sefali Patel
-Mahendranana Patel
-Tanujanani Patel
-Vimal Patel
-Surekha Patel
-Mukesh Patel
-Nitin Patel
-Kajal Patel (TX)
-Nimesh Patel
-Viral Patel
-Jayesh Patel
-Divya Patel (TX)
-Pravina Patel
-Kishor Patel
-Sandeep Patel (TN)
-Mansi Patel 
-Pravin Patel
-Chetna Patel
-Dinesh Patel (GA)
-Bhanu Patel
-Dinesh Patel (AL)
-Usha Patel (AL)
-Bhupendra Patel
-Vanita Patel
-Arvind Patel
-Purni Patel
-Paresh Patel
-Sunita Patel
-Jessica Patel
-Snehesh Patel
-Sila Patel
-Manesh Desai
-Manish Patel (OK)
-Trusha Patel
-Amar Patel
-Parul Patel
-Jigar Patel 
-Urvi Patel
-Samir Patel
-Riki Patel
-Vimal Patel
-Divya Patel (MS)
-Rivan Patel
-Riyan Patel
-Drisha Patel
-Rishi Patel (MS)
-Alukaka Patel
-Varsha Patel
-Rakesh Patel (TN)
-Falguni Patel
-Sailesh Patel
-Sangita Patel (TN)
-Sanjay Patel (TX)
-Suni Patel
-Kamlesh Patel (Memphis)
-Vijata Patel
-Bhavesh Patel
-Sonal Patel 
-Kamlesh Patel (TX)
-Sima Patel (TX)
-Praful Patel
-Poonam Patel
-Mayur Patel (TX)
-Tina Patel (TX)
-Mac Patel
-Darshana Patel
-Rakesh Patel (IL)
-Nilu Patel
-Ravindra Patel
-Manju Patel
-Sashi Patel
-Rita Patel
-Hinal Patel
-Khushi Patel (TN)
-Jil Patel
-Atish Patel
-Vijay Patel
-Nita Patel
-Prashant Patel
-Roma Patel
-Dev Patel
-Dhamu Patel
-Navin Patel
-Rekha Patel
-Atul Patel
-Rita Patel
-Nayan Patel (TN)
-Sital Patel (TN)
-Dharmesh Patel
-Bhavini Patel
-Janu Patel
-Uresh Patel
-Bhavna Patel (TX)
-Hitesh Patel
-Tara Patel
-Chetna Patel
-Bharat Patel (KY)
-Dharmista Patel
-Sajju Patel
-Rakesh Patel (Cinncinnati)
-Dharmesh Patel (TN)
-Amisha Patel (TN)
-Mon Patel
-Gopi Patel
-Vallabh Patel
-Pushpa Patel (Dallas)
-Falguni Vasant
-Rakesh Vasant
-Rupal Desai
-Pankaj Desai
-Dhruv Vasant
-Rushil Vasant
-Salina Desai
-Aryan Desai
-Pravin Patel (TN)
-Jyoti Patel (TN)
-Jyoti Patel (GA)
-Arvind Patel (GA)
-Jaykant Patel
-Rita Patel (TN)
-Rushi Patel
-Bhavika Patel
-Kartik Patel
-Dhruv Sen (GA)
-Devanshi Sen
-Arti Sen
-Miren Patel
-Mikhil Patel
-Hemant Patel (TX)
-Tejal Patel
-Jahanvi Patel 
-Keral Patel
-Dillon Patel 
-Sandip Patel (TN)
-Hiteshwari Sen
-Adam Garcia
-Monica Garcia
-Badal Patel
-Viraj Patel
-Preya Patel
-Tammana Patel
-Kelvin Patel
-Kunal Hira
-Aneer Bhula
-Cassie Kline
-Caleb Payne
-Melissa Payne
-Bhavin Patel (FL)
-Anish Patel 
-Shivam Patel (KY)
-Tulsi Patel (TX)
-Kishan Patel (KY)
-Braden Barker
-Hasu Patel (VA)
-Dalu Patel
-Hemant Patel (VA)
-Laxmi Patel (TN)
-Dharmesh Patel (TX)
-Yogi Patel
-Chandni Patel
-Henali Patel
-Kirit Patel (TX)
-Bhavna Patel (TX)
-Bipin Patel
-Jaya Patel (AL)
-Kiran Patel (AL)
-Kokila Patel (AL)
-Indu Patel (SC)
-Mitesh Patel
-Nita Patel (SC)
-Paresh Patel (SC)
-Falguni Patel 
-Minesh Patel (SC)
-Gita Patel (AR)
-Hansa Patel (TN)
-Harry Patel (TN)
-Nisha Patel (TN)
-Nayna Patel (TX)
-Nilesh Patel (San Antonio)
-Bhagvati Bhakta
-Arvind Bhakta
-Sangita Bhakta
-Ketan Bhakta
-Bhavna Patel (AL)
-Gajendra Patel
-Ravi Patel (TX)
-Lila Patel (TX)
-Urmila Patel (TX)
-Jagdish Patel (PA)
-Daxa Patel (PA)
-Suraj Patel
-Disha Patel
-Sonali Patel
-Molly Pugh
-Mykela Hollinshed
-Zaria McBride
-Ariana Oldham
-Urvi Patel (TN)
-Dev Patel
-Jeegar Patel
-Rutik Patel
-Vansh Patel
-Neal Patel
-Ayush Patel
-Pratit Patel
-Rishi Patel (TN)
-Nilay Patel
-Alec Hari
-Dhruv Patel (Memphis)
-Hanil Patel
-Devin Patel
-Jaiden Desai
-Ohm Patel
-Mahesh Patel (Southhaven)
-Malu Patel
-Bhagubhai Patel
-Chiniben Patel
-Shailesh Patel (Southaven)
-Nita Patel (Southaven)
-Suresh Patel (Southaven)
-Usha Patel (Southaven)
-Ratu Patel
-Urmila Patel (Memphis)
-Mohan Patel
-Lata Patel
-Rekha Patel (West Memphis)
-Satish Patel
-Shila Patel
-Hansa Patel (Southaven)
-Magan Patel
-Rekha Patel (Southaven)
-Vasantkaka Patel (West Memphis)
-Jaya Patel (West Memphis)
-Hasu Patel (AR)
-Jaya Hasu Patel 
-Natu Patel
-Nayna Patel (MS)
-Satish Patel (Southaven)
-Asha Patel (Southaven)
-Dinesh Patel (Southaven)
-Panna Patel
-Yogesh Patel
-Rekha Yogesh Patel
-Shailesh Patel (Southaven)
-Amisha Shailesh Patel
-Bharat Patel (Southaven)
-Malti Patel
-Vipul Patel 
-Daxa Patel (Southaven)
-Milan Patel
-Amisha Patel (Southaven)
-Dipen Patel
-Pitu Patel
-Harry Patel
-Urvashi Patel
-Mehul Patel
-Manisha Patel
-Raju Patel
-Nita Patel
-Anish Desai
-Vasu Desai
-Jenish Maisuria
-Unnati Maisuria
-Jigar Patel (BW)
-Nitesh Patel
-Vrushali Patel
-Riya Patel
-Chintan Patel
-Bhumi Patel (Lalu)
-Abhisek (Lalu) Patel
-Rohan Patel
-Raghu Patel
-Leela Patel
-Ankit Patel
-Sonya Patel
-Dhruv Patel (MS)
-Ash Patel
-Sheena Patel
-Shivam Patel (AR)
-Nikita Patel (AR)
-Dasu Patel
-Divya Dasu Patel 
-Hetal Bhakta
-Mukti Bhakta
-Divesh Patel
-Priya Divesh Patel
-Nilesh Patel (Southaven)
-Sarika Patel
-Tarun Patel (Southaven)
-Vidya Patel
-Tanvi Patel
-Aarav Patel
-Diya Patel
-Aman Patel
-Radha Patel
-Siya Patel (AR)
-Raashi Patel
-Jahanvi Patel
-Parth Patel
-Kayden Patel
-Sam Patel (Southaven)
-Mina Patel (Southaven)
-Kishor Patel
-Tanuja Patel (Southaven)
-Mike Kapoor
-Chetna Kapoor (AR)
-Tarun Patel (Memphis)
-Bhanu Patel (Memphis)
-Ajay Patel (Memphis)
-Neha Patel (Memphis)
-Dr. Pravin Patel
-Chandrika Patel
-Hansamasi Patel
-Dr. Amit
-Dr. Amit
-Dr. Amit
-Dr. Amit
-Bhupat Patel
-Ranjan Patel
-Shaku Patel
-Nikunj Patel (Super 7)
-Ayushi Patel
-Tanuj Patel
-Rushali Patel
-Parin Patel (Memphis)
-Divya Patel (Memphis)
-Ankur Patel
-Madhuri Patel
-Nikunj Patel (Microtel)
-Urvi Patel (Microtel)
-Rinkesh Patel
-Kishan Patel (Hornlake)
-Tushar Patel (AR)
-Kevin Patel (AR)
-Megha Patel (AR)
-Kamal Patel (AR)
-Jinal Patel (AR)
-Dennis Patel (Puna)
-Sanket Patel
-Nilu Patel
+Siraj
+Azra
+Bilal
+Myrah
+Rehan
+Ami
+Zakia Aunty
+Farah
+Laman
+Rooha
+Anees
+Bushra
+Huma 
+Munaaj
+Safoora
+Nader
+Aleeza
+Sharooq Saini
+Sameer Saini
+Ahmed Abbas
+Aisha Abbas
+Zainab Abbas
+Umar Abbas
+Naheed Abbas
+Sameer Kazi
+Fareen Kazi
+Suha Kazi
+Sahar Kazi
+Hazem Kazi
+Tariq Iqbal
+Safiya Iqbal
+Saara Iqbal
+Eesa Iqbal
+Shuja  Rahim
+Aneesa Rahim
+Adam Rahim
+Sami Rahim
+Zia Rahim
+Hanya 
+Saad Khan
+Huriya 
+Saad Masood
+Maaz
+Jasim
+Ayan
+Umair 
+Eshan
+Jibran
+Zainab
+Ateeqa
+Qaiser
+Ashraf
+Salma
+Tahseen 
+Dastagir
+Dr.Riaz 
+Parveen Bhabi
+zain Siddiqui
+Zara Siddiqui
+Ismail Siddiqui
+Rima Mia
+Samer Faizi
+Maria Huq
+Mahir Huq
+Dr. Reema Siddiqui
+Salma Siddiqui
+Sajid Islam
+Sumaiya Sheikh
+Hassan Sheikh
+Hiba Durrani
+Hamza Mushtaq
+Asma S. Mushtaq
+M Furrukh Mushtaq
+Ayesha S Khan
+M Lateef Khan
+Suboohi Tahir
+S Nizam Hussain
+Fatima Khader
+Faiz Khader
+S Mahmood Qadri
+Hena Qadri
+Syeda A Muneeruddin
+Nadeem Siddiqui
+Adrian Siddiqui
+Safia Siddiqui
+Nadir Siddiqui
+Zarina Siddiqui
+Ather Khan 
+Manahil Khan
+Inaya Siddiqui
+Farhana Majid 
+Omar Khan 
+Rehana Majid 
+Nadia Quereshi
+Nosheen Jabar
+Abdul Jabbar 
+Somi Babar
+Dr. Babar Cheema
+Sara Wasim
+Wasim sajid
+Hana Saleem
+Dr Viquar Saleem
+Akasha Haq 
+Dr.Abdul Haq
+Aliyah haq
+Dr. Sohail haq
+Dr. Farah Ikram
+Dr. Sohail Ikram
+Sarwath Mian
+Nadeem Mian 
+Farzina Ahmed
+Maliha Ikram 
+Brian Valcarce 
+Ghazi Family 1
+Ghazi Family 2
+Ghazi Family 3
+Diana Lara
+Alondra Ramirez
+Ashley Orduna
+Constance Williams
+Sana Memon
+Muzambil arby
+Rimsha Khan
+Musa Abdin
+Dr. Zubair
+Dr. Zubair wife
+Misha
+Haniya
+Mariam
+Izah
+Ameenah
+Iyath
+Nabiha
+Maham
+Saad
+Daniyal
+Amaani
+Haayah
+Ali Ayaz
+Arwah Faisal
+Mustafa Hoda
+Navira Hoda
+Jamal Syed
+Maham Syed
+Elnimair Barakat
+Elnimair's Guest
+Hamza Asim
+Asna Asim
+Humayun Chacha
+Aunty Pyari
+Kahlid mamujan
+Rubina Khalid
+Nasir Chacha
+Huma Nasir
+Irfan Shamsuddin
+Shazia Shamsuddin
+Safwan Shamsuddin
+Zayna Shamsuddin
+Asma Siddiqui
+Dr. Azhar Abbas
+Shahida Abbas
+Naseem Abbas
+Najma Siddiqui
+Zakir Siddiqui
+Aisha Tareq
+Mushtaq Tareq
+Maimuna Moid
+Mohammed Moid
+Hisham Valiuddin
+Hiba Valiuddin
+Noor valiudduin
+Hatim Valluddin
+Taha Mohiuddin
+Sidra Mohiuddin
+Imran Mohiuddin
+Firdus Mohiuddin
+Harris/Idrees Valiuddin 
+Yaser Valiuddin 
+Hana Faizi
+Farhad Faizi
+Muna Syed
+Wasi Syed
+Mariam Tareq Mir
+Shahab Mir
+Dr. Farah Alvi
+Dr. Hasham Alvi
+Aleena Faizi
+Shyla Mir
+Faisal Siddiqui
+Zehra Siddiqui 
+Humza Siddiqui
+Zia Riaz
+Sireen Riaz
+Aleeza Riaz
+Rida Hasan
+Mustafa Hasan
+Nabeel Raza
+Zoya Raza
+Farukh Ahmed
+Patricia Ahmed
+Afia Ali Qadri
+Raheel Ali Qadri
+Daniya Hashmi
+Quratulain Hashmi
+Rehan Ahmed
+Leticia Ahmed
+Dr. Hashmat Anwar
+Tasneem Anwar
+Seema Nathani
+Stephanie Dawson
+Alexis Richards
+Jamison Richards
+Cristen Phillips
+Ariel Hernandez 
+Adriana Silva 
+Archana Nallasivam
+Uma Ayer
+Michael Campbell
+Aziz Siddiqui
+Arjumand Siddiqui
+Dr. Saba Siddiqui
+Irfan Osmani 
+Azra Siddiqui
+Faleh Siddiqui 
+Dr. Omar siddiqui
+Farheen Khan
+Shabana Khan
+Jafar Khan
+Ishrath Rana
+Zahooruddin
+Ariz Zahooruddin 
+Zahoor Mom
+Saba Amin 
+Abdul Waheed 
+Deeba Bazal
+Kashif Bazal
+mukarram Ali
+Rania Ali
+Ibrahim Din
+Yasmin Din 
+Mir Rizwan Ali
+Mariyam Ali
+Anjum Uddin Khaja
+Mohsin Uddin Khaja
+Erum Asif
+Mohammed Asif
+Nausheen Durrani
+Usman Durrani
+Ambreen Bachu
+Saleem Bachu
+Muneeza Rahman
+Dr. Nasir Siddiqui
+Rehana Siddiqui
+Zareen Khan
+Dr. Zafarullah Khan
+Dr. Samina Juneja
+Dr. Mushtaq Juneja 
+Dr. Ruksana rehman
+Dr. Zaka Rehman
+Iffy sharif
+Naseem Qureshi
+Riaz Safvi
+Fazilat Safvi
+Sajid Safvi
+Shahana Safvi
+Wajid Safvi
+Humaira Safvi
+Yasmin Surti
+Shafeeq Surti
+Adam Surti
+Qadir Uncle
+Riaz Safvi guest
+Wajid Safvi guest
+Ateeq Siddiqui
+Maliha Siddiqui
+Iman Siddiqui
+Lubna dan
+Abdula Dan
+Ibrahim Dan
+Amina Dan
+Hamza Dan
+Nadia siddiqui
+Fahad Siddiqui
+Yunus Siddiqui
+Nura Siddiqui
+Ghayyurul Iman Usmani
+Taseen Usmani
+Sana Usmani
+Sehar Usmani
+Saman Usmani
+Alizay Usmani
+Nuzhat Khala
+Javed Khalu
+Khalajaan - Ishrat Usmani
+Shahurrul Iman Usmani
+Shaheen Usmani
+Sarosh Ahmed
+Hassnain Ahmed
+Palosha Ahmed
+Umair Ziauddin
+Sohaib Ahmed
+Humaira Ahmed 
+Inaya Ahmed 
+Asma Hameed 
+Hameed-uddin 
+Rida Mohammed  
+Zaid Shtayyeh
+Yanal Abu Samen
+Varun Mavilla
+Husein Khambata
+Carolina Aguilar
+Clement Morvant
+Aijaz Hussain
+Teresa Hussain
+Faiyaz Hussain
+Mahrukh Hussain
+Asim Raza
+Dr. Saadia Raza
+Sohail Khan
+Shaida Naseeruddin
+Naseeruddin
+Shailah Khan
+Tanveer Naseeruddin
+Nida Khan
+Fardeen Naseeruddin
+Adam Khan
+Rania Khan
+Sohail Khan
+Zaheer Ahmed
+Razia Ahmed 
+Syed Ansar Ul Haque
+Yasmin Haque
+Rafay Yahya
+Reshma Rafay
+Wajahat Anwar
+Naila Anwar
+Shahid Safvi
+Nighat Safvi
+Nayyer Safvi
+Aisha Anwar
+Akhtar  Nathani
+Feroz Nathani
+Sadaf masroor
+Dr. Mohammed Masroor 
+Ambreen Piracha
+Aamir Piracha
+Noreen Chowhan
+Naveed Chowhan
+Fayaaz Khader
+Kamila Khader 
+Zara Haq
+Momin Haq 
+Afreen Ahmed
+Maqsood Ahmed 
+Deen Syed
+Aden Syed
+Ayaan Faizi
+Mikael Mir
+Adam Siddiqui
+Ayesha Siddiqui
+Faraz Moid
+Sumaiya Moid
+Samah Moid Quadri
+Osman Quadri
+Nadia & Mateusz Kolosa 
+Nadia & Mateusz Kolosa 
+Salman Siddiqui
+Marwa Siddiqui
+Kid one ( Salman and Marwa kids )
+Kid two (Salman and Marwa Kids)
+Zubair Baig
+Stephanie baig
+Mushir Baig
+Dr. Omar Riaz
+Asra Riaz
+Imran Riyaz
+Holly Riyaz
+Amirah baig
+Shoeb Abbas
+Sandy Abbas
+Asra Siddiqui
+Nisar Ahmed
+Husna Ahmed
+Amir Abbas
+Adil Abbas
+Ivy Abbas
+Najeeb Siddiqui
+Zinnia Siddiqui
+Dr. Anisha Jogee
+Sajid Patel
+Shamim Omar 
+Omar Rashid
+Fatima Omar 
+Ala Alaghbri 
+Ayesha Omar
+Avin Meyal
+Noor Meyal
+Fatemah Khutma
+Khader khutma
+Iman  Abu Noor wife
+Abu noor
+Fahad Khan
+Rabeea Javed
+Child 1 Khan
+Child 2 Khan
+Child 3 Khan
+Child 4 Khan
+Child 5 Khan
+Ismat Dar
+Usman Dar
+Ruba Dar
+Baby Dar
+Saba kid 1
+Saba kid 2
+Saba kid 3
+Saba kid 4
+ameera
+deeba kid 2
+Hashim 
+noora
+Humza (cousin kid)
+Ali Wajeeuddin 
+Zaid Wajeeuddin 
+Esha Zahooruddin
+Dr. Shabana Khan 
+Faizan Mughni
+Sumaira Khan
+Salman Saini
+Emaira Saini
+Inaya Naseeruddin
+Ilham Naseeruddin
+Rahil Naseeruddin
+Zainab Naseeruddin
+Rafi Ahmed
+Humaira Ahmed
+Dr. Amir Siddiqui
+Noorudian
+Ameena Nooruddin 
+Yezan Kurdi 
+Leena Alwan 
+Dr. Mohammed Alwan
+Hafza Mir
+Dr. Mir Murtaza
+Dr. Areege Jendi 
+Ayah khutma
+Patool Khutma
+Dr. Huda Khutma
+Mahmood Khutmah
+Rameen jabar
+Lyba Masroor
+Amani Ikram
+Sireen khader
+Leena khader
+Amani Khan
+Jawad Saleem
+Sohaib Wasim
+Ayaan Jabbar
+Zayd Mushtaq
+Salah Ikram
+Sajida(Yumna)
+Mr.Sajida(Yumna)
+Arwa Ahmed
+Yunis Khutma
+Ammar meyal
+Ahmed meyal
+Emaad Masoor
+Imaad Khader
+Nouman Khader
+Adam Cheema 
+Harris Cheema 
