@@ -1,6 +1,3 @@
 Itinerary.jpeg
 Itinerary
 same
-seating.html
-Reception Seating
-same
