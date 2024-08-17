@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-F99B5D
+a6aaa6
 Text + table color
-0D1B26
+733145
 Title of Landing Page
 Welcome to Nissa & Yousuf's Wedding Weekend
 Title of Seating Page
