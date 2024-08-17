@@ -4,9 +4,9 @@ a6aaa6
 Text + table color
 733145
 Title of Landing Page
-Welcome to Nissa & Yousuf's Wedding Weekend
+Welcome to Ashvi & Sunny's Wedding Weekend
 Title of Seating Page
-Welcome to Nissa & Yousuf's Reception
+Welcome to Ashvi & Sunny's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
