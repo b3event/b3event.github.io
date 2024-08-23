@@ -8,6 +8,6 @@ Welcome to Jasneet & Adam's Wedding Weekend
 Title of Seating Page
 Welcome to Jasneet & Adam's Reception
 How many lines to leave empty under the landing header
-5
+3
 Planner SMS
 sms:+16145479002
