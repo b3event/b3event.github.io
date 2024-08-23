@@ -1,12 +1,12 @@
-Only-Seating-Chart
+Landing-Page-with-Links
 Highlight Color
-a6aaa6
+f6f0ee
 Text + table color
-733145
+273d50
 Title of Landing Page
-Welcome to Ashvi & Sunny's Wedding Weekend
+Welcome to Jasneet & Adam's Wedding Weekend
 Title of Seating Page
-Welcome to Ashvi & Sunny's Reception
+Welcome to Jasneet & Adam's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
