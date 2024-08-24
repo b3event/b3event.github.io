@@ -1,392 +1,284 @@
-Mahesh Patel
-Alpa Patel
-Saurabh Patel
-Rakesh Patel
-Mona Patel (ATL)
-Yogesh Patel
-Kirti Patel
-Vipul Patel
-Minaxi Patel (CLE)
-Santosh Patel
-Usha Patel
-Ketul Patel
-Gauri Patel
-Dinesh Patel
-Mouna Patel (CHI)
-Bhavin Patel
-Jigna Patel
-Ritesh Patel
-Krishna Patel
-Samara Patel
-Kalpesh Patel
-Heena Patel (FL)
-Nayan Patel
-Rita Patel 
-Bhaskar Patel
-Sangita Patel
-Amrish Patel (Maryland) 
-Pushpa Naik
-Narendra Patel
-Rashmika Patel
-Nita Patel (Maryland)
-Pankaj Patel (Maryland)
-Sheela Patel (New York)
-Nikhil Patel (New York)
-Geeta Patel (London)
-Pravina Patel
-Ashvin Patel (Chicago)
-Sunil Patel
-Suman Patel
-Sanjay Patel (India)
-Rita Patel (India)
-Rohit Patel
-Nisha Patel
-Pallavi Patel
-Prutha Patel
-Usha Patel (Philadelphia) 
-Jayshree Patel (Texas) 
-Pradeep Patel
-Vithalbhai Patel (CLE)
-Vidhyaben Patel
-Premilaben Patel
-Madhuben Patel
-Chandrakant Patel
-Kokilaben Patel
-Vinubhai Patel
-Vilashben Patel
-Rima Desai 
-Krunal Desai 
-Binita Desai 
-Nirav Desai 
-Aarshi Desai 
-Aalya Desai 
-Anay Desai 
-Aarya Desai 
-Arpit Patel
-Heena Patel (Arpit)
-Pankaj Patel
-Jagruti Patel
-Dilip Patel
-Nayna Patel
-Jignesh Patel 
-Sejal Patel (NJ)
-Nikesh Patel
-Richa Patel
-Lily Patel 
-Nia Patel
-Kruti Shah 
-Rushab Shah
-Mila Shah
-Ishan Shah 
-Raj Patel (Strongsville)
-Binel Patel
-Raj Patel (Akron)
-Hiral Patel 
-Vijay Patel
-Alpa Patel (DE)
-Sangita Patel 
-Jay Patel (Strongsville)
-Rachna Patel
-Maulik Patel
-Myra Patel
-Romil Patel
-Kushan Patel
-Devanshi Patel
-Ronak Patel
-Shreya Patel
-Rucha Patel
-Anand Patel
-Krishna Patel (CLE)
-Neel Patel
-Vrunda Patel
-Nil Patel
-Radhika Patel
-Nirali Patel 
-Mia Patel 
-Shiv Patel
-Rebecca Patel
-Andrew Patel
-Jamine Patel
-Mona Patel
-Atul Patel
-Jahanvi Patel
-Biyanka Patel
-Parth Patel (CLE)
-Nikhal Bhardwaj
-Hallie Rich
-Deven Patel (FL)
-Tulsi Patel
-Aakash Patel
-Nimisha Patel
-Ankit Patel (CLE)
-Liam Patel
-Priya Amin-Gill
-Sandeep Gill
-Riya Amin-Dalal
-Swapnil Dalal
-Sonia Nagpal
-Joseph Arko
-Sheena Patel
-Arti Patel
-Vidhi Patel
-Ankit Patel (CHI)
-Puja Patel 
-Axay Patel 
-Stuti Patel 
-Mitesh Patel (CHI)
-Shilpa Patel 
-Ricky Patel
-Prapti Patel
-Rishit Patel
-Nima Patel
-Amit Patel
-Bhumi Patel (South Carolina) 
-Vishal Patel (Philly)
-Minal Patel (Phily)
-Ava Patel
-Avi Patel
-Aneesha Patel
-Meet Patel
-Khushi Patel
-Dhruv Patel (DE)
-Dhavani Patel
-Harsh Patel
-Prit Patel (Sihol)
-Hetvi Patel
-Khush Patel (Sihol)
-Nishil Patel
-Pooja Patel (New Jersey) 
-Tushar Patel
-Minal Patel (Georgia) 
-Shilpa Patel
-Manav Patel
-Shivani Kathiriya
-Anirudh Kathiriya
-Akash Patel
-Krinal Patel
-Amandeep Singh
-John Baggot
-Lucas Chaney 
-Andy Le
-Chintan Patel 
-Navindra Rikhi
-Yug Patel
-Angela Saini
-Puneet Sandhar
-Joe Sandhar
-Nikita Goraya
-Gursimer Goraya
-Mehak Bhardwaj
-Shalin Vakharia
-Dhara Vakharia
-Shivani Patel
-Mitul Patel 
-Rahee Patel 
-Chelsea Patel 
-Dhruv Patel (FL)
-Nidhi Patel 
-Prit Patel (FL)
-Kishan Patel (FL)
-Kush Patel (FL)
-Chirag Patel (TX)
-Ruchi Patel 
-Kaushik Patel
-Manisha Patel
-Prem Patel 
-Kamlesh Patel
-Kavita Patel 
-Parthiv Patel
-Krisha Patel 
-Jayesh Patel (CLE)
-Hema Patel 
-Sanjay Patel 
-Rinku Patel 
-Rashik Patel 
-Gita Patel 
-Jayesh Patel (PA)
-Dipti Patel 
-Tej Patel 
-Karan Joshi
-Kurtvya Joshi
-Mitul Patel
-Poonam Patel
-Rea Patel
-Anay Patel
-Rishi Patel
-Shikha Patel 
-Prakash Patel
-Sagar Patel 
-Sahil Patel 
-Monali Patel 
-Rushil Patel
-Nikki Patel (CLE)
-Jay Patel (CLE)
-Aditi Patel 
-Mihir Patel
-Yashvanti Patel
-Riya Patel (Maryland)
-Anmol Patel
-Satyaprakash Patel
-Beena Patel (Maryland) 
-Jigsha Patel 
-Meghal Shah 
-Deven Patel (CLE)
-Khush Patel (Mentor)
-Krina Patel
-Kirtan Patel 
-Ishan Patel 
-Jeet Patel 
-Veera Patel 
-Dhruv Patel (CLE)
-Aryan Patel 
-Kiran Patel
-Beena Patel
-Suraj Patel 
-Bhumi Patel (Seattle) 
-Hiren Patel
-Rekha Patel
-Vrunda Patel (Walhalla)
-Sunny Patel (Walhalla)
-Nitesh Patel (GE)
-Anandi Patel
-Falguni Patel
-Chirag Patel (CHI)
-Vaishali Patel (CHI)
-Bhavin Patel
-Tejal Patel 
-Avi Patel
-Shobah Patel (South Carolina)
-Rohit Patel (South Carolina)
-Smita Patel (Georgia)
-Narendra Patel (Georgia)
-Kalpna Patel (Dallas)
-Kiran Patel (Dallas)
-Bharat Patel (India)
-Yash Patel (India)
-Manoj Patel 
-Binta Patel 
-Ravi Patel (CLE)
-Pinal Patel 
-Rashik Patel 
-Heena Patel (CLE)
-Hitesh Patel (CLE)
-Manisha Patel 
-Ramesh Patel
-Geeta Patel (Columbus)
-Sanjay Patel (Dayton)
-Pratixa Patel
-Hitesh Patel 
-Heena Patel
-Jigesh Joshi
-Jayshree Joshi)
-Nimesh Patel 
-Kajal Patel (FL)
-Hitesh Patel (TN)
-Sejal Patel (TN)
-Ruchir Patel 
-Nikki Patel 
-Parth Patel 
-Sanjana Patel 
-Suresh Patel
-Deeptika Patel
-Dr. Sarah (Dayton) 
-Bhargav Patel
-Jigna Partidar
-Shivani Partidar (Maryland) 
-Krishna Patel (New Jersey) 
-Shila Patel (New Jersey)
-Atul Patel 
-Kamina Patel 
-Ghansham Patel 
-Bhavisha Patel 
-Bumi Patel 
-Minku Patel 
-Satish Patel 
-Sonal Patel 
-Atul Patel
-Vanita Patel 
-Vedant Patel 
-Parth Patel (Philadelphia) 
-Nishit Patel 
-Sejal Patel
-Haya Patel 
-Pankthee Patel
-Jagdishbhai Patel
-Alkaben Patel 
-Vitthalbhai Patel (CHI)
-Saraojben Patle 
-Minaben Patel (CHI)
-Nitesh Patel (CLE)
-Kajol Patel
-Nitin Patel 
-Viren Patel
-Imisha Patel
-Mitesh Patel
-Mina Patel (North Carolina) 
-Ketan Patel (New Jersey)
-Hina Patel (New Jersey)
-Ashish Patel (North Carolina) 
-Rinkal Patel (North Carolina) 
-Rajesh Patel 
-Harsha Patel 
-Kishan Patel (CLE)
-Dhruvi Patel 
-Rikesh Patel 
-Hetal Patel (CLE)
-Nikhil Patel
-Rachana Patel
-Kevin Patel
-Radhika Phawa
-Nitin Phawa
-Daksh Phawa
-Devayni Patel
-Sarmishta Patel
-Meena Patel (India)
-Nipoon Patel
-Shital Patel
-Alpesh Patel
-Mina Patel (CLE)
-Chetan Patel
-Dipa Patel 
-Chaya Patel
-Alpa Patel (CLE)
-Gopal Patel 
-Sejal Patel (CLE)
-Abigail Spence
-Justin
-Jeanette Booker
-Tyritha Booker
-Deona Gordon
-Markita Knight
-Palak Patel
-Rutvij Patel
-Bhalvant Patel
-Parul Patel 
-Mittul Patel 
-Vaishali Patel (CLE)
-Sunny Patel 
-Bhumika Patel 
-Mehul Patel 
-Rohit Patel
-Aruna Patel
-Melody Casey 
-Lori Melicote 
-Tiffaney Fish
-Lienne Casey
-Richard Fish 
-Biren Patel 
-Komal Patel 
-Chirag Patel (CLE)
-Himal Patel 
-Suresh Patel 
-Rupal Patel 
-Hetal Patel (CLE)
-Akta Patel 
-Rakesh Shah
-Kavita Shah
-Nimesh Shah
-Sarah Shah
-Noman Syed
-Nabila Fatima 
-Tim Freeman
-Christy Freeman
+Brian Huddle
+Claudia Huddle
+Eric Huddle
+Emilia Huddle
+Colette Huddle
+Carter Huddle
+Cora Huddle
+John Moynihan
+Debbie Ungemach
+Weston Ungemach
+Violet Ungemach
+Gregory Ungemach
+Kara Ungemach
+Peter Ungemach
+Evan Ungemach
+John Shoemaker
+Evan Cooper
+Harry Livingston (cousin)
+Kieran Ungemach
+Sophie Winston
+Danielle Danze
+Matthew McPeek
+Brendan Ungemach
+Alyssa Ungemach
+Brian McPeek
+Howie Ungemach
+Oonagh Ungemach
+Lisa Fontana
+Zelda Fontana
+Mary Meyer
+Parker Meyer
+Caity Meyer
+Timothy Meyer
+Rob Meyer
+Cathy Miller
+Mike Miller
+Jessica Bahr
+Jake Bahr
+Rohn Francis
+Lindsey Escaja
+Dave Kipfer
+Ralph Schudel
+Shar Shell
+Zach Shell
+Emma Reilly
+Charlie Reilly
+Sophia Reilly
+Katie Sosnovik
+Kyle Sosnovik
+Grace Sosnovik
+Brynn Sosnovik
+Paige Sosnovik
+Sarah Luciano
+Savannah Luciano
+Lenore Brady
+Irene Grogan
+Jack Grogan
+John Grogan
+Lenore Grogan
+Serena Grogan
+Harry Livingston
+Anne Livingston
+Diane McPeek
+Cathy Ungemach
+Jim Ungemach
+Patty Hackett
+Mia Hackett
+Erin Milner
+Megan Milner
+Jenna Rusell
+Owen Russell
+Tyler Russell
+Aaron Russell
+Bette Hackett
+Dave Chanda
+Virginia Chanda
+Kim Finn
+Andrea Levene
+Marylynn Miles
+Kevin Miles
+Cheryl Orsulak
+Paul Orszulak
+Ann Peel
+Jim Peel
+Karen Brar
+Jasleen Bawa
+Ranjit Bawa
+Beyant Bawa
+Gursharan Bawa
+Gurdev Khanduja
+Meahar Khanduja
+Dilpreet Chandi
+Manmeet Singh
+Sheela Vaswani
+Jasmine Singh
+Simran Taneja
+Manav Kapur
+Ron Tep
+Seetha Kolli
+Nicole Sturges
+Chris Davis
+Sahej Singh
+Jasmeh Singh
+Amen Okundaye
+Samantha Woodward
+Charity Sylvester
+Madiha Bhatti
+Sarah Anstett
+Robert Mercer
+Zain Alfanek
+Daniella Lipnick
+Ilan Marans
+Kendall Smith
+Ayan Purkayastha
+Jordan Mattheisen
+Rei Mitsuyama
+Kelsey Anderson
+Jake Zinn
+Haley Bowen
+Hannah Fiske
+Nicholas Goodrich
+Robert Moranville
+Anna Hage
+Krystina Myers
+Jack Myers
+Mary Carducci
+Hannah Harris
+Matt Wesley
+Lindsey Wesley
+Youssef Elfatatry
+Andie Hommel
+Austin Chen
+Mina Kim
+Taylor Wernert
+Ryan Fallon
+Quynh-Lan Dao
+Odi Nnadi
+Tiffany Lau
+Ashley Perry
+Deepti Gupta-Johnson
+Wendy Gupta-Johhson
+Jessica Brar
+Jared Goldstein
+Dadi Ma
+Nana
+Balpreet Jammu
+Gurpreet Singh
+Kanwaljit Singh
+Jagjit Singh
+Guninder Singh
+Jaydeep Singh
+Avneet Singh
+Laxmi Reddy
+Akash Jammu
+Jashun Jammu
+Kavaldeep Singh
+Simran Singh
+Hardeep Singh
+Jordan Moran
+Ravinder Wadhwa
+Parvinder Wadhwa
+Jatinder Singh
+Kuljit Chawla
+Paramjit Singh
+Jaswinder Kaur
+Harpreet Singh
+Rajinder Kaur
+Nicholas Peponis
+Amar Peponis
+Sajin Peponis
+Niko Peponis
+Lucia Peponis
+Rimmy Jammu
+Camille Marguet
+Valentine Marguet
+Shamsher Jammu
+Kamal Jammu
+Manprit Singh
+Rupinder Singh
+Tejdeep Mehrok
+Ashwinder Mehrok
+Paul Mehrok
+Jagdeep Mehrok
+Meahar Mehrok
+Jagdeep Naipaul
+Dilpreet Jammu
+Jaspreet Singh
+Shivani Singh
+Inaskshi Singh
+Tashwinder Singh
+Ishminder Wadhwa
+Jas Wadhwa
+Surveen Singh
+Simran Singh
+Saheba Singh
+Bhavandeep Singh
+Navika Singh
+Jagdeep Singh
+Tina Singh
+Amber Singh
+Maya Singh
+Harjit Aujla
+Armaan Aujla
+Karina Aujla
+Karun Aujla
+Mickey Aujla
+Rayna Aujla
+Bhajan Singh
+Binder Singh
+Paramjit More
+Seva More
+Gurdev Singh
+Kamaljit Singh
+Andrew Singh
+Pushpinder Kamboj
+Narinder Kamboj
+Apper Sandhu
+Narinder Sandhu
+Majit Bhattal
+Sukhwinder Singh
+Navpreet Kaur
+Balvinder Sidhu
+Ravinder Sidhu
+Arvinder Bhinder
+Monica Bhinder
+Avneet Sarang
+Baneet Sarang
+Saachi Sarang
+Rehneet Sarang
+BJ Rangi
+Mickey Rangi
+Priya Rangi
+Randhir Rangi
+Baljinder Brar
+Raj Brar
+Paramjit Dhillon
+Balbir Dhillon
+Kamaljit Singh
+Inderpal Singh
+Tarunjit Butalia
+Ravinder Taneja
+Harjit Taneja
+Inderpal Tahim
+Rachpal Tahim
+Avtar Reehal
+Koko Khanduja
+Gurjit Khanduja
+Ranjit Sandhu
+Rashmeet Reen
+Namita Sood
+Davinder Bawa
+Preet Bawa
+John Johnson
+Latha Johnson
+Paul Solomon
+Pam Solomon
+Charlotte Solomon
+Shantanu Sinha
+Vijaya Sinha
+Andrew Twehues
+Morgan Twehues
+Srinivas Kolli
+Susmitha Kolli
+Mike Miller
+Neel Raya
+Sabita Raya
+Yadwinder Singh
+Ruby Singh
+Roopa Saha
+Ranjeev Saha
+Kuldeep Vaswani
+Meena Vaswani
+Gurdev Bir
+Rajinder Bir
+John Abidin
+Mariska Abidin
+Helena Abidin
+Jordan LeuVoy
+Michele Abidin
+Kevin Burgdorf
+Vanessa Abidin
+Sean Abidin
+Roger Quay
+Virginia Quay
