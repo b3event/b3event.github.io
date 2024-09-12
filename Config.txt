@@ -1,12 +1,12 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
 f6f0ee
 Text + table color
 273d50
 Title of Landing Page
-Welcome to Jasneet & Adam's Wedding Weekend
+Welcome to Roshni & Atindra's Wedding Weekend
 Title of Seating Page
-Welcome to Jasneet & Adam's Reception
+Welcome to Roshni & Atindra's Reception
 How many lines to leave empty under the landing header
 6
 Planner SMS
