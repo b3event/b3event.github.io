@@ -86,7 +86,7 @@ Bharat Desai
 Smita Patel
 Pavan Yedavalli
 Sasha Yedavalli
-Tarak Yedavalli
+Tarak  Yedavalli
 Veera Yedavalli
 Srinivas Yedavalli
 Satya Yedavalli
@@ -109,8 +109,8 @@ Vivek Yedavalli
 Aditi Yedavalli
 Atrey Yedavalli
 Vaibhav Yedavalli
-Praveen Pullabhatla
-Meghana Pullabhatlla
+Praveen Pullabhotla
+Meghana Pullabhotla
 Jyotsna Velluri
 Madhukar Velluri
 Rebecca Concha
@@ -119,11 +119,10 @@ Christian Kreb
 Meghan Scanlon
 Suman Gidwani
 Henry Finkelstein
-Arathi Ponugoti
+Arathi Ponugoti 
 Kari Vaughn
 Aashiq Dheeraj
-Nick Cray
-Debbie Cray
+Nick Cray/Debbie Cray
 Ramji Cheemelakonda
 Ratna Cheemelakonda
 Ramesh Cheemalakonda
@@ -144,6 +143,16 @@ Aisha Usman
 Nicole Gloor
 Talaat Begum
 Prianka Raju
+Pratik Desai
+Vareel Shah
+Sneha Grover
+Param Desai
+Chanel Patel
+Ankit Patel
+Rushi Pandya
+Tulsi Mehta
+Saajan Shah
+Aarti Shah
 Sachin Gadepalli
 Shivani Gadepalli+
 Shreyas Durbha
@@ -164,7 +173,6 @@ Nitya Cheemalakonda
 Rajeev Cheemalakonda
 Madhuri Cheemalakonda
 Smaran Cheemalakonda
-Diya Desai 
 Sanjeev Goyal
 Nina Goyal
 HV Patel
@@ -183,7 +191,7 @@ Nambi Srinivasan
 Bhooma Nambirajan
 Susanta Sarkar
 Indrani Sarkar
-Jayshree Rajagopalan
+Jayshree
 Ramesh Rajagopalan
 Yasamin Hagshenas
 Parisa Seitz
