@@ -1,8 +1,8 @@
 Only-Seating-Chart
 Highlight Color
-FFE5B4
+FFFFFF
 Text + table color
-273d50
+000000
 Title of Landing Page
 Welcome to Malli & Sai's Wedding Weekend
 Title of Seating Page
