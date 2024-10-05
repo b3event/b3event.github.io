@@ -1,6 +1,6 @@
 Only-Seating-Chart
 Highlight Color
-f6f0ee
+FFE5B4
 Text + table color
 273d50
 Title of Landing Page
