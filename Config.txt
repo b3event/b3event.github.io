@@ -4,9 +4,9 @@ FFE5B4
 Text + table color
 273d50
 Title of Landing Page
-Welcome to Roshni & Atindra's Wedding Weekend
+Welcome to Malli & Sai's Wedding Weekend
 Title of Seating Page
-Welcome to Roshni & Atindra's Reception
+Welcome to Malli & Sai's Reception
 How many lines to leave empty under the landing header
 6
 Planner SMS
