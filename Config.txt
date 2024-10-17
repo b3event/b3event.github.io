@@ -1,13 +1,13 @@
 Only-Seating-Chart
 Highlight Color
-FFFFFF
+dcd2d3
 Text + table color
-000000
+25241f
 Title of Landing Page
-Welcome to Malli & Sai's Wedding Weekend
+Welcome to Chandni & Nimit's Wedding Weekend
 Title of Seating Page
-Welcome to Malli & Sai's Reception
+Welcome to Chandni & Nimit's Reception
 How many lines to leave empty under the landing header
-6
+0
 Planner SMS
 sms:+16145479002
