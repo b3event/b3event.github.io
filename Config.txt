@@ -8,6 +8,6 @@ Welcome to Chandni & Nimit's Wedding Weekend
 Title of Seating Page
 Welcome to Chandni & Nimit's Reception
 How many lines to leave empty under the landing header
-0
+6
 Planner SMS
 sms:+16145479002
