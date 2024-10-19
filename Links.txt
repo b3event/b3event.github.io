@@ -7,3 +7,6 @@ new
 seating.html
 Reception Seating
 same
+Thankyounote.pdf
+Thank You Note
+new
