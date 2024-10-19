@@ -4,3 +4,6 @@ new
 https://photos.app.goo.gl/vh8u6R1hMPz5xdNLA
 Upload Memories
 new
+seating.html
+Reception Seating
+same
