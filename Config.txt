@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-dcd2d3
+e1e6ea
 Text + table color
-25241f
+ab431e
 Title of Landing Page
 Welcome to Sahil & Damini's Wedding Weekend
 Title of Seating Page
