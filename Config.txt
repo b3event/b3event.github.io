@@ -4,9 +4,9 @@ dcd2d3
 Text + table color
 25241f
 Title of Landing Page
-Welcome to Damini & Sahil's Wedding Weekend
+Welcome to Sahil & Damini's Wedding Weekend
 Title of Seating Page
-Welcome to Damini & Sahil's Reception
+Welcome to Sahil & Damini's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
