@@ -1,8 +1,14 @@
 welcome.pdf
-Welcome Message
+Welcome Note
 same
 Itinerary.pdf
-Weekend Itinerary
+Itinerary
+same
+ceremonyp1.jpg
+Wedding Ceremony P1
+same
+ceremonyp2.jpg
+Wedding Ceremony P2
 same
 resortmap.jpeg
 Resort Map
