@@ -8,6 +8,6 @@ Welcome to Sahil & Damini's Wedding Weekend
 Title of Seating Page
 Welcome to Sahil & Damini's Reception
 How many lines to leave empty under the landing header
-7
+4
 Planner SMS
 sms:+16145479002
