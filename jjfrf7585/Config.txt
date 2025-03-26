@@ -1,6 +1,6 @@
 Landing-Page-with-Links
 Highlight Color
-b7becb
+e4e7ed
 Text + table color
 384b90
 Title of Landing Page
