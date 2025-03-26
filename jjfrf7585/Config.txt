@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-4a0019
+b7becb
 Text + table color
-efd9c9
+384b90
 Title of Landing Page
-Welcome to Radhika and Pradyoth's Wedding Weekend
+Welcome to Monica and Sonal's Wedding Weekend
 Title of Seating Page
-Welcome to Radhika and Pradyoth's Reception
+Welcome to Monica and Sonal's Reception
 How many lines to leave empty under the landing header
 8
 Planner SMS
