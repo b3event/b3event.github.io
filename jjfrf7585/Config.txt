@@ -8,6 +8,6 @@ Welcome to Monica and Sonal's Wedding Weekend
 Title of Seating Page
 Welcome to Monica and Sonal's Reception
 How many lines to leave empty under the landing header
-8
+6
 Planner SMS
 sms:+16145479002
