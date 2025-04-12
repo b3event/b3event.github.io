@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-e4e7ed
+e0ded2
 Text + table color
-384b90
+a5000e
 Title of Landing Page
-Welcome to Monica and Sonal's Wedding Weekend
+Welcome to Varun and Madi's Wedding Weekend
 Title of Seating Page
-Welcome to Monica and Sonal's Reception
+Welcome to Varun and Madi's Reception
 How many lines to leave empty under the landing header
 6
 Planner SMS
