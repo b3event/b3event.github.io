@@ -1,13 +1,13 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
-F7F4E5
+061123
 Text + table color
-CCA53C
+e6d2b6
 Title of Landing Page
-Welcome to Pranati and Neal's Wedding Weekend
+Welcome to Rikesh & Aneri's Wedding Weekend
 Title of Seating Page
-Welcome to Pranati and Neal's Reception
+Welcome to Rikesh & Aneri's Reception
 How many lines to leave empty under the landing header
-8
+3
 Planner SMS
 sms:+16145479002
