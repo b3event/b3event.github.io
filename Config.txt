@@ -1,12 +1,12 @@
-Landing-Page-with-Links
+Only-Seating-Chart
 Highlight Color
-e1e6ea
+061123
 Text + table color
-ab431e
+e6d2b6
 Title of Landing Page
-Welcome to Sahil & Damini's Wedding Weekend
+Welcome to Rikesh & Aneri's Wedding Weekend
 Title of Seating Page
-Welcome to Sahil & Damini's Reception
+Welcome to Rikesh & Aneri's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
