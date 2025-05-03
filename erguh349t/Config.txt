@@ -1,12 +1,12 @@
 Only-Seating-Chart
 Highlight Color
-061123
+fff5e9
 Text + table color
-e6d2b6
+c58957
 Title of Landing Page
-Welcome to Rikesh & Aneri's Wedding Weekend
+Welcome to the Wedding Weekend
 Title of Seating Page
-Welcome to Rikesh & Aneri's Reception
+Welcome to the Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
