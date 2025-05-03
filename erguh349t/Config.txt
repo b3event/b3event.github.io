@@ -4,9 +4,9 @@ fff5e9
 Text + table color
 c58957
 Title of Landing Page
-Welcome to the Wedding Weekend
+Welcome to Surya and Sarah's Wedding Weekend
 Title of Seating Page
-Welcome to the Reception
+Welcome to Surya and Sarah's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
