@@ -4,9 +4,9 @@ e0ded2
 Text + table color
 a5000e
 Title of Landing Page
-Welcome to Varun and Madi's Wedding Weekend
+Welcome to Sanjana and Harsh's Wedding Weekend
 Title of Seating Page
-Welcome to Varun and Madi's Reception
+Welcome to Sanjana and Harsh's Reception
 How many lines to leave empty under the landing header
 6
 Planner SMS
