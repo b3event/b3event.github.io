@@ -1,13 +1,13 @@
 Landing-Page-with-Links
 Highlight Color
-dee2ee
+253648
 Text + table color
-1b3250
+f5eae7
 Title of Landing Page
-Welcome to Sanjana and Harsh's Wedding Weekend
+Welcome to Maulika and Om's Wedding Weekend
 Title of Seating Page
-Welcome to Sanjana and Harsh's Reception
+Welcome to Maulika and Om's Reception
 How many lines to leave empty under the landing header
-6
+2
 Planner SMS
 sms:+16145479002
