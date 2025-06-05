@@ -8,6 +8,6 @@ Welcome to Shivani and Dhir's Wedding Weekend
 Title of Seating Page
 Welcome to Shivani and Dhir's Reception
 How many lines to leave empty under the landing header
-3
+6
 Planner SMS
 sms:+16145479002
