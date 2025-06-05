@@ -1,8 +1,8 @@
 Only-Seating-Chart
 Highlight Color
-c1b3a8
+ffffff
 Text + table color
-1b140e
+082107
 Title of Landing Page
 Welcome to Shivani and Dhir's Wedding Weekend
 Title of Seating Page
