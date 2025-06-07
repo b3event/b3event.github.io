@@ -1,3 +1,6 @@
+seating.html
+Reception Seating
+same
 b.jpeg
 Welcome Note
 same
