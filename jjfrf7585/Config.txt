@@ -4,9 +4,9 @@ Highlight Color
 Text + table color
 f5eae7
 Title of Landing Page
-Welcome to Maulika and Om's Wedding Weekend
+Welcome to Shivani and Jayant's Wedding Weekend
 Title of Seating Page
-Welcome to Maulika and Om's Reception
+Welcome to Shivani and Jayant's Reception
 How many lines to leave empty under the landing header
 2
 Planner SMS
