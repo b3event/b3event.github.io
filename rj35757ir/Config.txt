@@ -1,12 +1,12 @@
 Only-Seating-Chart
 Highlight Color
-061123
+f1cfd5
 Text + table color
-e6d2b6
+191418
 Title of Landing Page
-Welcome to Ahmed & Meghana's Wedding Weekend
+Welcome to Puneet & Rachana's Wedding Weekend
 Title of Seating Page
-Welcome to Ahmed & Meghana's Reception
+Welcome to Puneet & Rachana's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
