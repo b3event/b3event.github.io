@@ -4,9 +4,9 @@ Highlight Color
 Text + table color
 e6d2b6
 Title of Landing Page
-Welcome to Rikesh & Aneri's Wedding Weekend
+Welcome to Mansi & Rahul's Wedding Weekend
 Title of Seating Page
-Welcome to Rikesh & Aneri's Reception
+Welcome to Mansi & Rahul's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
