@@ -4,9 +4,9 @@ eef1f0
 Text + table color
 765e56
 Title of Landing Page
-Welcome to Reema and Dillon's Wedding Weekend
+Welcome to Mohini & Sunny's Wedding Weekend
 Title of Seating Page
-Welcome to Reema and Dillon's Reception
+Welcome to Mohini & Sunny's Reception
 How many lines to leave empty under the landing header
 6
 Planner SMS
