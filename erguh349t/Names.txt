@@ -1,511 +1,330 @@
-Mitul Patel
-Alpa Patel
-Neil Patel
-Kapila Patel
-Prashant Patel
-Prital Patel
-Serena (Prashant) Patel
-Ronik Patel
-Nimesh Patel
-Manisha (Nimesh) Patel
-Kaajal Patel
-Ayesha Patel
-Hiten (Sonal) Patel
-Sonal Patel
-Kunal Patel
-Diya Patel
-Pari Patel
-Hemant Patel
-Jignasa Patel
-Jayantibhai Patel
-Manjula Patel
-Kyle Patel
-Aidan Patel
-Manisha P Patel
-Paresh Patel
-Dillon P Patel
-Alina Patel
-Jay Patel
-Rashmi Bodhanwala
-Ashish Bodhanwala
-Ryan Bodhanwala
-Shaun (Ashish) Bodhanwala
-Meenakshi Patel
-Charmi Patel
-Yash (Charmi) Patel
-Divya Patel
-Nalin Patel
-Kiran (Nalin) Patel
-Pappu Bhai
-Roshani Vanmali
-Mahesh (Masa) Patel
-Usha Patel
-Kaushika Patel
-Bindu Kohli
-Amul Patel
-Dina (Amul) Patel
-Mahesh (Anju) Patel
-Anju (Mahesh) Patel
-Samina Malani
-Dilip Malani
-Fenil Patel
-Swati Patel
-Mahesh (Fua) Patel
-Shobhana Patel
-Rita Patel
-Dhansukh Patel
-Viren Patel
-Karuna Patel
-Aditi Mehta
-Dhruv Patel
-Bhavna Patel
-Rupal Vanmali
-Poonam Dhillon
-Rubina Rana
-Alpesh (Sima) Patel
-Sima Patel
-Rakshita Patel
-Naitik Patel
-Sarena Patel
-Millie (Hirak) Biswas
-Hirak Biswas
-Bhavin (Ruthie) Patel
-Ruthie Campiz
-Kavita Patel
-Ankur (Nikita) Patel
-Nikita (Ankur) Patel
-Mamta Patel
-Yogesh K. Patel
-Alka K. Patel
-Raju J. Patel
-Bhumika Patel
-Rahul Patel
-Priya Patel
-Manisha (Nilesh) Patel
-Nilesh (Manisha) Patel
-Vimal Patel
-Rinku Patel
-Ela (NY) Patel
-Sharon Thomas
-George Chirayath
-Nidhi Patel
-Chirag (Nidhi) Patel
-Lylah Rutigliano
-Daniel Mersman
-Marla John
-Sajan Shah
-Rushabh Shah
-Niti Shah
-Eshan Patel
-Jaya Jankowski
-Rob Stark
-Nick Bhana
-Prinal Patel
-Darshan Patel
-Sonica Patel
-Dylan Patel
-Arefa Bacchus
-Shiv (PA) Patel
-Shailen Patel
-Jaysha Patel
-Avish Patel
-Nishant Patel
-Harshiv Patel
-Christian Estrada
-Shanil Patel
-Anjali Patel
-Sohil Patel
-Reshma Patel
-Serena Patel
-Aaron Patel
-Kaila Fives
-Koonal Patel
-Savan (Sanjay) Patel
-Victor Gutierrez de Pineres
-Bhavesh B. Patel
-Amita Patel
-Kamlesh M. Patel
-Jagu Patel (Kamlesh)
-Mahendra Patel
-Chhaya Patel
-Tushar N Patel
-Kamini (Tushar) Patel
-Naresh N. (Kamini) Patel
-Kamini Patel
-Ramesh B. Patel
-Bhagvati Patel
-Komal Patel
-Prakunj Patel
-Ariana Patel
-Vinal Gandhi
-Rahul Gandhi
-Nilkesh Patel
-Asha (Nilkesh) Patel
-Hinal Patel
-Bhavin (Hinal) Patel
-Mayuri (Mitul) Patel
-Mitul (Mayuri) Patel
-Millie (Mayuri) Patel
-Parimal Patel
-Rita (Parimal) Patel
-Preeti Patel
-Vinnybhai Patel
-Sheetal (Vinnybhai) Patel
-Lopa Patel
-Kirpa Patel
-Sanjay Patel
-Ketan Patel
-Lina (Ketan) Patel
-Alka Bhakta
-Naresh Bhakta
-Chirag (Preeti) Patel
-Preeti (Chirag) Patel
-Biren Patel
-Shivani B Patel
-Tejas Patel
-Viraj Patel
-Henry Patel
-Rina Patel
-Jignesh Patel
-Nita (Jignesh) Patel
-Gaurang Patel
-Rashmi Patel
-Dr. Shahin Javaheri
-Jyoti (UK) Patel
-Bharti Patel
-Vijay Patel
-Panna Patel
-Dhanshuk Dr. Patel
-Sandhya (Dhanshuk) Patel
-Sarla Patel
-Mahesh (Sarla) Patel
-Jigna Shah
-Udhay Shah
-Suleka Patel
-Shashikant Patel
-Saroj (Arvind) Patel
-Arvind (Saroj) Patel
-Sobhna Patel
-Suresh (Sobhna) Patel
-Ramesh Patel
-Nita (Ramesh) Patel
-Raman (Vimla) Patel
-Vimla Patel
-Dinesh Patel
-Prakash Patel
-Chetan (Chitra) Patel
-Chitra Patel
-Deepak (Shila) Patel
-Shila Patel
-Hitesh (Rochester) Patel
-Nayana (Rochester) Patel
-Prakash (Paul) Patel
-Hemlata Patel
-Sirish Patel
-Soniya Patel
-Dhiru(David) Patel
-Paresh (Rinku) Patel
-Arjun Patel
-Rinku (Paresh) Patel
-Kalpesh Maniar
-Meha Maniar
-Kaarish Maniar
-Kairav Maniar
-Deven Shah
-Sheetal Shah
-Saachi Shah
-Sohum Shah
-Kreena Patel
-Sean Patel
-Rishi Patel
-Shiv (NY) Patel
-Chandani Patel
-Ravi Patel
-Milan Patel
-Keya Pandya
-Milan (FL) Patel
-Anand Patel
-Vishal Patel
-Miraj Patel
-Akhil Patel
-Suhane Patel
-Nishil Patel
-Priyanka Patel
-Parth Patel
-Raj Marfatia
-Pooja Panchal
-Atit Patel
-Sweta Barvalia
-Sunny Patel
-Jay Tailor
-Janki Patel
-Tanay Hardikar
-Anthony Wong
-Shai Yutuc
-Kasra Yaghouti
-Isabelle Paige
-Vikas Patel
-Nish Vadalia
-Divya (Nish) Patel
-Ronak Patel
-Janam Patel
-Akash Kanneganti
-Kinari Patel
-Kanubhai Patel
-Vidya Patel
-Parul Patel
-Akash Patel
-Niral Patel
-Priyanka (Shaun) Patel
-Nipuna Patel
-Arunkumar Patel
-Srujal Patel
-Richa Patel
-Krisha Patel
-Niket Patel
-Esha Patel
-Kishorbhai Patel
-Jagu (Kishor) Patel
-Manjubhabhi Patel
-Thakorbhai Patel
-Hemant Patel
-Bina (Hemant) Patel
-Narendra Patel
-Rina Patel
-Hasubhai Patel
-Usha (Hasubhai) Patel
-Anil Patel
-Pooja (Herin) Patel
-Hiren Patel
-Hemal (Chetali) Patel
-Chetali Patel
-Nitin (Minal) Bidkar
-Minal Bidkar
-Minesh (Kamini) Patel
-Kamini (Minesh) Patel
-Alpesh Patel
-Binita Patel
-Nagraj A. Badageri
-Ashok Patel
-Shaku (Ashok) Patel
-Mukesh Mowji
-Kumud Mowji
-Bapu Patel
-Raju (Roger) Patel
-Dhaksha Patel
-Bobby Newman
-Sukhdev Patel
-Sangita (Sukhdev) Patel
-Dinesh Patel
-Meena (Sunita) Patel
-Ashwin Patel
-Meena (Ashwin) Patel
-Gopal Patel
-Daxa Patel
-Sukiben Patel
-Rajnikant Patel
-Nita (Yogesh) Patel
-Yogesh (Nita) Patel
-Jyotsna Patel
-Yashvant Patel
-Sangita Patel
-Subash Patel
-Asha Patel
-Nitin (Asha) Patel
-Jagdish (Jyoti) Patel
-Jyoti (Jagdish) Patel
-Mukesh Gandhi
-Saroj (Mukesh) Patel
-Naresh (Nilam) Patel
-Nilam (Naresh) Patel
-Sanjay J. Patel
-Rupal Patel
-Prakash (Geeta) Patel
-Geeta (Prakash) Patel
-Raman (Manjrika) Patel
-Manjrika Patel
-Bharat Patel
-Kailas (Bharat) Patel
-Kumud Patel
-Balmukund Patel
-Nimisha Patel
-Ishwar Patel
-Kusum (Ishwar) Patel
-Vilas Patel
-Jagdish (Vilas) Patel
-Ashwin Doshi
-Arti Doshi
-Shaku Patel
-Situ Patel
-Ranjana Patel
-Jayshree Patel
-Nilam (Jayshree) Patel
-Bharat Patel
-Anju (Bharat) Patel
-Raju (Tinu) Patel
-Sheetal (Jason) Patel
-Jason Patel
-Nagin Patel
-Bhanu (Nagin) Patel
-Vidula Patel
-Arvind (Nila) Patel
-Nila Patel
-Sangeeta (Dilip) Patel
-Dilip Patel
-Jashbhai Patel
-Urmila Patel
-Bipin Patel
-Bharat (Barry) Patel
-Sadhna Patel
-Bharat (Lallubhai) Patel
-Pushpaben Patel
-Falguni Patel
-Mukesh (Mack) Patel
-Mukesh (Lataben) Patel
-Lataben Patel
-Vini Patel
-Seema Patel
-Raju (Priya) Patel
-Priya (Raju) Patel
-Milan (NY) Patel
-Shaan Patel
-Hannali Patel
-Zeena Patel
-Danielle Pellini
-Peter Finnegan
-Marla Katz
-Ethan Suraci
-Olivia Murphy
-Kelsey Collevechio
-Lisa Wenturine
-Michelle Forrester
-Bharat (Hema) Patel
-Hema Patel
-Bakul Patel
-Jyoti Patel
-Jayesh Patel
-Damini Patel
-Mitesh Patel
+Shalin Shah
+Darshita Shah
+Punit Baxi
+Bina Baxi
+Pritesh Patel
 Shilpa Patel
-Shailesh (Ila) Patel
-Ela Patel
-Minesh (Saumyata) Patel
-Saumyata Patel
-Aarush Patel
-Riya Gandhi
-Sanya Gandhi
-Mahi Patel
-Anik Patel
-Jasmine Patel
-Juhi Patel
-Aavi (Parul) Patel
-Rehan Patel
-Alysha Patel
-Rena Patel
-Tony Dumbhalia
+Labhshankar Bhatt
+Purnima Bhatt
+Kabul Bhatt
+Varsha Shroff 
+Sanat Shroff
+Gita Amin
+Nimish Amin
+Niyati Asher
+Nikhil Asher
+Bena Desai
+Nalin Desai
+Ketu Shah
+Priyesh Shah
+Deepika Dalal
+Bharat Dalal
+Bindu Dalal
+Dinesh Dalal
+Urvashi Dalal
+Jagdish Dalal
+Sneha Khamar
+Valmik Khamar
+Asha Dalal
+Jayant Dalal
+Deepak Dalal
+Jagruti Khamar
+Jignesh Khamar
+Bela Khamar
+Bharat Khamar
+Nita Khamar
+Girish Khamar
+Bhupendra Khamar
+Bhagwati Khamar
+Krishnakanth Khamar
+Harsha Khamar
+Surendra Khamar
+Kalpana Khamar
+Jayesh Khamar
 Bakula Patel
-Heena (Deena) Patel
-Shailesh (Heena) Patel
-Mona (Baku) Patel
-Herin Patel
-Leena (Herin) Patel
-Jigna Patel
-Hitesh (Ashna) Patel
-Ashna Patel
-Bhavisha Modi
-Ashish Modi
-Hemal Patel
-Namita Patel
-Kinjal Patel
-Swina Patel
-Payal (Bhargav) Patel
-Bhargav Patel
-Archana Patel
-Harry Patel
-Angela Padhiar
-Ajay Padhiar
-Nisha Patel
-Aashish Patel
-Khushboo Patel
-Nitin (Ela) Patel
-Ela (CT) Patel
-Veeral (Gano) Patel
-Rula Patel
-Amish Patel
-Urvi Patel
-Milin Patel
-Mamta (Milin) Patel
-Nitin (Meena) Patel
-Meena Patel
-Minal S Patel
-Nita (Suru) Patel
-Suru Patel
-Vibha Mistry
-Sury Mistry
-Alpa R Patel
-Sangeeta (Sanjay) Patel
-Sanjay (Sangeeta) Patel
-Manisa Patel
-Dipti Patel
-Asmita Patel
-Kirit Patel
-Anil Lala
-Renuka Lala
-Kiran (Vanita) Patel
-Vanita Patel
-Dilip Patel
-Vaishali Patel
-Naresh Patel
-Sheela Patel
-Minesh (Nikita) Patel
-Kalpna Patel
-Jagdish (Kalpna) Patel
-Giresh Patel
-Jayna Patel
-Shivani Patel
+Vinod Patel
+Swati Khamar
+Kalrav Khamar
+Krishna Khamar
+Jigar Khamar
+Chetna Khamar
+Pankaj Khamar
+Tejal Khamar
+Vijay Khamar
+Pinal Khamar
+Jigar Khamar
+Krishna Khamar 
+Tarunkumar Khamar
+Krisha Khamar
+Krish Khamar
+Yogini Khamar
+Arti Shah
+Vijay Shah
+Priti Shah
+Prashant Shah
+Smita Gosai
+Kamal Gosai
+Jyotsana Shah
+Pravin Shah
+Paulomi Shah
+Ajit Shah
+Ami Patni
+Hemant Patni
+Darshana Maniyar
+Prakash Maniyar
+Bhagwati Parekh
+Abhishek Parekh
+Ami Doshi
+Bhavank Doshi
+Jayesh Gosai
+Rupa Gosai
+Bina Monpara
+Bharat Monpara
+Rita Patel
+Gautam Patel
+Jyoti Amin
+Pranay Amin
+Nita Sutariya
+Dayal Sutariya
+Suresh Golakiya
+Varsha Golakiya
+Minesh Patel
+Jayshree Patel
+Jiva Sutreja
+Jayshree Sutreja
+Pankaj Lathya
+Sheetal Lathya
+Bharat Dobariya
+Sonal Dobariya
+Rakesh Diora
+Krishna Diora
+Mukesh Italiya
+Bhavna Vekariya
+Raj Vekariya
+Raju Dobariya
+Dhara Dobariya 
+Sachin Kalathiya
+Khyati Kalathiya
+Gita Lavani
+Dilip Lavani
+Sanjay Dobariya
+Shital Dobariya
+Darshna Pandya
+Gautam Pandya
+Komal Parmar
+Navin Parmar
+Tejal Desai
+Dharmesh Desai
+Ketan Shah
+Deepa Shah
+Leena Trivedi
+Paresh Trivedi
 Kaushik Patel
-Neel Patel
-Ajit Patel
-Hiren Patel
-Chetan Patel
-Manisha C Patel
-Dhiru Patel
-Subadra Patel
-Hetal (Hiren) Patel
-Nimisha Patel
-Dipak Patel
-Bhavika Patel
-Dharmendra Patel
-Kajal (Dharmendra) Patel
-Hitesh (Hyde Park) Patel
-Nayana (Hyde Park) Patel
-Deepak (Ketana) Patel
-Ketana Patel
-Pankaj Patel
+Rasila Patel
+Nick Patel
+Manisha Patel
+Priti Patel
+Nikunj Patel
+Yogendra Patel
+Urvashi Patel
+Chetan Ladani
+Leena Ladani
+Pinakin Kakkad
+Mayuri Kakkad
+Kirit Patel
+Geeta Patel
+Bhavna Mehta
+Vijay Mehta
+Rekha Mehta
+Harshad Mehta
+Jethalal Rambhia
+Alka Rambhia
+Vaishali Kanani
+Rajesh Kanani
+Paresh Lakhani
+Nilam Lakhani
+Sejal Ukani
+Sagar Ukani
+Jayesh Sutariya
+Sonal Sutariya
+Nayna Navadiya
+Baldev Navadiya
+Priti Patel
+Ashesh Patel
+Nilesh Patel
+Vibha Patel
+Jasmin Patel 
+Parimal Patel
+Mitesh Patel
 Jagruti Patel
-Maathur (Paresh) Patel
-Jigna (Maathur) Patel
-Dilan Patel
-Charmi (Dilan) Patel
-Bhakti Patel
-Hrithik Ahir
-Hailey Patel
-Kiaan Patel
-Siddhi Patel
-Ishan Patel
-Julisha Patel
-Ankur Patel
-Yash Patel
-Pooja (Yash) Patel
-Jayantibhai Patel
-Binaben Patel
-Kiran (Dipika) Patel
-Dipika Patel
-Hashubhai Patel
-Anila Patel
-Madhukar Patel
-Jessica Patel
-Mehul Patel
-Krishana Jariwala
-Isaac Fialkoff
-Mrs. Fialkoff Fialkoff
+Bhavisha Patel
+Ila Patel
+Hasmukh Patel
+Timir Surati
+Aekta Surati
+Hiral Patel
+Dharmesh Patel
+Mitul Mehta
+Tamanna Patel
+Dharmesh Kakadia
+Komal Kakadia
+Bimal Patel
+Krishna Patel
+Ashish Patel
+Dhwani Patel
+Ekta Patel
+Minesh Patel
+Gopal Patel
+Manali Patel
+Kalpit Patel
+Kinnari Patel
+Digna Patel
+Maulik Patel
+Shreena Patel
+Radha Patel
+Tarang Patel
+Jalpa Patel
+Davindraben Patel
+Suresh Patel
+Nisha Patel
+Shreya Patel
+Chirag Sudani 
+Hina Sudani
+Devendra Shah
+Dina Shah
+Bimal Ramani
+Rekha Ramani
+Chintan Vashi
+Mitali Vashi
+Dikky Bhavsar
+Sonam Bhavsar
+Kamal Prajapati
+Nilam Prajapati
+Chadi Touma
+Mary Touma
+Jigar Shah
+Nilpa Shah
+Yogesh Surma 
+Khushbu Surma
+Ashish Kalra
+Sonal Kalra
+Manoj Patel
+Nayna Patel
+Sweety Shah
+Vishal Shah
+Sudha Patel
+Dharmendra Shah
+Amita Shah
+Vinod Shah
+Bharti Shah
+Jayanti Shah
+Ashok Shah
+Alka Shah
+Nayan Shah
+Meena Shah
+Sandeep Shah
+Smita Shah
+Vivek Rana
+Janhavi Rana
+Darshan Dave
+Chaitali Dave
+Jaymini Patel
+Pritesh Patel
+Jigar Amin
+Bhavesh Patel
+Sonal Patel
+Sanjay Ukani
+Jigna Ukani
+Brent Barclay
+Vincent Fisher
+John Pugh
+Mrs. Pugh
+Audrey Smith
+Dale Smith
+Levi Llenroc
+Hannah Llenroc
+Balwinder Singh
+Manjinder Saini
+Sailesh Lahoti
+Rachna Lahoti
+Minu Bhandari
+Ajay Bhandari
+Anupama Pai
+Padmanabha Pai
+Nainesh Desai
+Jayna Desai
+Dilip Desai
+Nimisha Patel
+Jignesh Patel
+Chetan Patel
+Bakula Patel
+Ravi Mehta
+Krishna Sharma
+Mona Sharma 
+Sanjay Lodha
+Subha Lodha
+Shital Sonis
+Jitu Sonis
+Pinakin Patel
+Rutika Patel
+Hiral Desai
+Hiren Patel
+Rachna Patel
+Aryan Patel
+Priyanka Patel
+Neel Patel
+Kishan Patel
+Himil Dobariya
+Janvi Dobariya
+Vikas Mendpera
+Nilesh Mendpera
+Amit Veghasiya
+Reena Veghasiya
+Param Surma
+Naksh Surma
+Aditya Patel
+Shiv Patel
+Himanshu Khamar
+Heena Khamar
+Jyotshana Khamar
+Arunbhai Khamar
+Vansh Modi
+Pahal Modi
+Raam Diora
+Sam Vinesh
+Vatsal Kalra
+Shree Diora
+Renita Varghese
+Shanay Patel
+Pooja Parikh
+Keya Shah
+Haripriya Khamar
+Nirav Khamar
+Parv Khamar
+Ravi Khamar
+Ketu Khamar
+Smeet Khamar
+Reean Khamar
+Hemant Khamar
+Jayshree Khamar
+Neiil Gandhi
+Anushree Gandhi
+Krishiv Gandhi
+Renuka Gandhi
+Kasmira Gandhi
+Bharti Khamar
+Jay Vakil
+Mehul Vakil
+Prahladh Vakil
+Pinal Vakil
+Yash Vakil
+Samir Khamar
+Darshini Khamar
+Krish Khamar
+Niv Khamar
+Nandlal Khamar
+Bharti Khamar
+Mihir Gandhi
+Dhara Gandhi
+Jigna Gandhi
+Purvin Gandhi
