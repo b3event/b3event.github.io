@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-253648
+f0ede3
 Text + table color
-f5eae7
+ac2e34
 Title of Landing Page
-Welcome to Shivani and Jayant's Wedding Weekend
+Welcome to Amit and Melissa's Wedding Weekend
 Title of Seating Page
-Welcome to Shivani and Jayant's Reception
+Welcome to Amit and Melissa's Reception
 How many lines to leave empty under the landing header
 2
 Planner SMS
