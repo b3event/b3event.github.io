@@ -4,9 +4,9 @@ f0ede3
 Text + table color
 ac2e34
 Title of Landing Page
-Welcome to Siddharth and Georgia's Wedding Weekend
+Welcome to Monica & Dhaval's Wedding Weekend
 Title of Seating Page
-Welcome to Siddharth and Georgia's Reception
+Welcome to Monica & Dhaval's Reception
 How many lines to leave empty under the landing header
 2
 Planner SMS
