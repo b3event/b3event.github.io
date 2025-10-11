@@ -4,9 +4,9 @@ f1cfd5
 Text + table color
 191418
 Title of Landing Page
-Welcome to Puneet & Rachana's Wedding Weekend
+Welcome to Vijay & Komal's Wedding Weekend
 Title of Seating Page
-Welcome to Puneet & Rachana's Reception
+Welcome to Vijay & Komal's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
