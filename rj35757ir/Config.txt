@@ -1,8 +1,8 @@
 Only-Seating-Chart
 Highlight Color
-090909
+a2aeb8
 Text + table color
-eeefef
+654242
 Title of Landing Page
 Welcome to Eshan & Jaya's Wedding Weekend
 Title of Seating Page
