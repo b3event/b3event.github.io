@@ -1,322 +1,256 @@
-Ajay Patel
-Pragna Patel
-Vipul Patel
-Sejal Patel
-Renukaba 
-Vijaykumar Patel
-Parulben Patel
-Vinodkumar Desai
-Meetaben Desai
-Ashwinkumar Patel
-Swatiben Patel
-Umeshkumar Patel
-Inaben Patel
-Rohan Patel
-Aagna Patel
-Aastha Patel
-Khush Patel
-Jayantbhai Patel
-Pushpaben Patel
-Pragnesh Patel
-Varsha Patel
-Nimesh Patel
-Chetna Patel
-Chirag Patel
-Raag Engineer
-Janki Engineer
-Ravi A. Patel
-Pooja Patel
-Rishi Desai
-Bijal Amin Desai
-Deep Patel
-Ayushi Patel
-Parimal Patel
-Kinnari Patel
-Sundeep Patel
-Roshnee Patel
-Yuvraj Patel
-Nandini Patel
-Tej Pandya 
-Karuna Pandya 
-Anadi Pandya
-Aishwarya Pandya
-Kinjal Pandya 
-Sanket Patel
-Sonum Patel
-Aasha Patel
-Akash Patel
-Manas Parikh 
-Purva Patel Parikh 
-Lila Parikh 
-Jay U. Patel
-Roma Patel
-Ari Patel
-Maya Patel
-Reena Patel
-Jazmin Patel
-Jayna Patel
-Vinay Patel
-Arianna Patel
-Josh Somers
-Meera Patel Somers
-Ronit Patel
-Jayur Patel
-Roshni Patel
-Ruhi Patel
-Rishi Patel
-Krupa Patel
-Nimeshbhai Patel
-Vivek Patel
-Jagruti Patel
-Nitin Patel
-Trupti Patel
-Jai Amin
-Shivam Amin
-Anjali Amin
-Dev Amin
-Brooke Doxtator
-Kareena Patel
-Sahil Patel
+Aakash D Patel
+Arni N Patel
+Ashia Walker
+Dia & Dil A Patel
 Dylan Patel
-Neel Patel
-Vikram Patel
-Neema Patel
-Piyush Amin
-Harsha Amin
-Rakesh Patel
-Kaumudi Patel
-Dhruvan Patel
-Kausha Patel
-Umesh Patel
-Zankhana Patel
-Anjali Patel
-Raj Patel
-Shrusti Patel
-Aamaya Patel
-Om Patel
-Dimpi Patel
-Mehul Engineer
-Dipika Engineer
-Ritesh Patel
-Sintu Patel
-Rahul Patel
-Kamini Patel
-Sandip Thakkar
-Rani Thakkar
-Mitesh Patel
-Yogita Patel
-Kinnari Pobari
-Vandan Thakkar
-Jigna Thakkar
-Mahi Patel
-Harsh Patel
-Vinit Patel
-Janki Patel
-Smruti Thakkar
-Ishika Patel
-Yatish Patel
-Priti Patel
-Anish
-Suhani
-Raj Patel
-Krupa Patel
-Bipinphuva 
-Niruphoi
-Sohan
-Shirali Patel
-Ravi Patel
-Jahnavi Patel
+Dylan S Patel
+Kenia Walker
+Neha D Patel (Neev)
+Nikesh S Patel
+Parul A Patel
+Priya A Patel
+Rima D Patel
+Rohan A Patel
+Yagnika Patel
+Yash N Patel
+Zoya Patel
+Aruna (Maghu Baa) Patel
 Ashish Patel
-Binal Patel
-Akshar Patel
-Mansi Patel
-Akshar Patel
-Taram Engineer
-Haley Pobari
-Mayur Patel
-Hiral Patel
-Krunal Rajguru
-Harsh Patel
-Nishi Rajguru
-Meera Rajguru
-Tilak Patel
-Vivek Amin
-Dhruv Amin
-Deep M. Patel
-Shakeeb Julien
-Fluvia Mendez
-Evan Luikart
-Marco Palmentera
-Destiny Palmentera
-Neel Desai
-Pujan Patel
-Mayur B Patel
-Kaushal Desai
-Gati Desai
-Jayman Gandhi
-Parul Gandhi
-Vipul Bhatt
-Purvi Bhatt
-Bankim Patel
-Bansari Patel
-Ankur Patel
-Kruti Patel
-Jay Patel
-Vandan Patel
-Mayank Patel
-Karishma Patel
-Leela Patel
-Ricky Patel
-Nikki Patel
-Swayam Patel
-Sunny Patel
-Sonia Patel
-Rakesh Patel
-Rajeshri Patel
-Manish Desai
-Yogina Desai
-Ambrish Patel
-Manisha Patel
-Minesh Patel
-Sangeeta Patel
-Rajesh Kamdar
-Nipaben Patel
-Sharad Thakkar
-Bhavna Thakkar
-Yogesh Patel
-Divya Patel
-Mukesh Amin
-Manisha Amin
-Mehul Patel
-Ghanshyam Patel
-Varsha Patel
-Madhuba Patel
-Kokila Patel
-Ashok Patel
-Varsha B Patel
-Kirit Kr. Patel
-Kalpana Patel
-Dev Patel
-Nandini Patel
-Saniya Patel
-Siya Patel
-Manav Patel
-Punit Patel
-Prapti Patel
-Moksha Patel
-Snehal Patel
-Pinal Patel
-Deepak Patel
-Hetal Patel
-Hemant Patel
-Khushi Patel
-Prisha Patel
-Nilam Patel
-Sunil Patel
-Meena Patel
-Bhavesh Patel
-Parul Patel
-Sanjay Patel
-Sheetal Patel
-Nimisha Patel
-Bharat Patel
-Anita Patel
-Vijay Patel 
-Meena Patel
-Ravi Patel
-Roma Patel 
-Palak Patel
-Jinali Patel
-Jigisha Patel
-Anil Patel
-Apexa Patel
-Devendra Patel
-Sweety Patel
-Hardik Patel
-Pinal Patel
-Praful Patel
-Pinky Patel
-Rajnikant Patel
-Bhavna Patel
-Dipen Patel
-Thrushnaa Patel
-Nalini Patel
-Neel Patel
-Gautam Patel
-Saroj Patel
-Mayur Chandarana
-Jalpa Chandarana
-Naresh Chandarana
-Kokila Chandarana
-Jigisha Chandarana
-Dipal Patel
-Kavya Patel
-Kinjal Patel 
-Ishani Patel 
-Sudha Patel
-Shruti Patel
-Harshit Patel
-Rudra Patel
-Preeti Patel
-Shrina Patel
-Palak Patel
-Jimmy Patel
-Pragnesh Patel
-Shefali Patel
-Hemansu Patel
-Sushila Patel
+Bhavana Patel
+Dipak Patel
+Gangaben Patel
+Girish Patel
+Jagurati Patel
+Lila Patel
+Mona Patel
+Natvar Patel
+Nipa Patel
 Raju Patel
-Rita Patel
-Jashbhai Patel
-Gitaben Patel
-Vihaan Patel
-Myra Patel
-Kiti Patel
-Krunal Patel
-Sneha Patel
-Sunita Mehta
-Vijay Mehta
-Hetal B. Patel
-Mihir Patel
-Rupa Patel
-Prafula Raoulji
-Vishnu Patel
-Manisha Patel
-Mahesh Raoulji
-Pallav Bhavsar
-Vedha Patel
-Neha Brahmbhatt
-Rocky Desai
-Jay A. Patel
-Bindi Patel
-Anita Gopalrathnam
-Swarit Joshipura
-Esha Kulkarni
-Anuj Mehta
-Disha Patel
-Bhakti Patel
-Dhwani Vaidh
-Netra Pradhan
-Deepika Rao
-Riti Sachdeva
-Prem Bhanderi 
-Avit Tailor 
-Nishad Joshi
-Amee Sangani
-Karan Patel
-Aesha Patel
-Krupa Patel
-Neha Patel
-Darshan Patel
-Jai Patel
-Namra Patel
-Anita Ambalavanan
-Avi Ganesh
-Sahil Ahluwalia
-Namrata Gopinath
-Jagat Thakkar
-Krishna Sonani
-Sagar Nattuvetty 
-Albert Zhong
-Puja Maheswari
-Vishal Prakash
+Ramesh (Buddy Dada) Patel
+Umesh Patel
+Anant N Patel
+Bhogibhai M Patel
+Deepti Hossain
+Dr. Jayantilal R Patel
+Hariprasad M Patel
+Jared Whitfield
+Jigisha D Patel
+Julianna Sherer
+Jyotsnaben B Patel
+Nilesh M Patel
+Pina A Patel
+Rupal N Patel
+Rushil Patel
+Ryan Buescher
+Shardaben J Patel
+Sonal H Patel
+Abhishek Patel
+Akash Patel
+Aryan Patel
+Dharmarao Nellivalasa
+Dharmik Patel
+Kalpana Patel
+Kaushik Patel
+Mayuri Patel
+Mitu Patel
+Naimeshbhai Narendrabhai Patel
+Nirmala Nellivalasa
+Om Patel
+Riddhi Patel
+Ronak Patel
+Sunny Patel
+Sushila Patel
+Alvin Strasburger
+Dr. Bhavesh B Patel
+Eric Reiser
+Jennifer Reiser
+Jessica Tate
+Kahaani Patel
+Kanai Patel
+Kristen Greer
+Krupa Patel Strasburger
+Nikolas Strasburger
+Nirali Patel
+Devin Patel
+Hiren (Lalu, Don) Patel
+Hiren Patel
+Krshna Patel
+Lara Patel
+Priyank Patel
+Rishi Patel
+Rita Shah Patel
+Urvi Patel
+Arnish Patel
+Bhavna H Patel
+Hemant A Patel
+Indira M Patel
+Jashodaben M Patel
+Mangaldas B Patel
+Manulal B Patel
+Ritaben S Patel
+Shaileshbhai N Patel
+Vinodaben K Patel
+Briana Rajewski
+Caroline Snyder
+Clara Avenarius
+Dev Patel
+Diya Patel
+Earth Patel
+Heali Patel
+Jaymin Patel
+Krishiv Patel
+Yash Patel
+Aayushi S Patel
+Aditi S Patel
+Arya P Patel
+Dipti P Patel
+Ghanshyambhai R Patel
+Kantaben G Patel
+Pankaj G Patel
+Rashmita S Patel
+Suresh G Patel
+Vedant P Patel
+Bhoomi Patel
+Jia Patel
+Jill Patel
+Krishna Patel
+Mahi Patel
+Mit Patel
+Nancy Patel
+Om Patel
+Om Patel
+Shiv Patel
+Deepak J Patel
+Dr. Nicole Sookhan
+Dr. Pikesh Patel
+Jayashree Patel
+Komal Patel
+Richard Baybutt
+Riya Patel
+Ronak Baybutt
+Sophiya Patel
+Akash Patel
+Anaya Patel
+Daksha Patel
+Dinesh Patel
+Gauri Patel
+Kayra Patel
+Sonal (Alpesh) Patel
+Sonal (Dinesh) Patel
+Chaaya P Patel
+Jignesh S Patel
+Parth P Patel
+Pulkit N Patel
+Purab S Patel
+Siddhi P Patel
+Tarlika P Patel
+Urmil N Patel
+Varsha Patel
+Bharti Patel
+Binta Patel
+Dimple Patel
+Dipika Patel
+Kanta Baa
+Kapila Patel
+Troopti Patel
+Vasu Patel
+Ayushi S Patel
+Devashree S Patel
+Hemani N Patel
+Nehal S Patel
+Nikul K Patel
+Nitya N Patel
+Niyam N Patel
+Rupesh B Patel
+Savan M Patel
+Tanvi S Patel
+Arya Patel
+Bharat Patel
+Navya Patel
+Parul Patel
+Reema Patel
+Shilpa Patel
+Ujwal Patel
+Dr. Manulal Patel
+Ghanshyambhai K Patel
+Kaushikbhai B Patel
+Kokiben G Patel
+Parulben K Patel
+Pravinlal Patel
+Surekha M Patel
+Vasantiben P Patel
+Vishal M Patel
+Bipin Patel
+Chaitali Patel
+Chesta Patel
+Hitesha Patel
+Kalpesh Patel
+Mahin Patel
+Monica Patel
+Tushar Patel
+Aisha P Patel
+Aryan Patel
+Dr. Piyush Patel
+Naisha P Patel
+Priyanka P Patel
+Vaishali V Patel
+Vani V Patael
+Vishvesh Patel
+Vyom V Patel
+Babulal Patel
+Baby Patel
+Dipen Patel
+Heta Patel
+Jassi Patel
+Keya Patel
+Krima Patel
+Bhavna K Patel
+Diya J Patel
+Kamlesh A Patel
+Kinjal R Patel
+Naina Patel
+Nikita R Patel
+Rajendrakumar N Patel
+Shivam R Patel
+Surya R Patel
+Vinod Patel
+Daxaben B Patel
+Dr. Baldevbhai P Patel
+Ghanshaymbhai S Patel
+Ghanshyambhai P Patel
+Jashodaben V Patel
+Kamalaben G Patel
+Kanaiyalal P Patel
+Lataben K Patel
+Sudhaben G Patel
+Vasudevbhai P Patel
+Bindu V Patel
+Charu C Patel
+Dharmistha S Patel
+Kamleshkumar Patel
+Nitaben K Patel
+Samir Patel
+Shilpaben S Patel
+Sureshkumar N Patel
+Tirth S Patel
+Vipul Jani 
+Arvindlal G Patel
+Babubhai M Patel
+Dilip B Patel
+Dr. Bhaktilal Patel
+Harikrishnabhai J Patel
+Kailashben A Patel
+Kamleshbhai B Patel
+Kokilaben B Patel
+Shakuntulaben D Patel
+Shardaben B Patel
+Bhagwatiben S Patel
+Dasharathbhai J Patel
+Dr. Samirkumar Patel
+Girdharbhai C Patel
+Hasmukbhai J Patel
+Jyotsnaben V Patel
+Mahendrabhai J Patel
+Manishaben M Patel
+Subhadraben H Patel
+Vishnulal P Patel
