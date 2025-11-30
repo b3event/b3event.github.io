@@ -1,8 +1,8 @@
 Only-Seating-Chart
 Highlight Color
-061123
+5c1326
 Text + table color
-e6d2b6
+efebd3
 Title of Landing Page
 Welcome to Shalini & Parth's Wedding Weekend
 Title of Seating Page
