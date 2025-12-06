@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-e2d3c8
+cdd3e9
 Text + table color
-841b2b
+333038
 Title of Landing Page
 Welcome to Avanika & Eshan's Wedding Weekend
 Title of Seating Page
