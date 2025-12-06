@@ -1,12 +1,12 @@
 Landing-Page-with-Links
 Highlight Color
-f8f1f8
+e2d3c8
 Text + table color
-67589b
+841b2b
 Title of Landing Page
-Welcome to Simren & Bret's Wedding Weekend
+Welcome to Avanika & Eshan's Wedding Weekend
 Title of Seating Page
-Welcome to Simren & Bret's Reception
+Welcome to Avanika & Eshan's Reception
 How many lines to leave empty under the landing header
 2
 Planner SMS
