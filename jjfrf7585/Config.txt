@@ -4,9 +4,9 @@ d0e1ec
 Text + table color
 333038
 Title of Landing Page
-Welcome to Avanika & Eshan's Wedding Weekend
+Welcome to Vayda & Nikhil's Wedding Weekend
 Title of Seating Page
-Welcome to Avanika & Eshan's Reception
+Welcome to Vayda & Nikhil's Reception
 How many lines to leave empty under the landing header
 2
 Planner SMS
