@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-d9c263
+fbd6cb
 Text + table color
-151a17
+272820
 Title of Landing Page
 Welcome to Vayda & Nikhil's Wedding Weekend
 Title of Seating Page
