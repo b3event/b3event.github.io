@@ -1,256 +1,406 @@
-Aakash D Patel
-Arni N Patel
-Ashia Walker
-Dia & Dil A Patel
-Dylan Patel
-Dylan S Patel
-Kenia Walker
-Neha D Patel (Neev)
-Nikesh S Patel
-Parul A Patel
-Priya A Patel
-Rima D Patel
-Rohan A Patel
-Yagnika Patel
-Yash N Patel
-Zoya Patel
-Aruna (Maghu Baa) Patel
-Ashish Patel
-Bhavana Patel
-Dipak Patel
-Gangaben Patel
-Girish Patel
-Jagurati Patel
-Lila Patel
-Mona Patel
-Natvar Patel
-Nipa Patel
-Raju Patel
-Ramesh (Buddy Dada) Patel
-Umesh Patel
-Anant N Patel
-Bhogibhai M Patel
-Deepti Hossain
-Dr. Jayantilal R Patel
-Hariprasad M Patel
-Jared Whitfield
-Jigisha D Patel
-Julianna Sherer
-Jyotsnaben B Patel
-Nilesh M Patel
-Pina A Patel
-Rupal N Patel
-Rushil Patel
-Ryan Buescher
-Shardaben J Patel
-Sonal H Patel
-Abhishek Patel
+Aarti Patel
+Ajay Patel
 Akash Patel
-Aryan Patel
-Dharmarao Nellivalasa
-Dharmik Patel
-Kalpana Patel
-Kaushik Patel
-Mayuri Patel
-Mitu Patel
-Naimeshbhai Narendrabhai Patel
-Nirmala Nellivalasa
-Om Patel
-Riddhi Patel
-Ronak Patel
-Sunny Patel
-Sushila Patel
-Alvin Strasburger
-Dr. Bhavesh B Patel
-Eric Reiser
-Jennifer Reiser
-Jessica Tate
-Kahaani Patel
-Kanai Patel
-Kristen Greer
-Krupa Patel Strasburger
-Nikolas Strasburger
-Nirali Patel
-Devin Patel
-Hiren (Lalu, Don) Patel
-Hiren Patel
-Krshna Patel
-Lara Patel
-Priyank Patel
-Rishi Patel
-Rita Shah Patel
-Urvi Patel
-Arnish Patel
-Bhavna H Patel
-Hemant A Patel
-Indira M Patel
-Jashodaben M Patel
-Mangaldas B Patel
-Manulal B Patel
-Ritaben S Patel
-Shaileshbhai N Patel
-Vinodaben K Patel
-Briana Rajewski
-Caroline Snyder
-Clara Avenarius
-Dev Patel
-Diya Patel
-Earth Patel
-Heali Patel
-Jaymin Patel
-Krishiv Patel
-Yash Patel
-Aayushi S Patel
-Aditi S Patel
-Arya P Patel
-Dipti P Patel
-Ghanshyambhai R Patel
-Kantaben G Patel
-Pankaj G Patel
-Rashmita S Patel
-Suresh G Patel
-Vedant P Patel
-Bhoomi Patel
-Jia Patel
-Jill Patel
-Krishna Patel
-Mahi Patel
-Mit Patel
-Nancy Patel
-Om Patel
-Om Patel
-Shiv Patel
-Deepak J Patel
-Dr. Nicole Sookhan
-Dr. Pikesh Patel
-Jayashree Patel
-Komal Patel
-Richard Baybutt
-Riya Patel
-Ronak Baybutt
-Sophiya Patel
-Akash Patel
-Anaya Patel
-Daksha Patel
+Alec Nguyen
+Allie Van
+Amar D. Patel
+Amar N. Patel
+Amar P. Patel
+Ami (Sampura) Patel 
+Ami A. Patel
+Amish Patel
+Amisha Patel 
+Amit (Texas) Patel
+Amit D. Patel
+Amita Patel
+Anand Jetha
+Anand (Texas) Patel
+Anand A Patel
+Anil Bhula
+Anil Kumar
+Anil Patel
+Anju Patel
+Ankita Patel
+Annie Jeon
+Anup Leva
+Arjun Patel
+Armen Grigorian
+Aruna Patel
+Arvind Patel
+Asha Patel 
+Ashish G. Patel
+Ashish P. Patel
+Ashvin Patel
+Atit Mehta
+Ava Patel
+Avani Patel
+Avi (Texas) Patel 
+Avi S Patel
+Bailey Horn 
+Balvant Patel
+Basir Patel
+Bhakti Patel
+Bhanu Bhas
+Bhanu (Afwa) Patel
+Bhanu (Texas) Patel
+Bharat Govin
+Bharat  Patel
+Bhavesh A. Patel
+Bhavesh M. Patel
+Bhavina Patel
+Bhavna Patel
+Bimal Patel
+Bina Patel
+Binisha Patel
+Biraj Desai
+Boskey Patel 
+Brahm Patel 
+Carlos Rodrigues
+Casey Binder
+Champak Patel
+Chandni Patel
+Chintu Patel
+Chirag Patel
+Chris White
+Christian Williams
+Cody Manners-Astley
+Dalsukh Patel
+Damini Patel
+Darryl Nguyen
+Darshan Patel
+Deena Patel
+Deepa Patel
+Derek Atizado
+Destinee White
+Dev (Louisiana) Patel
+Dev H. Patel
+Dev S Patel
+Dharmesh Vanmali
+Diamond Powell
+Dilan (Afwa) Patel
+Dilan K. Patel
+Dilan R. Patel
+Dilip Rama
+Dilip Thakor
+Dilip (Columbus) Patel 
+Dilip (Saroli) Patel
+Dinesh Kanji
 Dinesh Patel
-Gauri Patel
-Kayra Patel
-Sonal (Alpesh) Patel
-Sonal (Dinesh) Patel
-Chaaya P Patel
-Jignesh S Patel
-Parth P Patel
-Pulkit N Patel
-Purab S Patel
-Siddhi P Patel
-Tarlika P Patel
-Urmil N Patel
-Varsha Patel
-Bharti Patel
-Binta Patel
-Dimple Patel
-Dipika Patel
-Kanta Baa
-Kapila Patel
-Troopti Patel
-Vasu Patel
-Ayushi S Patel
-Devashree S Patel
-Hemani N Patel
-Nehal S Patel
-Nikul K Patel
-Nitya N Patel
-Niyam N Patel
-Rupesh B Patel
-Savan M Patel
-Tanvi S Patel
-Arya Patel
-Bharat Patel
-Navya Patel
+Dipak Amthabhai
+Dipak Naran
+Dipal Patel
+Div Patel
+Divya Patel
+Diwaliben Patel
+Elena Ortiz
+Eric Marte
+Erin Carroll 
+Falguni Makanji
+Femina Patel
+Fenil Patel
+Gaurang Makanji
+Gero Bergk
+Gita Patel
+Gita Rama
+Gita (Puna) Patel 
+Gita (Saroli) Patel 
+Gitaba Patel
+Gopal Patel
+Hannah Patel
+Hansa Vanmali
+Harshad Patel
+Hashnu Bergk
+Hasmukh (Georgia) Patel
+Hasmukh B. Patel
+Hemani Desai
+Hemant Desai
+Hetal Kanji 
+Hina (Sampura) Patel 
+Hina A. Patel
+Hiral Patel
+Hitesh (Puna) Patel
+Hitesh H. Patel
+Hitesh P. Patel
+Hitu Heera
+Ila (Afwa) Patel
+Ila S Patel 
+Indu Patel
+Isha Pema 
+Jagdish Patel
+Jagdish (Umrakh) Patel
+Jaiden Patel
+Jamie Nguyen
+Jashu (Navsari) Patel
+Jashu (Texas) Patel
+Jashvanti Patel
+Jasmina Patel
+Jay (Dayton) Patel
+Jay (Toledo) Patel
+Jayesh Kumar
+Jayesh (Florida) Patel 
+Jayesh (Louisiana) Patel
+Jayesh (Toledo) Patel
+Jaynti (Afwa) Patel
+Jaynti (Sampura) Patel
+Jaynti (Tudi) Patel
+Jayshree Patel
+Jekila Patel
+Jennifer Guyer
+Jessal Patel
+Jessica Ortiz
+Jigna Kumar
+Jignesh (Michigan) Patel
+Jignesh (Sampura) Patel 
+Jignesh A. Patel
+Jignesh D. Patel
+Jitendra (Navsari) Patel 
+Jitendra B. Patel 
+Jonny Strang
+Juhi Patel
+Kailen Van
+Kala Patel
+Kalpana Patel
+Kamlesh Patel
+Kanchan Patel
+Kantaben Patel
+Kanti Patel
+Karan Patel
+Karan (Puna)  Patel
+Karli Ching
+Kasey Uyesugi
+Kashmira Patel
+Katrina Bantug-Atizado
+Kavit Patel
+Kavita Patel
+Kayla Furr
+Kayla Music
+Kendall Kulakowski
+Kendra Stark
+Khushbu Sengar-Patel
+Kiran (Devadh) Patel
+Kiran (Sampura) Patel
+Kiran A. Patel
+Kiran T. Patel
+Kirti Patel
+Kisha Patel
+Kishan Patel
+Kishor Patel
+Korina Patel
+Krish Patel
+Krishan Nagin
+Krishan Patel
+Krishna (Dayton) Patel
+Krishna J Patel
+Krutika Patel
+Kush Nagin
+Laren Wall
+Lawrence Monger
+Leela (Indiana) Patel
+Leela J. Patel
+Lina Patel
+Lindsey Binder
+Luca Van
+Madhu Patel
+Madhu (Saroli) Patel
+Mahendra (Detroit) Patel
+Mahendra (North Carolina) Patel
+Mahesh Patel
+Manish Vanmali
+Manoj Desai
+Marisa Gomez
+Maya Vanmali
+Meera Das
+Meera Patel
+Megha Patel
+Melissa Patel
+Melissa Yancey
+Mila Patel
+Mina Patel
+Minaya Patel
+Mo Rammuny 
+Monica Patel 
+Mukesh Jetha
+Mukesh Patel
+Mukesh (Afwa) Patel
+Nada Kaake
+Nadya Patel
+Naisha Patel
+Nathan Stark 
+Natvar Patel
+Nayana Amthabhai
+Nayana (Afwa) Patel
+Nayana (Columbus) Patel
+Nayana (Devadh) Patel
+Nayana (Memphis) Patel
+Nayana (Texas) Patel 
+Nayana D. Patel
+Nayana N. Choksi
+Nayana Y. Patel
+Neela Patel
+Neema Patel
+Nik Patel
+Nikita Patel
+Nila Patel
+Nilesh Pema
+Nirmala Patel
+Nisha Vanmali
+Nita Patel 
+Nitin (Afwa) Patel
+Nitin B. Patel
+Nitin G. Patel
+Padma Patel
+Palak Patel-Rodrigues
+Panna Patel 
+Parbhu Patel
+Paresh (Toledo) Patel
+Paresh J Patel
 Parul Patel
+Parul A. Patel
+Paul Nguyen 
+Payal Patel
+Payal Patel-Marte
+Pina Patel
+Prabha Patel
+Pradip Vij
+Prakash Patel
+Prakash Vanmali
+Pravin (Kentucky) Patel
+Pravin (New York) Patel
+Preet Kingra
+Preyesh Patel
+Priti Grigorian
+Priti Mistry 
+Priti Patel
+Priyanka Patel
+Pushpa Patel
+Radha Pema
+Raj Patel
+Raj Velaithan
+Rajesh B. Patel
+Rajesh J. Patel
+Rajesh K. Patel
+Raji Patel
+Raju Patel
+Raju (Florida) Patel 
+Rakesh Mistry
+Rakesh Patel
+Ramesh (Kentucky) Patel
+Ramesh (Saroli) Patel
+Ramila Patel 
+Randy Risher 
+Rashmi Patel
+Rashmita Patel
+Ravina Patel
 Reema Patel
+Reena Leva
+Reena Patel
+Rekha P. Patel
+Rekha R. Patel
+Reshma Patel
+Riley Binder
+Rina Patel
+Rinkesh Patel
+Romika Patel
+Ronald Powell
+Roshan Patel
+Roshni Patel
+Roshni Vanmali
+Rupal Vij 
+Rutu Metha 
+Sachin Patel
+Sadhana Naran
+Sadhana Thakor
+Sagar (Afwa) Patel
+Sagar (Sampura) Patel
+Sahil (Georgia) Patel
+Sahil S. Patel 
+Sajan Jeram
+Sajan Patel
+Salish Jetha
+Salish (Texas) Patel 
+Sanjay C. Patel
+Sanjay J. Patel
+Sanjay T. Patel
+Sanmukh Patel
+Saraelena Ortiz
+Sarah Ortiz
+Sarina Patel
+Savita Patel
+Savitri Patel 
+Shailesh Patel
+Shalu Patel
+Shanie Veria
+Shanjiv Ambi
+Shannon Carroll
+Shantilal Bhas
+Shantilal Patel
+Sharad Patel
+Shay Pema
+Shayla Melick
+Sheila Velaithan
+Shetal Patel
+Shiela Govin 
 Shilpa Patel
-Ujwal Patel
-Dr. Manulal Patel
-Ghanshyambhai K Patel
-Kaushikbhai B Patel
-Kokiben G Patel
-Parulben K Patel
-Pravinlal Patel
-Surekha M Patel
-Vasantiben P Patel
-Vishal M Patel
-Bipin Patel
-Chaitali Patel
-Chesta Patel
-Hitesha Patel
-Kalpesh Patel
-Mahin Patel
-Monica Patel
-Tushar Patel
-Aisha P Patel
-Aryan Patel
-Dr. Piyush Patel
-Naisha P Patel
-Priyanka P Patel
-Vaishali V Patel
-Vani V Patael
-Vishvesh Patel
-Vyom V Patel
-Babulal Patel
-Baby Patel
-Dipen Patel
-Heta Patel
-Jassi Patel
-Keya Patel
-Krima Patel
-Bhavna K Patel
-Diya J Patel
-Kamlesh A Patel
-Kinjal R Patel
-Naina Patel
-Nikita R Patel
-Rajendrakumar N Patel
-Shivam R Patel
-Surya R Patel
+Shiv Patel
+Shivani Patel
+Shobhana Patel
+Simran Patel
+Smita Desai
+Smita Jetha
+Snehal Patel
+Sonal Patel 
+Spiro Veria
+Steven Trinh
+Suchita Patel 
+Sudha Bhula
+Sumitra Patel
+Sunita Kumar
+Sunny Patel
+Suraj Rama
+Suresh (Dungar) Patel
+Suresh (Saroli) Patel 
+Suresh (Toledo) Patel
+Swati Patel
+Tara (Afwa) Patel 
+Tara (Michigan) Patel
+Tara (Umrakh) Patel
+Tarik Patel 
+Tejal Patel
+Tina Heera
+Tina Mehta
+Tina Patel
+Trisha Patel
+Tulsi (Michigan) Patel
+Tulsi J Patel 
+Umung Patel
+Urmila (Bardoli) Patel
+Urmila (Puna) Patel
+Urmila (Umrakh) Patel 
+Urvashi Patel 
+Urvesh Patel
+Usha Patel
+Utkarsh Patel
+Vaishali Patel
+Vandana Patel
+Vanita Patel 
+Victor Ortiz
+Victor Ortiz Jr
+Vidhi (Louisiana) Patel
+Vidhi K. Patel 
+Vijay Patel
+Vimal Patel
+Vina Jetha
 Vinod Patel
-Daxaben B Patel
-Dr. Baldevbhai P Patel
-Ghanshaymbhai S Patel
-Ghanshyambhai P Patel
-Jashodaben V Patel
-Kamalaben G Patel
-Kanaiyalal P Patel
-Lataben K Patel
-Sudhaben G Patel
-Vasudevbhai P Patel
-Bindu V Patel
-Charu C Patel
-Dharmistha S Patel
-Kamleshkumar Patel
-Nitaben K Patel
-Samir Patel
-Shilpaben S Patel
-Sureshkumar N Patel
-Tirth S Patel
-Vipul Jani 
-Arvindlal G Patel
-Babubhai M Patel
-Dilip B Patel
-Dr. Bhaktilal Patel
-Harikrishnabhai J Patel
-Kailashben A Patel
-Kamleshbhai B Patel
-Kokilaben B Patel
-Shakuntulaben D Patel
-Shardaben B Patel
-Bhagwatiben S Patel
-Dasharathbhai J Patel
-Dr. Samirkumar Patel
-Girdharbhai C Patel
-Hasmukbhai J Patel
-Jyotsnaben V Patel
-Mahendrabhai J Patel
-Manishaben M Patel
-Subhadraben H Patel
-Vishnulal P Patel
+Vipul Mehta
+Viral Patel
+Vishala Patel
+Wael Al-Mahayri
+William Guyer
+Yogesh (Afwa) Patel 
+Yogesh G. Patel 
+Yulissa Serratos-Patel
+Yvette Perry 
+Zach Horn 
+Zach Lulfs
+Zach Music
+Zina Patel
