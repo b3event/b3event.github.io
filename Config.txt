@@ -1,12 +1,12 @@
 Only-Seating-Chart
 Highlight Color
-5c1326
-Text + table color
 efebd3
+Text + table color
+5c1326
 Title of Landing Page
-Welcome to Shalini & Parth's Wedding Weekend
+Welcome to Bhumi & Ravi's Wedding Weekend
 Title of Seating Page
-Welcome to Shalini & Parth's Reception
+Welcome to Bhumi & Ravi's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
