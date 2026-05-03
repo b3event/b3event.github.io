@@ -4,9 +4,9 @@ efebd3
 Text + table color
 5c1326
 Title of Landing Page
-Welcome to Bhumi & Ravi's Wedding Weekend
+Welcome to Mariam & Phillip's Wedding Weekend
 Title of Seating Page
-Welcome to Bhumi & Ravi's Reception
+Welcome to Mariam & Phillip's Reception
 How many lines to leave empty under the landing header
 3
 Planner SMS
