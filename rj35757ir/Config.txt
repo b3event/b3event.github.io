@@ -1,12 +1,12 @@
 Only-Seating-Chart
 Highlight Color
-a2aeb8
+c1bfbd
 Text + table color
-654242
+574c3c
 Title of Landing Page
-Welcome to Eshan & Jaya's Wedding Weekend
+Welcome to Neha & Vijay's Wedding Weekend
 Title of Seating Page
-Welcome to Eshan & Jaya's Reception
+Welcome to Neha & Vijay's Reception
 How many lines to leave empty under the landing header
 0
 Planner SMS
