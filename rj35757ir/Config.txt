@@ -2,7 +2,7 @@ Only-Seating-Chart
 Highlight Color
 c1bfbd
 Text + table color
-574c3c
+f5f5f0
 Title of Landing Page
 Welcome to Neha & Vijay's Wedding Weekend
 Title of Seating Page
