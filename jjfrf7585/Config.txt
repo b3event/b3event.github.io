@@ -8,6 +8,6 @@ Welcome to Akash & Kate's Wedding Weekend
 Title of Seating Page
 Welcome to Akash & Kate's Reception
 How many lines to leave empty under the landing header
-4
+6
 Planner SMS
 sms:+16145479002
