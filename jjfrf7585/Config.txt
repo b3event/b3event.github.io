@@ -4,9 +4,9 @@ d5c6bf
 Text + table color
 100806
 Title of Landing Page
-Welcome to Mohini & Umange's Wedding Weekend
+Welcome to Mohini & Umang's Wedding Weekend
 Title of Seating Page
-Welcome to Mohini & Umange's Reception
+Welcome to Mohini & Umang's Reception
 How many lines to leave empty under the landing header
 10
 Planner SMS
