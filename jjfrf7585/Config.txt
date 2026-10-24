@@ -1,8 +1,8 @@
 Landing-Page-with-Links
 Highlight Color
-d5c6bf
+d8dfcf
 Text + table color
-100806
+2e3820
 Title of Landing Page
 Welcome to Anjali & Shad's Wedding Weekend
 Title of Seating Page
